@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "663b788a3bd772063d2c360c"
+  },
+  "SKU": "TEST",
+  "name": "Tran Quan",
+  "value": "Collections 2024",
+  "image": {
+    "url": "public\\uploads\\1715173514387-407548942-unnamed (1).jpg"
+  },
+  "isSell": false,
+  "price": 0,
+  "quantity": 0,
+  "created_at": {
+    "$date": "2024-05-08T13:05:14.402Z"
+  },
+  "updated_at": {
+    "$date": "2024-05-08T13:05:14.402Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663b79023bd772063d2c3615"
+  },
+  "SKU": "TEST2",
+  "name": "TEST2",
+  "value": "TEST2",
+  "image": {
+    "url": "public\\uploads\\1715173634392-822178910-Flag_of_Vietnam.svg.png"
+  },
+  "isSell": true,
+  "price": 200,
+  "quantity": 10,
+  "created_at": {
+    "$date": "2024-05-08T13:07:14.395Z"
+  },
+  "updated_at": {
+    "$date": "2024-05-08T13:07:14.395Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663b7ace57b588f64414a5c6"
+  },
+  "SKU": "TEST2024 UPDATE",
+  "name": "Cảm biến Update",
+  "value": "TEST Update",
+  "image": {
+    "url": "public\\uploads\\1715174094311-677562750-4b278cc9cade755f8ea961c4c64e5037~c5_100x100 (1).jpeg"
+  },
+  "isSell": false,
+  "price": 0,
+  "quantity": 0,
+  "created_at": {
+    "$date": "2024-05-08T13:14:54.323Z"
+  },
+  "updated_at": {
+    "$date": "2024-05-08T13:14:54.323Z"
+  },
+  "__v": 0
+}]

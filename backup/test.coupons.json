@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "668d0b2f18b223faa4e1f26e"
+  },
+  "id": "471883",
+  "name": "Discount 30% for cameras",
+  "category": {
+    "$oid": "666027a3ca86f6cbd61082a7"
+  },
+  "discount": 30,
+  "minPrice": 20000000,
+  "maxDiscount": 2000000,
+  "image": {
+    "name": "1720519471876-390657977-Untitled.png",
+    "url": "public/uploads/1720519471876-390657977-Untitled.png"
+  },
+  "start_date": {
+    "$date": "2024-07-09T10:06:00.000Z"
+  },
+  "end_date": {
+    "$date": "2024-07-10T10:04:00.000Z"
+  },
+  "expired": false,
+  "status": "In Progress",
+  "created_at": {
+    "$date": "2024-07-09T10:04:31.961Z"
+  },
+  "__v": 0
+}]

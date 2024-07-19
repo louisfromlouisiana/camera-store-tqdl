@@ -1,0 +1,1169 @@
+[{
+  "_id": {
+    "$oid": "664df9089f9eda3a4c4dc34c"
+  },
+  "name": "Sony FE 50mm F1.8",
+  "description": "\"<p><strong>Sony FE 50mm F1.8 nhỏ gọn, tiện lợi</strong></p><p><br></p><p>Nhỏ, nhẹ, sáng là những gì mà bạn có thể cảm nhận được ngay khi cầm vào chiếc lens này. Tiêu cự 50mm cùng khẩu độ lớn là một yếu tố cần thiết cho người sử dụng máy ảnh full-frame chuyên nghiệp. Điều đó khiến Sony FE 50mm f/1.8 trở thành một lựa chọn tuyệt vời và kinh tế.</p><p><br></p><p>Sony FE 50mm f/1.8 là ống kính mirrorless, với thiết kế nhỏ gọn và trọng lượng chỉ 186 gram nên dù gắn trên máy ảnh hay cất gọn trong túi, ống kính này luôn sẵn sàng bất cứ khi nào bạn cần. Kích thước và trọng lượng của ống kính này rất phù hợp với thân máy thuộc dòng sony α7 nhỏ gọn, đem lại một tổng thể hài hòa, nổi bật, bạn có thể dễ dàng mang theo và thao tác.</p><p><br></p><p><img src=\\\"https://cdn.vjshop.vn/ong-kinh/mirrorless/sony/sony-fe-50mm-f18/anh-mo-ta/sony-fe-50mm-f18.jpg\\\"></p><p><br></p><p><strong>Khẩu độ tối đa F1.8</strong></p><p><br></p><p>Với ưu điểm khẩu độ lớn cực đại lên đến F/1.8 cùng sự kết hợp màn chắn khẩu độ tròn 7 lá giúp tạo nên hiệu ứng bokeh tuyệt đẹp, khiến chủ thể thêm nổi bật, hình ảnh có chiều sâu hơn.</p><p><br></p><p>Khẩu độ F/1.8 chính là một lợi thế khi chụp cảnh ban đêm hay trong nhà có ánh sáng yếu. Cùng với thân máy ảnh dòng α có tích hợp sẵn tính năng ổn định hình ảnh thì kể cả người dùng chụp tay trong điều kiện thiếu sáng, hình ảnh tạo ra vẫn rõ nét mà không cần phải tăng ISO quá cao.</p><p><br></p><p><img src=\\\"https://cdn.vjshop.vn/ong-kinh/mirrorless/sony/sony-fe-50mm-f18/anh-mo-ta/sony-fe-50mm-f18-1.jpg\\\"></p>\"",
+  "price": 6290000,
+  "availableQuantity": 5,
+  "quantity": 5,
+  "category": {
+    "$oid": "664df50b9f9eda3a4c4dc2e6"
+  },
+  "coupon": null,
+  "images": [
+    {
+      "name": "1716386056080-352227297-tempImageGQ9gFm.jpg",
+      "url": "public/uploads/1716386056080-352227297-tempImageGQ9gFm.jpg",
+      "_id": {
+        "$oid": "664df9089f9eda3a4c4dc34d"
+      }
+    }
+  ],
+  "specifications": [
+    {
+      "name": "Tiêu cự",
+      "value": "50mm",
+      "_id": {
+        "$oid": "664df9089f9eda3a4c4dc34e"
+      }
+    },
+    {
+      "name": "Khẩu độ",
+      "value": "f/1.8 - f/22",
+      "_id": {
+        "$oid": "664df9089f9eda3a4c4dc34f"
+      }
+    },
+    {
+      "name": "Ngàm",
+      "value": "Sony E",
+      "_id": {
+        "$oid": "664df9089f9eda3a4c4dc350"
+      }
+    },
+    {
+      "name": "Định dạng ống kính",
+      "value": "Full-Frame",
+      "_id": {
+        "$oid": "664df9089f9eda3a4c4dc351"
+      }
+    },
+    {
+      "name": "Góc nhìn",
+      "value": "47°",
+      "_id": {
+        "$oid": "664df9089f9eda3a4c4dc352"
+      }
+    },
+    {
+      "name": "Khoảng cách lấy nét tối thiểu",
+      "value": "45cm",
+      "_id": {
+        "$oid": "664df9089f9eda3a4c4dc353"
+      }
+    },
+    {
+      "name": "Độ phóng đại",
+      "value": "0.14x",
+      "_id": {
+        "$oid": "664df9089f9eda3a4c4dc354"
+      }
+    },
+    {
+      "name": "Thành phần quang học",
+      "value": "6 thành phần trong 5 nhóm",
+      "_id": {
+        "$oid": "664df9089f9eda3a4c4dc355"
+      }
+    },
+    {
+      "name": "Số lá khẩu",
+      "value": "7",
+      "_id": {
+        "$oid": "664df9089f9eda3a4c4dc356"
+      }
+    },
+    {
+      "name": "Loại lấy nét",
+      "value": "Autofocus",
+      "_id": {
+        "$oid": "664df9089f9eda3a4c4dc357"
+      }
+    },
+    {
+      "name": "Chống rung",
+      "value": "Không",
+      "_id": {
+        "$oid": "664df9089f9eda3a4c4dc358"
+      }
+    },
+    {
+      "name": "Kích thước filter",
+      "value": "49mm",
+      "_id": {
+        "$oid": "664df9089f9eda3a4c4dc359"
+      }
+    },
+    {
+      "name": "Kích thước ",
+      "value": "68.6 x 59.5 mm",
+      "_id": {
+        "$oid": "664df9089f9eda3a4c4dc35a"
+      }
+    },
+    {
+      "name": "Trọng lượng",
+      "value": "186g",
+      "_id": {
+        "$oid": "664df9089f9eda3a4c4dc35b"
+      }
+    }
+  ],
+  "questions": [],
+  "status": "active",
+  "created_at": {
+    "$date": "2024-05-22T13:54:16.083Z"
+  },
+  "updated_at": {
+    "$date": "2024-05-22T13:54:16.083Z"
+  },
+  "createdAt": {
+    "$date": "2024-05-22T13:54:16.084Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-23T09:21:40.643Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664ee38a8977c08fb8335e7c"
+  },
+  "name": "Canon M3 (body)",
+  "description": "\"<p>Quay video chất lượng cao trong một thân máy nhỏ gọn là những gì người đam mê công nghệ nói về&nbsp;Canon EOS M3. Đặc trưng với Canon M3 không gương lật với cảm biến CMOS 24,2MP APS-C có độ phân giải cao và tiếng ồn thấp, người dùng sẽ có thể bắt đầu&nbsp;quay video Full HD&nbsp;nhanh chóng và dễ dàng. Máy ảnh này cũng được hưởng lợi từ hệ thống Hybrid CMOS AF để lấy nét liên tục và nhanh chóng, hoạt động tốt với động cơ STM.</p><p><br></p><p><strong>Bộ xử lý hình ảnh và cảm biến</strong></p><p>Cảm biến CMOS 24,2MP APS-C độ phân giải cao và bộ xử lý hình ảnh DIGIC 6 hiệu năng cao kết hợp để cung cấp AF nhanh, chất lượng hình ảnh vượt trội và chi tiết sắc nét trong cả ảnh và video.</p><p><br></p><p><strong>Quay phim 1080p HD đầy đủ</strong></p><p>Quay phim HD 1080p đầy đủ ở tốc độ 24, 25 hoặc 30 fps với âm thanh nổi khi sử dụng micrô ngoài sử dụng giắc cắm đầu vào 3,5 mm. Chế độ Phim thủ công cho phép bạn kiểm soát hoàn toàn việc quay video bằng cách điều chỉnh tốc độ cửa trập, khẩu độ và ISO.</p><p><img src=\\\"https://bizweb.dktcdn.net/100/107/650/products/eosm8.jpg?v=1562324196053\\\"></p><p><strong>Độ nhạy ISO</strong></p><p>Độ nhạy ISO trên dải M3 từ 100-12800, nhưng mở rộng đến 25600 cho tốc độ màn trập nhanh hơn và chi tiết sắc nét hơn trong điều kiện ánh sáng yếu.</p><p><br></p><p><strong>Hybrid CMOS AF III</strong></p><p>Kết hợp cả AF tương phản và AF phát hiện pha tăng độ chính xác và tốc độ lấy nét tự động trong cả ảnh và video.</p><p><br></p><p><strong>Tập trung tay</strong></p><p>Khi lấy nét theo cách thủ công, bạn có thể phóng đại bất kỳ điểm nào trên màn hình LCD 5x hoặc 10x và tiêu điểm có thể được xác nhận với tiêu điểm lấy nét trên màn hình.</p><p><br></p><p><br></p>\"",
+  "price": 5499983,
+  "availableQuantity": 5,
+  "quantity": 5,
+  "category": {
+    "$oid": "664ee1948977c08fb8335e57"
+  },
+  "coupon": null,
+  "images": [
+    {
+      "name": "1716446090568-157338830-May-Anh-Canon-EOS-M3-body--Den-Hang-Nhap-Khau-jpg.jpg",
+      "url": "public/uploads/1716446090568-157338830-May-Anh-Canon-EOS-M3-body--Den-Hang-Nhap-Khau-jpg.jpg",
+      "_id": {
+        "$oid": "664ee38a8977c08fb8335e7d"
+      }
+    }
+  ],
+  "specifications": [
+    {
+      "name": "Cảm biến",
+      "value": "CMOS APS-C 24.2MP",
+      "_id": {
+        "$oid": "664ee38a8977c08fb8335e7e"
+      }
+    },
+    {
+      "name": "Bộ xử lý hình ảnh",
+      "value": "DIGIC 6",
+      "_id": {
+        "$oid": "664ee38a8977c08fb8335e7f"
+      }
+    },
+    {
+      "name": "Điểm lấy nét",
+      "value": "49",
+      "_id": {
+        "$oid": "664ee38a8977c08fb8335e80"
+      }
+    },
+    {
+      "name": "Màn hình",
+      "value": "LCD 3.0 inch cảm ứng xoay lật 180°",
+      "_id": {
+        "$oid": "664ee38a8977c08fb8335e81"
+      }
+    },
+    {
+      "name": "Tộc độ màn trập",
+      "value": "1/4000 - 30 giây",
+      "_id": {
+        "$oid": "664ee38a8977c08fb8335e82"
+      }
+    },
+    {
+      "name": "ISO",
+      "value": "100 - 12800",
+      "_id": {
+        "$oid": "664ee38a8977c08fb8335e83"
+      }
+    },
+    {
+      "name": "Quay phim",
+      "value": "Full HD tại 24, 25 và 30 fps",
+      "_id": {
+        "$oid": "664ee38a8977c08fb8335e84"
+      }
+    },
+    {
+      "name": "Kết nối ",
+      "value": "Wifi",
+      "_id": {
+        "$oid": "664ee38a8977c08fb8335e85"
+      }
+    },
+    {
+      "name": "Thẻ nhớ",
+      "value": "SD / SDHX / SDXC",
+      "_id": {
+        "$oid": "664ee38a8977c08fb8335e86"
+      }
+    },
+    {
+      "name": "Trọng lượng",
+      "value": "85g",
+      "_id": {
+        "$oid": "664ee38a8977c08fb8335e87"
+      }
+    },
+    {
+      "name": "Pin",
+      "value": "LP-E17",
+      "_id": {
+        "$oid": "664ee38a8977c08fb8335e88"
+      }
+    },
+    {
+      "name": "Ngàm",
+      "value": "EF-M",
+      "_id": {
+        "$oid": "664ee38a8977c08fb8335e89"
+      }
+    }
+  ],
+  "questions": [],
+  "status": "active",
+  "created_at": {
+    "$date": "2024-05-23T06:34:50.575Z"
+  },
+  "updated_at": {
+    "$date": "2024-05-23T06:34:50.575Z"
+  },
+  "createdAt": {
+    "$date": "2024-05-23T06:34:50.577Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-23T06:34:50.577Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664ee5bf8977c08fb8335f1a"
+  },
+  "name": "Sony a6300",
+  "description": "\"<p><strong>Cảm biến Exmor CMOS 24.2MP và bộ xử lý hình ảnh BIONZ X</strong></p><p><img src=\\\"https://bizweb.dktcdn.net/100/107/650/products/a6300c.jpg?v=1675075108773\\\"></p><p><strong>Sony Alpha A6300</strong>&nbsp;được trang bị cảm biến APS-C Exmor CMOS với bộ xử lý hình ảnh BIONZ X cho hình ảnh chất lượng cao và mịn màng với dải nhạy sáng cao từ ISO 100-25.600 và hơn thế nữa có thể được mở rộng đến ISO 51200. Cảm biến có thiết kế độc đáo bằng cách sử dụng dây đồng mỏng và bộ xử lý mạch tăng cường khả năng thu thập ánh sáng, khử nhiễu và tăng tốc độ quay video. Kết hợp hoàn hảo giữa cảm biến và bộ xử lý hình ảnh cho tốc độ chụp liên tục từ 11 fps lên đến 21 fps định dạnh raw trong một lần chụp với AF hay AE.&nbsp;<strong>A6300</strong>&nbsp;cũng ấn tượng với khả năng hỗ trợ ở chế độ live-view mà chụp liên tiếp lên tới 8 fps.</p><p><br></p><p><strong>Hệ thống lấy nét 4D Focus</strong></p><p>Bao phủ gần như toàn bộ khu vực cảm biến, hệ thống lấy nét 4D Focus mạnh mẽ với tốc độ lấy nét nhanh nhất thế giới 0.05 giây. Hệ thống AF gồm 425 điểm AF lấy nét theo pha bao phủ toàn bộ khung hình và khi chụp liên tiếp 11fps với khả năng lấy nét liên tục, lấy nét theo chủ thể chuyển động cùng 169 điểm tự động dò tìm khu vực lấy nét chính xác. Khi lấy nét, máy có khả năng tự động kích hoạt hệ thống theo dõi các điểm khác nằm ngoài vùng nét của vật thể, nếu có sự dịch chuyển của vật thể thì hệ thống sẽ tùy chỉnh lấy nét ngay lập tức, mật độ điểm nét dự phòng này nhiều gấp 7.5 lần so với phiên bản A6000. Ngoài tính năng tự động lấy nét, Sony Alpha A6300 cũng có tính năng Peaking MF cho người dùng có thể kiểm soát việc lấy nét bằng tay bởi khả năng lấy nét cực nhanh và chính xác.</p><p><br></p><p><strong>Quay video UHD 4K</strong></p><p>Khả năng quay video là điểm đáng chú ý đối với phiên bản&nbsp;<strong>máy ảnh A6300 +Kit 16-50mm</strong>. Quay video 4K hệ code6 XAVC S ghi hình với bit rate 100Mbps và 50MBps ở chế độ FHD. Ngoài ra người dùng cũng có thể quay FHD tại 120fps, 100Mbps cho phép hậu kỳ dựng phim đổi tốc độ chuyển động chậm từ 4x - 5x với Full HD8 (20p / 30p). Không gian gam màu của video quay bằng Sony A6300 cũng rộng hơn với S-Log3 hỗ trợ S-Gam. Thêm vào độ là độ phân giải cao khi quay video, với cổng HDMI cũng có thể sử dụng máy ghi âm bên ngoài để cho âm thanh trong trẻo hơn với 4:2:2.</p><p><br></p><p><strong>Zebra và Gamma Display Assist</strong></p><p>Với chức năng Zebra được cải tiến rất lý tưởng để hoạt động cùng với các cấu hình gamma S-Log và hỗ trợ trong việc giám sát các giá trị phơi sáng trong những cảnh có độ tương phản.Mục tiêu video mức tín hiệu có thể được thiết lập 0-109 và phạm vi cụ thể có thể được thiết lập để thực hiện điều chỉnh mức sáng dễ dàng hơn.</p><p>Ngược lại, Display Gamma với chức năng hỗ trợ có sẵn sẽ hiển thị những cảnh có độ tương phản tự nhiên khi thu âm với các thiết lập S-Log. Hàm này chuyển đổi hình ảnh sang ITU709 để theo dõi trên máy ảnh dễ dàng hơn.</p><p><br></p><p><strong>Time Code và thiết lập User Bit</strong></p><p>Với Time Code người dùng có thể sử dụng để ghi giờ, phút, giây trên hình ảnh để giúp người dùng chỉnh sửa chính xác hơn trong khi chức năng User Bit có thể ghi lại ngày tháng, thời gian và số lượng ảnh để hỗ trợ trong việc chỉnh sửa với các cảnh quay từ nhiều camera.</p><p><br></p><p><strong>Thiết kế</strong></p><p><br></p><p><strong>Máy ảnh Sony Alpha A6300 +Kit</strong>&nbsp;được làm tự hợp kim Magie siêu bền và chắc chắn kết hợp với khả năng chống bụi, chống ẩm và thời tiết khắc nghiệt. Kính ngắm điện tử OLED 2.36m-dot có độ phân giải cao giúp cho việc theo dõi tầm mắt và theo dõi đối tượng chuyển động một cách mượt mà. Riêng màn hình LCD 3.0 inch 921.6K-dot có thể nghiêng 90° và xuống 45° cho phép bạn làm việc từ góc độ cao xuống góc độ thấp hiệu quả. Màn hình cũng kết hợp công nghệ White Magic với cấu trúc điểm ảnh RGBW giúp tăng độ sáng và hỗ trợ sử dụng trong điều kiện ánh sáng ban ngày.</p><p>Tích hợp Wifi trên Sony Alpha A6300 cho phép người dùng có thể lập tức chia sẻ hình ảnh của mình với các thiết bị di động để chia sẻ trực tiếp trên mạng xã hội như email, lưu trữ đám mây. Ngoài ra công nghệ NFC cũng được hỗ trợ, cho phép kết nối một chạm giữa máy ảnh và thiết bị di động tương thích một cách đơn giản.</p><p>Kho ứng dụng PlayMemories của máy ảnh cũng được hỗ trợ thông qua tích hợp kết nối Wifi cho phép bạn cá nhân hóa các tính năng của máy ảnh tùy thuộc vào phong cách chụp ảnh của riêng bạn. Ứng dụng có sẵn để phù hợp tạo ra các bức chân dung, cận cảnh, thể thao, time lapse, motion shot và nhiều thể loại hình ảnh khác.</p><p><br></p>\"",
+  "price": 10630000,
+  "availableQuantity": 3,
+  "quantity": 3,
+  "category": {
+    "$oid": "664ee1948977c08fb8335e57"
+  },
+  "coupon": null,
+  "images": [
+    {
+      "name": "1716446655897-622667907-sony-alpha-a6300-black.jpg",
+      "url": "public/uploads/1716446655897-622667907-sony-alpha-a6300-black.jpg",
+      "_id": {
+        "$oid": "664ee5bf8977c08fb8335f1b"
+      }
+    }
+  ],
+  "specifications": [
+    {
+      "name": "Cảm biến",
+      "value": "CMOS APS-C 25.0MP",
+      "_id": {
+        "$oid": "664ee5bf8977c08fb8335f1c"
+      }
+    },
+    {
+      "name": "Bộ xử lý hình ảnh",
+      "value": "Exmor",
+      "_id": {
+        "$oid": "664ee5bf8977c08fb8335f1d"
+      }
+    },
+    {
+      "name": "Điểm lấy nét",
+      "value": "425",
+      "_id": {
+        "$oid": "664ee5bf8977c08fb8335f1e"
+      }
+    },
+    {
+      "name": "Màn hình",
+      "value": "2.95 inch",
+      "_id": {
+        "$oid": "664ee5bf8977c08fb8335f1f"
+      }
+    },
+    {
+      "name": "Tốc độ màn trập",
+      "value": "1/4000 - 30 giây",
+      "_id": {
+        "$oid": "664ee5bf8977c08fb8335f20"
+      }
+    },
+    {
+      "name": "ISO",
+      "value": "100 - 51200",
+      "_id": {
+        "$oid": "664ee5bf8977c08fb8335f21"
+      }
+    },
+    {
+      "name": "Quay phim",
+      "value": "4K tại tối đa 30fps",
+      "_id": {
+        "$oid": "664ee5bf8977c08fb8335f22"
+      }
+    },
+    {
+      "name": "Kết nối",
+      "value": "Wifi / NFC",
+      "_id": {
+        "$oid": "664ee5bf8977c08fb8335f23"
+      }
+    },
+    {
+      "name": "Thẻ nhớ",
+      "value": "Memory Stick Duo",
+      "_id": {
+        "$oid": "664ee5bf8977c08fb8335f24"
+      }
+    },
+    {
+      "name": "Trọng lượng",
+      "value": "400g",
+      "_id": {
+        "$oid": "664ee5bf8977c08fb8335f25"
+      }
+    },
+    {
+      "name": "Pin",
+      "value": "NP-FW50",
+      "_id": {
+        "$oid": "664ee5bf8977c08fb8335f26"
+      }
+    },
+    {
+      "name": "Ngàm",
+      "value": "Sony-E",
+      "_id": {
+        "$oid": "664ee5bf8977c08fb8335f27"
+      }
+    }
+  ],
+  "questions": [],
+  "status": "active",
+  "created_at": {
+    "$date": "2024-05-23T06:44:15.905Z"
+  },
+  "updated_at": {
+    "$date": "2024-05-23T06:44:15.905Z"
+  },
+  "createdAt": {
+    "$date": "2024-05-23T06:44:15.906Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-23T06:44:15.906Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664ee8288977c08fb833605d"
+  },
+  "name": "CANON EF 85MM F/1.2L II USM",
+  "description": "\"<p>Canon 85mm f1.2L II USM là ống kính cao cấp trong dòng ống kính DSRL của Canon. Với kích thước khoảng 91.5 x 84 mm và trọng lượng 1025g, Canon 85mm f1.2L II USM được đánh giá là ống kính khá to và nặng so với các ống kính khác cùng dòng DSRL.</p><p><br></p><p>Ống kính có vòng xoay được làm từ chất liệu cao cấp kết hợp với ngàm kim loại chất lượng cao, bao bên ngoài là vỏ bọc cao su mang lại cảm giác chắc chắn khi cầm. Thiết kế của ống kính giúp chống nước, chống bụi phù hợp sử dụng trong nhiều điều kiện thời tiết và môi trường khác nhau.</p><p><img src=\\\"https://cdn.vjshop.vn/ong-kinh/dslr/canon/canon-85mm-f1-2l-ii-usm/canon-85mm-f12l-ii-usm.jpg\\\"></p><p><br></p><p><br></p>\"",
+  "price": 25000000,
+  "availableQuantity": 3,
+  "quantity": 3,
+  "category": {
+    "$oid": "664df50b9f9eda3a4c4dc2e6"
+  },
+  "coupon": null,
+  "images": [
+    {
+      "name": "1716447272713-21433198-canon_rf_85mm_f_1_2l_usm_1477265.jpg",
+      "url": "public/uploads/1716447272713-21433198-canon_rf_85mm_f_1_2l_usm_1477265.jpg",
+      "_id": {
+        "$oid": "664ee8288977c08fb833605e"
+      }
+    }
+  ],
+  "specifications": [
+    {
+      "name": "Tiêu cự",
+      "value": "85mm",
+      "_id": {
+        "$oid": "664ee8288977c08fb833605f"
+      }
+    },
+    {
+      "name": "Khẩu độ",
+      "value": "f/1.2 - f/16",
+      "_id": {
+        "$oid": "664ee8288977c08fb8336060"
+      }
+    },
+    {
+      "name": "Ngàm",
+      "value": "Canon EF",
+      "_id": {
+        "$oid": "664ee8288977c08fb8336061"
+      }
+    },
+    {
+      "name": "Định dạng ống kinh",
+      "value": "Full-frame",
+      "_id": {
+        "$oid": "664ee8288977c08fb8336062"
+      }
+    },
+    {
+      "name": "Góc nhìn",
+      "value": "16°",
+      "_id": {
+        "$oid": "664ee8288977c08fb8336063"
+      }
+    },
+    {
+      "name": "Khoảng cách lấy nét tối thiểu",
+      "value": "0.95m",
+      "_id": {
+        "$oid": "664ee8288977c08fb8336064"
+      }
+    },
+    {
+      "name": "Độ phóng đại",
+      "value": "0.11x",
+      "_id": {
+        "$oid": "664ee8288977c08fb8336065"
+      }
+    },
+    {
+      "name": "Thành phần quang học",
+      "value": "8 thành phần trong 7 nhóm",
+      "_id": {
+        "$oid": "664ee8288977c08fb8336066"
+      }
+    },
+    {
+      "name": "Số lá khẩu",
+      "value": "8",
+      "_id": {
+        "$oid": "664ee8288977c08fb8336067"
+      }
+    },
+    {
+      "name": "Loại lấy nét",
+      "value": "Autofocus",
+      "_id": {
+        "$oid": "664ee8288977c08fb8336068"
+      }
+    },
+    {
+      "name": "Chống rung",
+      "value": "Không",
+      "_id": {
+        "$oid": "664ee8288977c08fb8336069"
+      }
+    },
+    {
+      "name": "Kích thước filter",
+      "value": "72mm",
+      "_id": {
+        "$oid": "664ee8288977c08fb833606a"
+      }
+    },
+    {
+      "name": "Kích thước",
+      "value": "91.5 x 84.0mm",
+      "_id": {
+        "$oid": "664ee8288977c08fb833606b"
+      }
+    },
+    {
+      "name": "Trọng lượng",
+      "value": "1025g",
+      "_id": {
+        "$oid": "664ee8288977c08fb833606c"
+      }
+    }
+  ],
+  "questions": [],
+  "status": "active",
+  "created_at": {
+    "$date": "2024-05-23T06:54:32.719Z"
+  },
+  "updated_at": {
+    "$date": "2024-05-23T06:54:32.719Z"
+  },
+  "createdAt": {
+    "$date": "2024-05-23T06:54:32.720Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-23T09:21:40.644Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664ee8bf8977c08fb83360b2"
+  },
+  "name": "Thẻ nhớ SDXC SanDisk Extreme Pro U3 V30 64GB",
+  "description": "\"<p>Thẻ nhớ SDXC SanDisk Extreme Pro U3 V30 64GB 200MB/s là dòng thẻ nhớ phân khúc tốc độ thuộc hàng nhanh nhất của Sandisk, cung cấp tốc độ 200MB/s cực mạnh cực nhanh đáp ứng mọi nhu cầu của người dùng với chất lượng quay video 4K. Với khả năng ghi lên đến 90MB/s Thẻ nhớ xử lý các chế độ chụp nhanh, chụp liên tiếp và chụp RAW với JPEG cực kỳ dễ dàng. Ngoài ra thẻ nhớ SDXC SanDisk Extreme Pro U3 V30 64GB 200MB/s dễ dàng phục hồi dữ liệu với phần mềm RescuePRO, phần mềm này hỗ trợ bạn phục hồi lại toàn bộ dữ liệu tập tin đã bị xóa.</p>\"",
+  "price": 390000,
+  "availableQuantity": 4,
+  "quantity": 5,
+  "category": {
+    "$oid": "664df5279f9eda3a4c4dc2e9"
+  },
+  "coupon": null,
+  "images": [
+    {
+      "name": "1716447423319-777272148-the-nho-sdxc-64gb-200mbs-500x500.jpg",
+      "url": "public/uploads/1716447423319-777272148-the-nho-sdxc-64gb-200mbs-500x500.jpg",
+      "_id": {
+        "$oid": "664ee8bf8977c08fb83360b3"
+      }
+    }
+  ],
+  "specifications": [
+    {
+      "name": "Nhà sản xuất",
+      "value": "SanDisk",
+      "_id": {
+        "$oid": "664ee8bf8977c08fb83360b4"
+      }
+    },
+    {
+      "name": "Model",
+      "value": "Extreme Pro",
+      "_id": {
+        "$oid": "664ee8bf8977c08fb83360b5"
+      }
+    },
+    {
+      "name": "Loại thẻ nhớ",
+      "value": "SDXC",
+      "_id": {
+        "$oid": "664ee8bf8977c08fb83360b6"
+      }
+    },
+    {
+      "name": "Dung lượng",
+      "value": "64GB",
+      "_id": {
+        "$oid": "664ee8bf8977c08fb83360b7"
+      }
+    },
+    {
+      "name": "Tốc độ đọc",
+      "value": "200 MB/s",
+      "_id": {
+        "$oid": "664ee8bf8977c08fb83360b8"
+      }
+    },
+    {
+      "name": "Tốc độ ghi",
+      "value": "90 MB/s",
+      "_id": {
+        "$oid": "664ee8bf8977c08fb83360b9"
+      }
+    }
+  ],
+  "questions": [],
+  "status": "active",
+  "created_at": {
+    "$date": "2024-05-23T06:57:03.324Z"
+  },
+  "updated_at": {
+    "$date": "2024-05-23T06:57:03.324Z"
+  },
+  "createdAt": {
+    "$date": "2024-05-23T06:57:03.325Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-23T08:46:04.859Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664ee9618977c08fb8336147"
+  },
+  "name": "DJI Mini 4 Pro ND Filters Set (ND 16/64/256)",
+  "description": "\"<p>DJI Mini 4 Pro ND Filters Set (ND 16/64/256) được thiết kế bằng chất liệu đặc biệt, có thể thích ứng tốt trong điều kiện ánh sáng mạnh. Ánh sáng khi đi qua thấu kính sẽ được điều chỉnh phù hợp với mức ảnh sáng tốt nhất để ghi lại những khung cảnh tuyệt đẹp. Bộ kính lọc ND16/64/256 là phụ kiện cần thiết cho DJI Mini 4 pro, đảm bảo đáp ứng được hầu hết các tình huống khi chụp ảnh timelapse hay quay chụp trong điều kiện nắng gắt, ánh sáng từ các loại đèn chiếu sáng công suất lớn,...</p><p><br></p><p><strong>Thông số kỹ thuật</strong></p><p><img src=\\\"https://cdn.vjshop.vn/flycam/phu-kien-flycam/dji-mini-4-pro-nd-filters-set-nd/dji-mini-4-pro-nd-filter.jpg\\\"></p><p>Trọng lượng: 0.75 g/1 filter.</p><p><br></p><p><strong>Các bộ lọc bao gồm</strong></p><ul><li>ND16 Filter × 1</li><li>ND64 Filter × 1</li><li>ND256 Filter × 1</li></ul>\"",
+  "price": 1100000,
+  "availableQuantity": 3,
+  "quantity": 3,
+  "category": {
+    "$oid": "664df5279f9eda3a4c4dc2e9"
+  },
+  "coupon": null,
+  "images": [
+    {
+      "name": "1716447585982-102156383-filter-dji-mini-4-pro-8-500x500.jpg",
+      "url": "public/uploads/1716447585982-102156383-filter-dji-mini-4-pro-8-500x500.jpg",
+      "_id": {
+        "$oid": "664ee9618977c08fb8336148"
+      }
+    }
+  ],
+  "specifications": [
+    {
+      "name": "Trọng lượng",
+      "value": "0.75g",
+      "_id": {
+        "$oid": "664ee9618977c08fb8336149"
+      }
+    }
+  ],
+  "questions": [],
+  "status": "active",
+  "created_at": {
+    "$date": "2024-05-23T06:59:45.985Z"
+  },
+  "updated_at": {
+    "$date": "2024-05-23T06:59:45.985Z"
+  },
+  "createdAt": {
+    "$date": "2024-05-23T06:59:45.986Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-26T17:49:01.102Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665072bef0f30d7923ef999c"
+  },
+  "name": "t12",
+  "description": "<p>t1</p>",
+  "price": 20,
+  "availableQuantity": 2,
+  "quantity": 2,
+  "category": {
+    "$oid": "664df5279f9eda3a4c4dc2e9"
+  },
+  "coupon": null,
+  "images": [
+    {
+      "name": "1716548286120-890362075-vlcsnap-2022-09-29-22h40m17s961.png",
+      "url": "public/uploads/1716548286120-890362075-vlcsnap-2022-09-29-22h40m17s961.png",
+      "_id": {
+        "$oid": "665072bef0f30d7923ef999d"
+      }
+    }
+  ],
+  "specifications": [],
+  "questions": [],
+  "status": "active",
+  "created_at": {
+    "$date": "2024-05-24T10:58:06.142Z"
+  },
+  "updated_at": {
+    "$date": "2024-05-26T18:13:34.095Z"
+  },
+  "createdAt": {
+    "$date": "2024-05-24T10:58:06.148Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-26T18:13:34.095Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665072c4f0f30d7923ef99e6"
+  },
+  "name": "t2",
+  "description": "\"<p><br></p>\"",
+  "price": 20,
+  "availableQuantity": 2,
+  "quantity": 2,
+  "category": {
+    "$oid": "664df5279f9eda3a4c4dc2e9"
+  },
+  "coupon": null,
+  "images": [
+    {
+      "name": "1716548292774-8711464-vlcsnap-2022-09-29-22h40m17s961.png",
+      "url": "public/uploads/1716548292774-8711464-vlcsnap-2022-09-29-22h40m17s961.png",
+      "_id": {
+        "$oid": "665072c4f0f30d7923ef99e7"
+      }
+    }
+  ],
+  "specifications": [],
+  "questions": [],
+  "status": "active",
+  "created_at": {
+    "$date": "2024-05-24T10:58:12.794Z"
+  },
+  "updated_at": {
+    "$date": "2024-05-24T10:58:12.794Z"
+  },
+  "createdAt": {
+    "$date": "2024-05-24T10:58:12.795Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-24T10:58:12.795Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665072ecf0f30d7923ef9ac7"
+  },
+  "name": "t3",
+  "description": "\"<p>t3</p>\"",
+  "price": 2000,
+  "availableQuantity": 2,
+  "quantity": 2,
+  "category": {
+    "$oid": "664df5279f9eda3a4c4dc2e9"
+  },
+  "coupon": null,
+  "images": [
+    {
+      "name": "1716548332145-820399635-vlcsnap-2022-10-06-16h11m18s541.png",
+      "url": "public/uploads/1716548332145-820399635-vlcsnap-2022-10-06-16h11m18s541.png",
+      "_id": {
+        "$oid": "665072ecf0f30d7923ef9ac8"
+      }
+    }
+  ],
+  "specifications": [],
+  "questions": [],
+  "status": "active",
+  "created_at": {
+    "$date": "2024-05-24T10:58:52.155Z"
+  },
+  "updated_at": {
+    "$date": "2024-05-24T10:58:52.155Z"
+  },
+  "createdAt": {
+    "$date": "2024-05-24T10:58:52.156Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-24T10:58:52.156Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665072f3f0f30d7923ef9b13"
+  },
+  "name": "t4",
+  "description": "\"<p>t4</p>\"",
+  "price": 2000,
+  "availableQuantity": 2,
+  "quantity": 2,
+  "category": {
+    "$oid": "664df5279f9eda3a4c4dc2e9"
+  },
+  "coupon": null,
+  "images": [
+    {
+      "name": "1716548339435-478944604-vlcsnap-2022-10-06-16h11m18s541.png",
+      "url": "public/uploads/1716548339435-478944604-vlcsnap-2022-10-06-16h11m18s541.png",
+      "_id": {
+        "$oid": "665072f3f0f30d7923ef9b14"
+      }
+    }
+  ],
+  "specifications": [],
+  "questions": [],
+  "status": "active",
+  "created_at": {
+    "$date": "2024-05-24T10:58:59.450Z"
+  },
+  "updated_at": {
+    "$date": "2024-05-24T10:58:59.450Z"
+  },
+  "createdAt": {
+    "$date": "2024-05-24T10:58:59.451Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-24T10:58:59.451Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6650732ef0f30d7923ef9c53"
+  },
+  "name": "tt",
+  "description": "\"\"",
+  "price": 20,
+  "availableQuantity": 2,
+  "quantity": 2,
+  "category": {
+    "$oid": "664df5279f9eda3a4c4dc2e9"
+  },
+  "coupon": null,
+  "images": [
+    {
+      "name": "1716548398315-722789422-vlcsnap-2022-10-19-20h27m34s249.png",
+      "url": "public/uploads/1716548398315-722789422-vlcsnap-2022-10-19-20h27m34s249.png",
+      "_id": {
+        "$oid": "6650732ef0f30d7923ef9c54"
+      }
+    }
+  ],
+  "specifications": [],
+  "questions": [],
+  "status": "active",
+  "created_at": {
+    "$date": "2024-05-24T10:59:58.324Z"
+  },
+  "updated_at": {
+    "$date": "2024-05-24T10:59:58.324Z"
+  },
+  "createdAt": {
+    "$date": "2024-05-24T10:59:58.324Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-24T10:59:58.324Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66507340f0f30d7923ef9cf2"
+  },
+  "name": "t6",
+  "description": "\"<p>t6</p>\"",
+  "price": 9,
+  "availableQuantity": 2,
+  "quantity": 2,
+  "category": {
+    "$oid": "664df5279f9eda3a4c4dc2e9"
+  },
+  "coupon": null,
+  "images": [
+    {
+      "name": "1716548416804-939099024-vlcsnap-2022-09-29-23h14m12s872.png",
+      "url": "public/uploads/1716548416804-939099024-vlcsnap-2022-09-29-23h14m12s872.png",
+      "_id": {
+        "$oid": "66507340f0f30d7923ef9cf3"
+      }
+    }
+  ],
+  "specifications": [],
+  "questions": [],
+  "status": "active",
+  "created_at": {
+    "$date": "2024-05-24T11:00:16.813Z"
+  },
+  "updated_at": {
+    "$date": "2024-05-24T11:00:16.813Z"
+  },
+  "createdAt": {
+    "$date": "2024-05-24T11:00:16.814Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-24T11:00:16.814Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66507349f0f30d7923ef9d41"
+  },
+  "name": "t7",
+  "description": "\"<p>t7</p>\"",
+  "price": 9,
+  "availableQuantity": 2,
+  "quantity": 2,
+  "category": {
+    "$oid": "664df5279f9eda3a4c4dc2e9"
+  },
+  "coupon": null,
+  "images": [
+    {
+      "name": "1716548425290-975313031-vlcsnap-2022-09-29-23h14m12s872.png",
+      "url": "public/uploads/1716548425290-975313031-vlcsnap-2022-09-29-23h14m12s872.png",
+      "_id": {
+        "$oid": "66507349f0f30d7923ef9d42"
+      }
+    }
+  ],
+  "specifications": [],
+  "questions": [],
+  "status": "active",
+  "created_at": {
+    "$date": "2024-05-24T11:00:25.303Z"
+  },
+  "updated_at": {
+    "$date": "2024-05-24T11:00:25.303Z"
+  },
+  "createdAt": {
+    "$date": "2024-05-24T11:00:25.305Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-24T11:00:25.305Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6650736ff0f30d7923ef9e23"
+  },
+  "name": "t8",
+  "description": "\"<p>t8</p>\"",
+  "price": 20,
+  "availableQuantity": 2,
+  "quantity": 2,
+  "category": {
+    "$oid": "664df5279f9eda3a4c4dc2e9"
+  },
+  "coupon": null,
+  "images": [
+    {
+      "name": "1716548463107-532836378-vlcsnap-2022-10-19-20h27m34s249.png",
+      "url": "public/uploads/1716548463107-532836378-vlcsnap-2022-10-19-20h27m34s249.png",
+      "_id": {
+        "$oid": "6650736ff0f30d7923ef9e24"
+      }
+    }
+  ],
+  "specifications": [],
+  "questions": [],
+  "status": "active",
+  "created_at": {
+    "$date": "2024-05-24T11:01:03.117Z"
+  },
+  "updated_at": {
+    "$date": "2024-05-24T11:01:03.117Z"
+  },
+  "createdAt": {
+    "$date": "2024-05-24T11:01:03.118Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-24T11:01:03.118Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66507376f0f30d7923ef9e58"
+  },
+  "name": "t10",
+  "description": "\"<p><br></p>\"",
+  "price": 20,
+  "availableQuantity": 2,
+  "quantity": 2,
+  "category": {
+    "$oid": "664df5279f9eda3a4c4dc2e9"
+  },
+  "coupon": null,
+  "images": [
+    {
+      "name": "1716548470548-378290661-vlcsnap-2022-10-19-20h27m34s249.png",
+      "url": "public/uploads/1716548470548-378290661-vlcsnap-2022-10-19-20h27m34s249.png",
+      "_id": {
+        "$oid": "66507376f0f30d7923ef9e59"
+      }
+    }
+  ],
+  "specifications": [],
+  "questions": [],
+  "status": "active",
+  "created_at": {
+    "$date": "2024-05-24T11:01:10.561Z"
+  },
+  "updated_at": {
+    "$date": "2024-05-24T11:01:10.561Z"
+  },
+  "createdAt": {
+    "$date": "2024-05-24T11:01:10.562Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-24T11:01:10.562Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66537acb2622ce965ff3b355"
+  },
+  "name": "product 11",
+  "description": "<p>product</p>",
+  "price": 20000,
+  "availableQuantity": 1,
+  "quantity": 3,
+  "category": {
+    "$oid": "664df5279f9eda3a4c4dc2e9"
+  },
+  "coupon": null,
+  "images": [
+    {
+      "name": "1716746955749-623062720-vlcsnap-2022-09-29-22h54m23s737.png",
+      "url": "public/uploads/1716746955749-623062720-vlcsnap-2022-09-29-22h54m23s737.png",
+      "_id": {
+        "$oid": "66537acb2622ce965ff3b356"
+      }
+    }
+  ],
+  "specifications": [
+    {
+      "name": "Hello",
+      "value": "Hole",
+      "_id": {
+        "$oid": "66537acb2622ce965ff3b357"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "title": "Good",
+      "answer": "idk",
+      "_id": {
+        "$oid": "66537acb2622ce965ff3b358"
+      }
+    }
+  ],
+  "status": "active",
+  "created_at": {
+    "$date": "2024-05-26T18:09:15.759Z"
+  },
+  "updated_at": {
+    "$date": "2024-05-26T18:09:15.759Z"
+  },
+  "createdAt": {
+    "$date": "2024-05-26T18:09:15.762Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-26T19:06:14.403Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66537c7d2622ce965ff3b62b"
+  },
+  "name": "jiefei product",
+  "description": "<p>product of jiafei\t</p>",
+  "price": 1000000,
+  "availableQuantity": 10,
+  "quantity": 10,
+  "category": {
+    "$oid": "664df5279f9eda3a4c4dc2e9"
+  },
+  "coupon": null,
+  "images": [
+    {
+      "name": "1716747389273-33871113-434656226_432653209418932_7354603373266753102_n.jpg",
+      "url": "public/uploads/1716747389273-33871113-434656226_432653209418932_7354603373266753102_n.jpg",
+      "_id": {
+        "$oid": "66537c7d2622ce965ff3b62c"
+      }
+    }
+  ],
+  "specifications": [
+    {
+      "name": "hello",
+      "value": "bonjour",
+      "_id": {
+        "$oid": "66537c7d2622ce965ff3b62d"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "title": "good",
+      "answer": "idk",
+      "_id": {
+        "$oid": "66537c7d2622ce965ff3b62e"
+      }
+    }
+  ],
+  "status": "active",
+  "created_at": {
+    "$date": "2024-05-26T18:16:29.279Z"
+  },
+  "updated_at": {
+    "$date": "2024-05-26T18:16:29.279Z"
+  },
+  "createdAt": {
+    "$date": "2024-05-26T18:16:29.279Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-26T18:16:29.279Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66538754b09e464256397d9e"
+  },
+  "name": "jiafei product 2",
+  "description": "<p>cat 2</p>",
+  "price": 100000,
+  "availableQuantity": 10,
+  "quantity": 10,
+  "category": {
+    "$oid": "66538729b09e464256397d84"
+  },
+  "coupon": null,
+  "images": [
+    {
+      "name": "1716750164689-823650509-435145086_1148662756152167_4058558914401706567_n.jpg",
+      "url": "public/uploads/1716750164689-823650509-435145086_1148662756152167_4058558914401706567_n.jpg",
+      "_id": {
+        "$oid": "66538754b09e464256397d9f"
+      }
+    }
+  ],
+  "specifications": [
+    {
+      "name": "sensor",
+      "value": "eyes",
+      "_id": {
+        "$oid": "66538754b09e464256397da0"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "title": "good?",
+      "answer": "idk",
+      "_id": {
+        "$oid": "66538754b09e464256397da1"
+      }
+    }
+  ],
+  "status": "active",
+  "created_at": {
+    "$date": "2024-05-26T19:02:44.698Z"
+  },
+  "updated_at": {
+    "$date": "2024-05-26T19:02:44.698Z"
+  },
+  "createdAt": {
+    "$date": "2024-05-26T19:02:44.700Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-26T19:02:44.700Z"
+  },
+  "__v": 0
+}]

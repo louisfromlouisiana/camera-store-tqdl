@@ -1,0 +1,7006 @@
+[{
+  "_id": {
+    "$oid": "668c4bc55e7bc317251805d6"
+  },
+  "name": "Sony Alpha A6400 (Black, Body Only)",
+  "description": "<p>Sony's a6400 is a compact 24MP mirrorless interchangeable lens camera with an APS-C sensor that will serve plenty of photographers from family documentarians to pro shooters looking for a lightweight second body. The big news is that it has a new processor based on that used in Sony's sports-shooting flagship a9 which enables 'Real-Time Tracking' autofocus, which is one of the most effective autofocus implementations we've yet seen. It's also among the easiest to use, once you've gotten it set up.</p><p><img src=\"https://1.img-dpreview.com/files/p/E~TS590x0~articles/6936233312/ProductShot/Sony_a6400_Lead_2\"></p>",
+  "price": 21900000,
+  "availableQuantity": 10,
+  "quantity": 10,
+  "category": {
+    "$oid": "666027a3ca86f6cbd61082a7"
+  },
+  "coupon": {
+    "$oid": "668d0b2f18b223faa4e1f26e"
+  },
+  "images": [
+    {
+      "name": "1720470469042-262679493-sony-alpha-a64006.jpg",
+      "url": "public/uploads/1720470469042-262679493-sony-alpha-a64006.jpg",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805d7"
+      }
+    },
+    {
+      "name": "1720470574757-450787172-sony-alpha-a64002-500x500.jpg",
+      "url": "public/uploads/1720470574757-450787172-sony-alpha-a64002-500x500.jpg",
+      "_id": {
+        "$oid": "668c4c2e5e7bc317251806a9"
+      }
+    }
+  ],
+  "specifications": [
+    {
+      "name": "GENERAL",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805d8"
+      }
+    },
+    {
+      "name": "Type",
+      "value": "Mirrorless",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805d9"
+      }
+    },
+    {
+      "name": "Inter-changeable Lens",
+      "value": "Yes",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805da"
+      }
+    },
+    {
+      "name": "EXPOSURE",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805db"
+      }
+    },
+    {
+      "name": "ISO",
+      "value": "100 - 32000 (Extended: 100 - 102400)",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805dc"
+      }
+    },
+    {
+      "name": "Shutter Speed",
+      "value": "1/4000 - 30s",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805dd"
+      }
+    },
+    {
+      "name": "Continuous Shooting Speed",
+      "value": "Up to 11 fps",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805de"
+      }
+    },
+    {
+      "name": "IMAGE",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805df"
+      }
+    },
+    {
+      "name": "Sensor",
+      "value": "APS-C (1.5x Crop)",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e0"
+      }
+    },
+    {
+      "name": "Number of Pixel (MP)",
+      "value": "25",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e1"
+      }
+    },
+    {
+      "name": "Image Size",
+      "value": "6000 x 4000",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e2"
+      }
+    },
+    {
+      "name": "Image Stabilization",
+      "value": "Yes",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e3"
+      }
+    },
+    {
+      "name": "Lens Mount",
+      "value": "Sony E",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e4"
+      }
+    },
+    {
+      "name": "VIDEO",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e5"
+      }
+    },
+    {
+      "name": "Image Size",
+      "value": "UHD 4K/30p",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e6"
+      }
+    },
+    {
+      "name": "FOCUS",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e7"
+      }
+    },
+    {
+      "name": "Focus Type",
+      "value": "Auto and Manual Focus",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e8"
+      }
+    },
+    {
+      "name": "Focus Point",
+      "value": "425",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e9"
+      }
+    },
+    {
+      "name": "VIEWFINDER/MONITOR",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ea"
+      }
+    },
+    {
+      "name": "Viewfinder Type",
+      "value": "EVF",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805eb"
+      }
+    },
+    {
+      "name": "Monitor Type",
+      "value": "LCD Touch",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ec"
+      }
+    },
+    {
+      "name": "FLASH",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ed"
+      }
+    },
+    {
+      "name": "Built-in Flash",
+      "value": "Yes",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ee"
+      }
+    },
+    {
+      "name": "External Flash Compatibility",
+      "value": "Hot Shoe, Wireless",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ef"
+      }
+    },
+    {
+      "name": "INTERFACE",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f0"
+      }
+    },
+    {
+      "name": "GPS",
+      "value": "No",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f1"
+      }
+    },
+    {
+      "name": "Wireless Connection",
+      "value": "Wi-Fi",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f2"
+      }
+    },
+    {
+      "name": "External Connection",
+      "value": "3.5mm Microphone, HDMI D (Micro), Wired Remote Port, USB Micro-B (USB 2.0)",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f3"
+      }
+    },
+    {
+      "name": "Memory Card Slot",
+      "value": "Single Slot: SD/SDHC/SDXC/Memory Stick Duo Hybrid (UHS-I)",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f4"
+      }
+    },
+    {
+      "name": "SIZE, WEIGHT & OTHER",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f5"
+      }
+    },
+    {
+      "name": "Weight",
+      "value": "403 g",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f6"
+      }
+    },
+    {
+      "name": "Size",
+      "value": "120 x 66.9 x 59.7 mm",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f7"
+      }
+    },
+    {
+      "name": "Battery",
+      "value": "1 x NP-FW50 Rechargeable Lithium-Ion, 7.2 VDC, 1080 mAh",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f8"
+      }
+    },
+    {
+      "name": "Other Information",
+      "value": "No",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f9"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "title": "Is it easy to use?",
+      "answer": "Yes",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805fa"
+      }
+    }
+  ],
+  "status": "active",
+  "created_at": {
+    "$date": "2024-07-08T20:27:49.117Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-08T20:29:34.759Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-08T20:27:49.124Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-09T12:36:00.578Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668c4cf75e7bc3172518072e"
+  },
+  "name": "Sony A7C II (Body Only)",
+  "description": "<p>The design of the A7C II camera is still inherited from the slim, compact appearance and full-frame sensor of the previous generation. The delicate black design camera provides resolution, autofocus, in-body image stabilization and improved video recording, all within a perfectly compact product, making it easy for users to carry with them for everyday use. With the 3.0\" 1.03 million-point Vari-Angle LCD touch screen, it is capable of opening on the side of the device, allowing you to use it from many different angles.</p><p><img src=\"https://cdn.vjshop.vn/may-anh/mirrorless/sony/sony-alpha-7c-ii/sony-alpha-7c-ii-21.jpeg\"></p><p>The body is made of sturdy magnesium alloy and is equipped with a protective shell from dirt, mold and avoids the effects of the harsh environment outside. In addition, the camera is also provided with additional control buttons at the user's fingertips, dedicated to providing a level of control and speed, helping you ensure the ability to control functions and change settings more easily and effectively.</p><p><br></p>",
+  "price": 50990000,
+  "availableQuantity": 15,
+  "quantity": 15,
+  "category": {
+    "$oid": "666027a3ca86f6cbd61082a7"
+  },
+  "coupon": {
+    "$oid": "668d0b2f18b223faa4e1f26e"
+  },
+  "images": [
+    {
+      "name": "1720470775479-452186381-sony-alpha-7c-ii-21-1-500x500.jpg",
+      "url": "public/uploads/1720470775479-452186381-sony-alpha-7c-ii-21-1-500x500.jpg",
+      "_id": {
+        "$oid": "668c4cf75e7bc3172518072f"
+      }
+    }
+  ],
+  "specifications": [
+    {
+      "name": "GENERAL",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805d8"
+      }
+    },
+    {
+      "name": "Type",
+      "value": "Mirrorless",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805d9"
+      }
+    },
+    {
+      "name": "Inter-changeable Lens",
+      "value": "Yes",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805da"
+      }
+    },
+    {
+      "name": "EXPOSURE",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805db"
+      }
+    },
+    {
+      "name": "ISO",
+      "value": "100 - 51,200 at Manual Mode (Extended: 50 - 204,800)",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805dc"
+      }
+    },
+    {
+      "name": "Shutter Speed",
+      "value": "1/8000 - 30s",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805dd"
+      }
+    },
+    {
+      "name": "Continuous Shooting Speed",
+      "value": "Up to 10 fps",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805de"
+      }
+    },
+    {
+      "name": "IMAGE",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805df"
+      }
+    },
+    {
+      "name": "Sensor",
+      "value": "35.9 x 23.9 mm (Full-Frame) CMOS",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e0"
+      }
+    },
+    {
+      "name": "Number of Pixel (MP)",
+      "value": "34",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e1"
+      }
+    },
+    {
+      "name": "Image Size",
+      "value": "33 MP (7008 x 4672)",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e2"
+      }
+    },
+    {
+      "name": "Image Stabilization",
+      "value": "Yes",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e3"
+      }
+    },
+    {
+      "name": "Lens Mount",
+      "value": "Sony E",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e4"
+      }
+    },
+    {
+      "name": "VIDEO",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e5"
+      }
+    },
+    {
+      "name": "Image Size",
+      "value": "UHD 4K/30p",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e6"
+      }
+    },
+    {
+      "name": "FOCUS",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e7"
+      }
+    },
+    {
+      "name": "Focus Type",
+      "value": "Auto and Manual Focus",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e8"
+      }
+    },
+    {
+      "name": "Focus Point",
+      "value": "759",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e9"
+      }
+    },
+    {
+      "name": "VIEWFINDER/MONITOR",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ea"
+      }
+    },
+    {
+      "name": "Viewfinder Type",
+      "value": "EVF",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805eb"
+      }
+    },
+    {
+      "name": "Monitor Type",
+      "value": "LCD Touch Tilt",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ec"
+      }
+    },
+    {
+      "name": "FLASH",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ed"
+      }
+    },
+    {
+      "name": "Built-in Flash",
+      "value": "No",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ee"
+      }
+    },
+    {
+      "name": "External Flash Compatibility",
+      "value": "Hot Shoe, Wireless",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ef"
+      }
+    },
+    {
+      "name": "INTERFACE",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f0"
+      }
+    },
+    {
+      "name": "GPS",
+      "value": "Yes",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f1"
+      }
+    },
+    {
+      "name": "Wireless Connection",
+      "value": "Wi-Fi, Bluetooth",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f2"
+      }
+    },
+    {
+      "name": "External Connection",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f3"
+      }
+    },
+    {
+      "name": "Memory Card Slot",
+      "value": "Single Slot: SD/SDHC/SDXC (UHS-II)",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f4"
+      }
+    },
+    {
+      "name": "SIZE, WEIGHT & OTHER",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f5"
+      }
+    },
+    {
+      "name": "Weight",
+      "value": "429 g",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f6"
+      }
+    },
+    {
+      "name": "Size",
+      "value": "124 x 71.1 x 63.4 mm",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f7"
+      }
+    },
+    {
+      "name": "Battery",
+      "value": "NP-FZ100 Rechargeable Lithium-Ion",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f8"
+      }
+    },
+    {
+      "name": "Other Information",
+      "value": "No",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f9"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "title": "Is it easy to use?",
+      "answer": "Yes",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805fa"
+      }
+    }
+  ],
+  "status": "active",
+  "created_at": {
+    "$date": "2024-07-08T20:32:55.542Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-08T20:32:55.542Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-08T20:32:55.549Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-09T12:36:00.578Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668c4d9d5e7bc317251807d8"
+  },
+  "name": "Sony A9 (Body Only)",
+  "description": "<p><img src=\"https://cdn.vjshop.vn/may-anh/mirrorless/sony/sony-a9/anh-mo-ta/sony-a9-0.jpg\"></p><h2>Sony A9 (ILCE-9) with new CMOS sensor for great images</h2><p>Equipped with a 24.2MP Full-Frame Stacked CMOS sensor, Sony A9 has outstanding recording ability with extremely fast speed, can shoot 20 frames per second continuously. With high light sensitivity that can be expanded up to ISO 50-204800 and the backlight configuration helps to minimize the phenomenon of image noise that often appears in low light conditions and shoot at high ISO, thereby bringing sharp images in different light environments.</p><p><br></p>",
+  "price": 82990000,
+  "availableQuantity": 15,
+  "quantity": 15,
+  "category": {
+    "$oid": "666027a3ca86f6cbd61082a7"
+  },
+  "coupon": {
+    "$oid": "668d0b2f18b223faa4e1f26e"
+  },
+  "images": [
+    {
+      "name": "1720470941288-502345358-A9_FE2470GM_right-Large_crop.jpeg",
+      "url": "public/uploads/1720470941288-502345358-A9_FE2470GM_right-Large_crop.jpeg",
+      "_id": {
+        "$oid": "668c4d9d5e7bc317251807d9"
+      }
+    }
+  ],
+  "specifications": [
+    {
+      "name": "GENERAL",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805d8"
+      }
+    },
+    {
+      "name": "Type",
+      "value": "Mirrorless",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805d9"
+      }
+    },
+    {
+      "name": "Inter-changeable Lens",
+      "value": "Yes",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805da"
+      }
+    },
+    {
+      "name": "EXPOSURE",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805db"
+      }
+    },
+    {
+      "name": "ISO",
+      "value": "100 - 51200 (Extended: 50 - 204800)",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805dc"
+      }
+    },
+    {
+      "name": "Shutter Speed",
+      "value": "1/8000 - 30s",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805dd"
+      }
+    },
+    {
+      "name": "Continuous Shooting Speed",
+      "value": "Up to 20 fps",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805de"
+      }
+    },
+    {
+      "name": "IMAGE",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805df"
+      }
+    },
+    {
+      "name": "Sensor",
+      "value": "Full-Frame",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e0"
+      }
+    },
+    {
+      "name": "Number of Pixel (MP)",
+      "value": "28",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e1"
+      }
+    },
+    {
+      "name": "Image Size",
+      "value": "6000 x 4000",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e2"
+      }
+    },
+    {
+      "name": "Image Stabilization",
+      "value": "Yes",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e3"
+      }
+    },
+    {
+      "name": "Lens Mount",
+      "value": "Sony E",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e4"
+      }
+    },
+    {
+      "name": "VIDEO",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e5"
+      }
+    },
+    {
+      "name": "Image Size",
+      "value": "UHD 4K/30p",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e6"
+      }
+    },
+    {
+      "name": "FOCUS",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e7"
+      }
+    },
+    {
+      "name": "Focus Type",
+      "value": "Auto and Manual Focus",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e8"
+      }
+    },
+    {
+      "name": "Focus Point",
+      "value": "693",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e9"
+      }
+    },
+    {
+      "name": "VIEWFINDER/MONITOR",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ea"
+      }
+    },
+    {
+      "name": "Viewfinder Type",
+      "value": "EVF",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805eb"
+      }
+    },
+    {
+      "name": "Monitor Type",
+      "value": "LCD Touch Tilt",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ec"
+      }
+    },
+    {
+      "name": "FLASH",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ed"
+      }
+    },
+    {
+      "name": "Built-in Flash",
+      "value": "No",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ee"
+      }
+    },
+    {
+      "name": "External Flash Compatibility",
+      "value": "Hot Shoe",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ef"
+      }
+    },
+    {
+      "name": "INTERFACE",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f0"
+      }
+    },
+    {
+      "name": "GPS",
+      "value": "No",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f1"
+      }
+    },
+    {
+      "name": "Wireless Connection",
+      "value": "Wi-Fi, Bluetooth",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f2"
+      }
+    },
+    {
+      "name": "External Connection",
+      "value": "3.5mm Microphone, HDMI D (Micro), Wired Remote Port, USB Micro-B (USB 2.0)",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f3"
+      }
+    },
+    {
+      "name": "Memory Card Slot",
+      "value": "Slot 1: SD/SDHC/SDXC (UHS-II), Slot 2: SD/SDHC/SDXC/Memory Stick Duo Hybrid (UHS-I)",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f4"
+      }
+    },
+    {
+      "name": "SIZE, WEIGHT & OTHER",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f5"
+      }
+    },
+    {
+      "name": "Weight",
+      "value": "673 g",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f6"
+      }
+    },
+    {
+      "name": "Size",
+      "value": "126.9 x 95.6 x 63 mm",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f7"
+      }
+    },
+    {
+      "name": "Battery",
+      "value": "NP-FZ100 Rechargeable Lithium-Ion, 7.2 VDC, 2280 mAh",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f8"
+      }
+    },
+    {
+      "name": "Other Information",
+      "value": "No",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f9"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "title": "Is it easy to use?",
+      "answer": "Yes",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805fa"
+      }
+    }
+  ],
+  "status": "active",
+  "created_at": {
+    "$date": "2024-07-08T20:35:41.354Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-08T20:35:41.354Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-08T20:35:41.359Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-09T12:36:00.578Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668c4df55e7bc31725180871"
+  },
+  "name": "Sony Alpha A7 Mark IV (Body Only) ",
+  "description": "<p>The body of the Sony A7 IV has a similar design to the Sony A7S III camera with a large handle handle for a firm grip. The Sony A7 IV is equipped with a 3.0-inch articulated screen that can change the angle with a resolution of 1.03 million pixels that allows content creators to record videos and selfies professionally at various angles. This screen is perfect for creating vlogs or other self-rotating needs. Besides, you can also use the screen to control the visual capture or navigate the menu.</p><p><img src=\"https://cdn.vjshop.vn/may-anh/mirrorless/sony/sony-alpha-a7-mark-iv/sony-alpha-a7m4-10.jpg\"></p><p>The EVF viewfinder has a resolution of 3.68 million points nearly 1.6 times higher than its predecessor to see clearer and sharper images. The viewfinder has a magnification of 0.78x with a field of view of 37.3 degrees.</p><p><br></p>",
+  "price": 54900000,
+  "availableQuantity": 15,
+  "quantity": 15,
+  "category": {
+    "$oid": "666027a3ca86f6cbd61082a7"
+  },
+  "coupon": {
+    "$oid": "668d0b2f18b223faa4e1f26e"
+  },
+  "images": [
+    {
+      "name": "1720471029293-761190143-sony-alpha-a7m4-500x500.jpg",
+      "url": "public/uploads/1720471029293-761190143-sony-alpha-a7m4-500x500.jpg",
+      "_id": {
+        "$oid": "668c4df55e7bc31725180872"
+      }
+    }
+  ],
+  "specifications": [
+    {
+      "name": "GENERAL",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805d8"
+      }
+    },
+    {
+      "name": "Type",
+      "value": "Mirrorless",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805d9"
+      }
+    },
+    {
+      "name": "Inter-changeable Lens",
+      "value": "Yes",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805da"
+      }
+    },
+    {
+      "name": "EXPOSURE",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805db"
+      }
+    },
+    {
+      "name": "ISO",
+      "value": "100 - 51200 (Extended: 50 - 204800)",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805dc"
+      }
+    },
+    {
+      "name": "Shutter Speed",
+      "value": "1/8000 - 30s",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805dd"
+      }
+    },
+    {
+      "name": "Continuous Shooting Speed",
+      "value": "Up to 10 fps",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805de"
+      }
+    },
+    {
+      "name": "IMAGE",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805df"
+      }
+    },
+    {
+      "name": "Sensor",
+      "value": "Full-Frame",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e0"
+      }
+    },
+    {
+      "name": "Number of Pixel (MP)",
+      "value": "33",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e1"
+      }
+    },
+    {
+      "name": "Image Size",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e2"
+      }
+    },
+    {
+      "name": "Image Stabilization",
+      "value": "Yes",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e3"
+      }
+    },
+    {
+      "name": "Lens Mount",
+      "value": "Sony E",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e4"
+      }
+    },
+    {
+      "name": "VIDEO",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e5"
+      }
+    },
+    {
+      "name": "Image Size",
+      "value": "UHD 4K/30p",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e6"
+      }
+    },
+    {
+      "name": "FOCUS",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e7"
+      }
+    },
+    {
+      "name": "Focus Type",
+      "value": "Auto and Manual Focus",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e8"
+      }
+    },
+    {
+      "name": "Focus Point",
+      "value": "759",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e9"
+      }
+    },
+    {
+      "name": "VIEWFINDER/MONITOR",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ea"
+      }
+    },
+    {
+      "name": "Viewfinder Type",
+      "value": "EVF",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805eb"
+      }
+    },
+    {
+      "name": "Monitor Type",
+      "value": "LCD Touch Tilt",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ec"
+      }
+    },
+    {
+      "name": "FLASH",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ed"
+      }
+    },
+    {
+      "name": "Built-in Flash",
+      "value": "No",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ee"
+      }
+    },
+    {
+      "name": "External Flash Compatibility",
+      "value": "Hot Shoe, Wireless",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ef"
+      }
+    },
+    {
+      "name": "INTERFACE",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f0"
+      }
+    },
+    {
+      "name": "GPS",
+      "value": "No",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f1"
+      }
+    },
+    {
+      "name": "Wireless Connection",
+      "value": "Wi-Fi, Bluetooth",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f2"
+      }
+    },
+    {
+      "name": "External Connection",
+      "value": "HDMI A (Full Size), USB Type-C (USB 3.2 Generation 2), USB Micro-B (USB 2.0), 3.5mm Microphone, 3.5mm Headphone",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f3"
+      }
+    },
+    {
+      "name": "Memory Card Slot",
+      "value": "Slot 1: CFexpress Loại A / SD (UHS-II), Slot 2: SD / SDHC / SDXC (UHS-II)",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f4"
+      }
+    },
+    {
+      "name": "SIZE, WEIGHT & OTHER",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f5"
+      }
+    },
+    {
+      "name": "Weight",
+      "value": "659 g",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f6"
+      }
+    },
+    {
+      "name": "Size",
+      "value": "131,3 x 96,4 x 79.8 mm",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f7"
+      }
+    },
+    {
+      "name": "Battery",
+      "value": "NP-FZ100 Rechargeable Lithium-Ion, 7.2 VDC, 2280 mAh",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f8"
+      }
+    },
+    {
+      "name": "Other Information",
+      "value": "No",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f9"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "title": "Is it easy to use?",
+      "answer": "Yes",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805fa"
+      }
+    }
+  ],
+  "status": "active",
+  "created_at": {
+    "$date": "2024-07-08T20:37:09.357Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-08T20:37:09.357Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-08T20:37:09.364Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-09T12:36:00.578Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668c4e745e7bc3172518092e"
+  },
+  "name": "Fujifilm X-T30 Mark II (Black, Body Only)",
+  "description": "<p>The Fujifilm X-T30 Mark II camera weighs 329g, which is relatively compact for you to use when shooting in a variety of environments. The camera is equipped with a 3.0-inch LCD touch screen with 1.62 million pixels to capture, view live and navigate the menu easily. The tilt design of the screen is suitable for many different working angles regardless of whether you shoot in a horizontal or vertical direction. In addition to the LCD screen, the X-T30 Mark II also integrates a 2.36 million pixel OLED electronic viewfinder that provides 0.62x magnification with a fast refresh rate, wide viewing angle and adjustable diopter settings.</p><p><img src=\"https://cdn.vjshop.vn/may-anh/mirrorless/fujifilm/fujifilm-x-t30-mark-ii/anh-mo-ta/fujifilm-x-t30-mark-ii.jpg\"></p><p>The design of&nbsp;the camera&nbsp;includes command dials, fully integrated with function buttons for users to operate quickly. With these function buttons, you can adjust the settings and control the camera easily.</p>",
+  "price": 26900000,
+  "availableQuantity": 15,
+  "quantity": 15,
+  "category": {
+    "$oid": "666027a3ca86f6cbd61082a7"
+  },
+  "coupon": {
+    "$oid": "668d0b2f18b223faa4e1f26e"
+  },
+  "images": [
+    {
+      "name": "1720471156507-517838060-x-t30-mark-ii-500x500.jpg",
+      "url": "public/uploads/1720471156507-517838060-x-t30-mark-ii-500x500.jpg",
+      "_id": {
+        "$oid": "668c4e745e7bc3172518092f"
+      }
+    }
+  ],
+  "specifications": [
+    {
+      "name": "GENERAL",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805d8"
+      }
+    },
+    {
+      "name": "Type",
+      "value": "Mirrorless",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805d9"
+      }
+    },
+    {
+      "name": "Inter-changeable Lens",
+      "value": "Yes",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805da"
+      }
+    },
+    {
+      "name": "EXPOSURE",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805db"
+      }
+    },
+    {
+      "name": "ISO",
+      "value": "160 to 12800 (Extended: 80 to 51200)",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805dc"
+      }
+    },
+    {
+      "name": "Shutter Speed",
+      "value": "1/4000 - 30s",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805dd"
+      }
+    },
+    {
+      "name": "Continuous Shooting Speed",
+      "value": "Up to 8 fps",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805de"
+      }
+    },
+    {
+      "name": "IMAGE",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805df"
+      }
+    },
+    {
+      "name": "Sensor",
+      "value": "APS-C (1.5x Crop)",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e0"
+      }
+    },
+    {
+      "name": "Number of Pixel (MP)",
+      "value": "26",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e1"
+      }
+    },
+    {
+      "name": "Image Size",
+      "value": "6240 x 4160",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e2"
+      }
+    },
+    {
+      "name": "Image Stabilization",
+      "value": "Yes",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e3"
+      }
+    },
+    {
+      "name": "Lens Mount",
+      "value": "FUJIFILM X",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e4"
+      }
+    },
+    {
+      "name": "VIDEO",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e5"
+      }
+    },
+    {
+      "name": "Image Size",
+      "value": "DCI 4K/30p",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e6"
+      }
+    },
+    {
+      "name": "FOCUS",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e7"
+      }
+    },
+    {
+      "name": "Focus Type",
+      "value": "Auto and Manual Focus",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e8"
+      }
+    },
+    {
+      "name": "Focus Point",
+      "value": "425",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e9"
+      }
+    },
+    {
+      "name": "VIEWFINDER/MONITOR",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ea"
+      }
+    },
+    {
+      "name": "Viewfinder Type",
+      "value": "EVF",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805eb"
+      }
+    },
+    {
+      "name": "Monitor Type",
+      "value": "LCD Touch Tilt",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ec"
+      }
+    },
+    {
+      "name": "FLASH",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ed"
+      }
+    },
+    {
+      "name": "Built-in Flash",
+      "value": "Yes",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ee"
+      }
+    },
+    {
+      "name": "External Flash Compatibility",
+      "value": "Hot Shoe",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ef"
+      }
+    },
+    {
+      "name": "INTERFACE",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f0"
+      }
+    },
+    {
+      "name": "GPS",
+      "value": "No",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f1"
+      }
+    },
+    {
+      "name": "Wireless Connection",
+      "value": "Wi-Fi, Bluetooth",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f2"
+      }
+    },
+    {
+      "name": "External Connection",
+      "value": "2.5mm Sub-Mini, HDMI D (Micro), PC Sync Socket, USB Type-C (USB 3.0)",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f3"
+      }
+    },
+    {
+      "name": "Memory Card Slot",
+      "value": "SD Card / SDHC Card/SDXC Card / UHS-I",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f4"
+      }
+    },
+    {
+      "name": "SIZE, WEIGHT & OTHER",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f5"
+      }
+    },
+    {
+      "name": "Weight",
+      "value": "329 g (Body Only)",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f6"
+      }
+    },
+    {
+      "name": "Size",
+      "value": "118.4 x 82.8 x 46.8 mm",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f7"
+      }
+    },
+    {
+      "name": "Battery",
+      "value": "NP-W126S",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f8"
+      }
+    },
+    {
+      "name": "Other Information",
+      "value": "No",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f9"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "title": "Is it easy to use?",
+      "answer": "Yes",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805fa"
+      }
+    }
+  ],
+  "status": "active",
+  "created_at": {
+    "$date": "2024-07-08T20:39:16.572Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-08T20:39:16.572Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-08T20:39:16.582Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-09T12:36:00.578Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668c4edc5e7bc31725180a0f"
+  },
+  "name": "Fujifilm X-Pro3 (Body Only, Dura Silver)",
+  "description": "<h2>Fujifilm X-Pro3 with traditional design mixed with breakthrough</h2><p><img src=\"https://cdn.vjshop.vn/may-anh/mirrorless/fujifilm/fujifilm-x-pro3/may-anh-x-pro3-body.jpeg\"></p><p>The machine's flip screen mechanism is very interesting. The main screen of&nbsp;<strong>Fujifilm XPro3&nbsp;</strong>is flipped inside to create the overall feeling of the camera like a real film camera. The back of the main screen is a secondary screen that can display color filters as well as some ISO and WB indicators that the machine is using.</p><p><img src=\"https://cdn.vjshop.vn/may-anh/mirrorless/fujifilm/fujifilm-x-pro3/may-anhx-pro3-body.jpg\"></p>",
+  "price": 48900000,
+  "availableQuantity": 15,
+  "quantity": 15,
+  "category": {
+    "$oid": "666027a3ca86f6cbd61082a7"
+  },
+  "coupon": {
+    "$oid": "668d0b2f18b223faa4e1f26e"
+  },
+  "images": [
+    {
+      "name": "1720471260527-928221605-fujifilm-x-pro3-black-500x500.jpg",
+      "url": "public/uploads/1720471260527-928221605-fujifilm-x-pro3-black-500x500.jpg",
+      "_id": {
+        "$oid": "668c4edc5e7bc31725180a10"
+      }
+    }
+  ],
+  "specifications": [
+    {
+      "name": "GENERAL",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805d8"
+      }
+    },
+    {
+      "name": "Type",
+      "value": "Mirrorless",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805d9"
+      }
+    },
+    {
+      "name": "Inter-changeable Lens",
+      "value": "Yes",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805da"
+      }
+    },
+    {
+      "name": "EXPOSURE",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805db"
+      }
+    },
+    {
+      "name": "ISO",
+      "value": "100 - 12800",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805dc"
+      }
+    },
+    {
+      "name": "Shutter Speed",
+      "value": "1/4000 - 30s",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805dd"
+      }
+    },
+    {
+      "name": "Continuous Shooting Speed",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805de"
+      }
+    },
+    {
+      "name": "IMAGE",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805df"
+      }
+    },
+    {
+      "name": "Sensor",
+      "value": "APS-C (1.5x Crop)",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e0"
+      }
+    },
+    {
+      "name": "Number of Pixel (MP)",
+      "value": "26",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e1"
+      }
+    },
+    {
+      "name": "Image Size",
+      "value": "6240 x 4160",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e2"
+      }
+    },
+    {
+      "name": "Image Stabilization",
+      "value": "Yes",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e3"
+      }
+    },
+    {
+      "name": "Lens Mount",
+      "value": "FUJIFILM X",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e4"
+      }
+    },
+    {
+      "name": "VIDEO",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e5"
+      }
+    },
+    {
+      "name": "Image Size",
+      "value": "UHD 4K/30p",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e6"
+      }
+    },
+    {
+      "name": "FOCUS",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e7"
+      }
+    },
+    {
+      "name": "Focus Type",
+      "value": "Auto and Manual Focus",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e8"
+      }
+    },
+    {
+      "name": "Focus Point",
+      "value": "425",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e9"
+      }
+    },
+    {
+      "name": "VIEWFINDER/MONITOR",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ea"
+      }
+    },
+    {
+      "name": "Viewfinder Type",
+      "value": "EVF",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805eb"
+      }
+    },
+    {
+      "name": "Monitor Type",
+      "value": "LCD Touch Tilt",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ec"
+      }
+    },
+    {
+      "name": "FLASH",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ed"
+      }
+    },
+    {
+      "name": "Built-in Flash",
+      "value": "No",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ee"
+      }
+    },
+    {
+      "name": "External Flash Compatibility",
+      "value": "Hot Shoe",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ef"
+      }
+    },
+    {
+      "name": "INTERFACE",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f0"
+      }
+    },
+    {
+      "name": "GPS",
+      "value": "No",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f1"
+      }
+    },
+    {
+      "name": "Wireless Connection",
+      "value": "Wi-Fi, Bluetooth",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f2"
+      }
+    },
+    {
+      "name": "External Connection",
+      "value": "USB Type-C (USB 3.0), 2.5mm Sub-Mini",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f3"
+      }
+    },
+    {
+      "name": "Memory Card Slot",
+      "value": "Dual Slot: SD/SDHC/SDXC",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f4"
+      }
+    },
+    {
+      "name": "SIZE, WEIGHT & OTHER",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f5"
+      }
+    },
+    {
+      "name": "Weight",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f6"
+      }
+    },
+    {
+      "name": "Size",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f7"
+      }
+    },
+    {
+      "name": "Battery",
+      "value": "NP-W126S",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f8"
+      }
+    },
+    {
+      "name": "Other Information",
+      "value": "No",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f9"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "title": "Is it easy to use?",
+      "answer": "Yes",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805fa"
+      }
+    }
+  ],
+  "status": "active",
+  "created_at": {
+    "$date": "2024-07-08T20:41:00.602Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-08T20:41:00.602Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-08T20:41:00.610Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-09T12:36:00.578Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668c4f2e5e7bc31725180b13"
+  },
+  "name": "Fujifilm X-S20 (Body Only)",
+  "description": "<h2>Fujifilm X-S20 compact design</h2><p>Fujifilm X-S20 owns the typical design of the XS series with a large grip that provides an easy grip. The camera weight is only 491, users can easily put the camera in their backpack and carry it with them on their trips.</p><p><img src=\"https://cdn.vjshop.vn/may-anh/mirrorless/fujifilm/fujifilm-x-s20/may-anh-fujifilm-x-s20.jpg\"></p><h2>26.1MP APS-C X-Trans BSI CMOS 4 sensor</h2><p>The Fujifilm X-S20 camera uses an X-Trans CMOS 4 sensor with a rear light design. With a resolution of 26.1 MP, this XS20 can capture memorable images of your adventure, as well as your everyday moments in a crisp, vivid way through a series of unique filters.</p><p><img src=\"https://cdn.vjshop.vn/may-anh/mirrorless/fujifilm/fujifilm-x-s20/may-anh-fujifilm-x-s20-1.jpg\"></p><p>The rear light design of the Fuji XS20 camera has the effect of improving image quality while minimizing noise, helping the camera work effectively even in low light conditions.</p>",
+  "price": 35900000,
+  "availableQuantity": 10,
+  "quantity": 10,
+  "category": {
+    "$oid": "666027a3ca86f6cbd61082a7"
+  },
+  "coupon": {
+    "$oid": "668d0b2f18b223faa4e1f26e"
+  },
+  "images": [
+    {
+      "name": "1720471342847-91382680-fujifilm-x-s20-500x500.jpg",
+      "url": "public/uploads/1720471342847-91382680-fujifilm-x-s20-500x500.jpg",
+      "_id": {
+        "$oid": "668c4f2e5e7bc31725180b14"
+      }
+    }
+  ],
+  "specifications": [
+    {
+      "name": "GENERAL",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805d8"
+      }
+    },
+    {
+      "name": "Type",
+      "value": "Mirrorless",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805d9"
+      }
+    },
+    {
+      "name": "Inter-changeable Lens",
+      "value": "Yes",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805da"
+      }
+    },
+    {
+      "name": "EXPOSURE",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805db"
+      }
+    },
+    {
+      "name": "ISO",
+      "value": "160 - 12800 (Extended: 50 - 51200)",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805dc"
+      }
+    },
+    {
+      "name": "Shutter Speed",
+      "value": "1/32000 - 900s",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805dd"
+      }
+    },
+    {
+      "name": "Continuous Shooting Speed",
+      "value": "Up to 20 fps",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805de"
+      }
+    },
+    {
+      "name": "IMAGE",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805df"
+      }
+    },
+    {
+      "name": "Sensor",
+      "value": "APS-C (1.5x Crop)",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e0"
+      }
+    },
+    {
+      "name": "Number of Pixel (MP)",
+      "value": "26",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e1"
+      }
+    },
+    {
+      "name": "Image Size",
+      "value": "6240 x 4160",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e2"
+      }
+    },
+    {
+      "name": "Image Stabilization",
+      "value": "Yes",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e3"
+      }
+    },
+    {
+      "name": "Lens Mount",
+      "value": "FUJIFILM X",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e4"
+      }
+    },
+    {
+      "name": "VIDEO",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e5"
+      }
+    },
+    {
+      "name": "Image Size",
+      "value": "DCI 4K/30p",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e6"
+      }
+    },
+    {
+      "name": "FOCUS",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e7"
+      }
+    },
+    {
+      "name": "Focus Type",
+      "value": "Auto and Manual Focus",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e8"
+      }
+    },
+    {
+      "name": "Focus Point",
+      "value": "117",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e9"
+      }
+    },
+    {
+      "name": "VIEWFINDER/MONITOR",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ea"
+      }
+    },
+    {
+      "name": "Viewfinder Type",
+      "value": "EVF",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805eb"
+      }
+    },
+    {
+      "name": "Monitor Type",
+      "value": "LCD Tilt",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ec"
+      }
+    },
+    {
+      "name": "FLASH",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ed"
+      }
+    },
+    {
+      "name": "Built-in Flash",
+      "value": "Yes",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ee"
+      }
+    },
+    {
+      "name": "External Flash Compatibility",
+      "value": "Hot Shoe",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ef"
+      }
+    },
+    {
+      "name": "INTERFACE",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f0"
+      }
+    },
+    {
+      "name": "GPS",
+      "value": "No",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f1"
+      }
+    },
+    {
+      "name": "Wireless Connection",
+      "value": "Wi-Fi",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f2"
+      }
+    },
+    {
+      "name": "External Connection",
+      "value": "Micro-HDMI Output Audio, 3.5 mm TRS Stereo Microphone Input, 3.5 mm TRS Stereo Headphone Output, USB-C Control/Monitor/Tether",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f3"
+      }
+    },
+    {
+      "name": "Memory Card Slot",
+      "value": "Single Slot: SD/SDHC/SDXC (UHS-I)",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f4"
+      }
+    },
+    {
+      "name": "SIZE, WEIGHT & OTHER",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f5"
+      }
+    },
+    {
+      "name": "Weight",
+      "value": "491 g",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f6"
+      }
+    },
+    {
+      "name": "Size",
+      "value": "127.7 x 85.1 x 65.4 mm",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f7"
+      }
+    },
+    {
+      "name": "Battery",
+      "value": "1 x NP-W235 Rechargeable Lithium-Ion, 7.2 VDC, 1080 mAh",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f8"
+      }
+    },
+    {
+      "name": "Other Information",
+      "value": "No",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f9"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "title": "Is it easy to use?",
+      "answer": "Yes",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805fa"
+      }
+    }
+  ],
+  "status": "active",
+  "created_at": {
+    "$date": "2024-07-08T20:42:22.912Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-08T20:42:22.912Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-08T20:42:22.919Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-09T12:36:00.578Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668c4fa55e7bc31725180d41"
+  },
+  "name": "Fujifilm X-H2 (Body Only)",
+  "description": "<h2>Fujifilm X-H2 Design Language</h2><p>True to the characteristics of mirrorless cars, the&nbsp;Fujifilm X-H2&nbsp;weighs only about 579g (body alone), the size is 136.3 x 92.9 x 84.6 mm compact. The device uses a large OLED electronic viewfinder with a resolution of 5.76 million pixels, 0.8x magnification for clear, detailed observation in each frame.</p><p><img src=\"https://cdn.vjshop.vn/may-anh/mirrorless/fujifilm/fujifilm-x-h2/anh-noi-dung/camera-fujifilm-x-h2-13.jpg\"></p><p>The back of the machine is integrated with a 3.0-inch LCD screen with a high resolution of 1.62 million pixels, an improved interface and touch capabilities to help users operate more intuitive control. In addition, the screen of the X-H2 can rotate and flip multi-angle, creating many shooting angles that are extremely flexible and convenient.</p><p>The device has an additional 1.28-inch wide secondary LCD screen located on the top-plate, helping users quickly track basic settings.\t</p>",
+  "price": 49990000,
+  "availableQuantity": 15,
+  "quantity": 15,
+  "category": {
+    "$oid": "666027a3ca86f6cbd61082a7"
+  },
+  "coupon": {
+    "$oid": "668d0b2f18b223faa4e1f26e"
+  },
+  "images": [
+    {
+      "name": "1720471461387-952885097-fujifilm-x-h2-500x500.jpeg",
+      "url": "public/uploads/1720471461387-952885097-fujifilm-x-h2-500x500.jpeg",
+      "_id": {
+        "$oid": "668c4fa55e7bc31725180d42"
+      }
+    }
+  ],
+  "specifications": [
+    {
+      "name": "GENERAL",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805d8"
+      }
+    },
+    {
+      "name": "Type",
+      "value": "Mirrorless",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805d9"
+      }
+    },
+    {
+      "name": "Inter-changeable Lens",
+      "value": "Yes",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805da"
+      }
+    },
+    {
+      "name": "EXPOSURE",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805db"
+      }
+    },
+    {
+      "name": "ISO",
+      "value": "80 - 51200 (Extended: 100 - 102400)",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805dc"
+      }
+    },
+    {
+      "name": "Shutter Speed",
+      "value": "1/8000 - 30s",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805dd"
+      }
+    },
+    {
+      "name": "Continuous Shooting Speed",
+      "value": "Up to 20 fps",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805de"
+      }
+    },
+    {
+      "name": "IMAGE",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805df"
+      }
+    },
+    {
+      "name": "Sensor",
+      "value": "APS-C (1.5x Crop)",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e0"
+      }
+    },
+    {
+      "name": "Number of Pixel (MP)",
+      "value": "40.2",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e1"
+      }
+    },
+    {
+      "name": "Image Size",
+      "value": "7728 x 5152",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e2"
+      }
+    },
+    {
+      "name": "Image Stabilization",
+      "value": "Yes",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e3"
+      }
+    },
+    {
+      "name": "Lens Mount",
+      "value": "FUJIFILM X",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e4"
+      }
+    },
+    {
+      "name": "VIDEO",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e5"
+      }
+    },
+    {
+      "name": "Image Size",
+      "value": "8K/24p",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e6"
+      }
+    },
+    {
+      "name": "FOCUS",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e7"
+      }
+    },
+    {
+      "name": "Focus Type",
+      "value": "Auto and Manual Focus",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e8"
+      }
+    },
+    {
+      "name": "Focus Point",
+      "value": "425",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e9"
+      }
+    },
+    {
+      "name": "VIEWFINDER/MONITOR",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ea"
+      }
+    },
+    {
+      "name": "Viewfinder Type",
+      "value": "EVF",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805eb"
+      }
+    },
+    {
+      "name": "Monitor Type",
+      "value": "LCD Touch",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ec"
+      }
+    },
+    {
+      "name": "FLASH",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ed"
+      }
+    },
+    {
+      "name": "Built-in Flash",
+      "value": "No",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ee"
+      }
+    },
+    {
+      "name": "External Flash Compatibility",
+      "value": "Hot Shoe",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ef"
+      }
+    },
+    {
+      "name": "INTERFACE",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f0"
+      }
+    },
+    {
+      "name": "GPS",
+      "value": "No",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f1"
+      }
+    },
+    {
+      "name": "Wireless Connection",
+      "value": "Wi-Fi, Bluetooth",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f2"
+      }
+    },
+    {
+      "name": "External Connection",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f3"
+      }
+    },
+    {
+      "name": "Memory Card Slot",
+      "value": "CFexpress Type B (SD Express)",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f4"
+      }
+    },
+    {
+      "name": "SIZE, WEIGHT & OTHER",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f5"
+      }
+    },
+    {
+      "name": "Weight",
+      "value": "579 g",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f6"
+      }
+    },
+    {
+      "name": "Size",
+      "value": "136.3 x 92.9 x 84.6 mm",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f7"
+      }
+    },
+    {
+      "name": "Battery",
+      "value": "NP-W235",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f8"
+      }
+    },
+    {
+      "name": "Other Information",
+      "value": "No",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f9"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "title": "Is it easy to use?",
+      "answer": "Yes",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805fa"
+      }
+    }
+  ],
+  "status": "active",
+  "created_at": {
+    "$date": "2024-07-08T20:44:21.451Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-08T20:44:21.451Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-08T20:44:21.457Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-09T12:36:00.578Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668c50005e7bc31725180e98"
+  },
+  "name": "Canon EOS RP (Body Only)",
+  "description": "<h2>Canon RF lens on Canon EOS RP</h2><p><img src=\"https://cdn.vjshop.vn/may-anh/mirrorless/canon/canon-eos-rp/may-anh-canon-eos-rp.jpg\"></p><p>Canon EOS RP&nbsp;has an RF lens mount, supporting Canon's RF mount lens line. This is a lens developed by Canon with a smaller design than the lenses of DSLR cameras on the market.</p><p>The tube mount also integrates a 12-pin electronic contact system for autofocus and darker image stability. This mount design also allows the machine to be compatible with EF and S-EF mount lenses via the EF-EOS R optional adapter.</p><h2>26.2MP full-frame CMOS sensor and DIGIC 8 image processor</h2><p><img src=\"https://cdn.vjshop.vn/may-anh/mirrorless/canon/canon-eos-rp/may-anh-canon-eos-rp-4.jpg\"></p><p>The 26.2MP full-frame CMOS sensor equipped on the Canon EOS RP gives excellent image quality and image detail. When this sensor is paired with the DIGIC 8 image processor, the EOS RP will produce an extremely wide range of light sensitivity: from ISO 100 to ISO 40000. This makes it possible for the camera to take photos in a variety of low-light conditions.</p><p>In addition,&nbsp;the camera&nbsp;can also shoot continuously at a speed of 5 frames per second, a number that is also quite impressive in the same segment.</p>",
+  "price": 19990000,
+  "availableQuantity": 15,
+  "quantity": 15,
+  "category": {
+    "$oid": "666027a3ca86f6cbd61082a7"
+  },
+  "coupon": null,
+  "images": [
+    {
+      "name": "1720471552810-396245536-canon-eos-rp-500x500.jpg",
+      "url": "public/uploads/1720471552810-396245536-canon-eos-rp-500x500.jpg",
+      "_id": {
+        "$oid": "668c50005e7bc31725180e99"
+      }
+    }
+  ],
+  "specifications": [
+    {
+      "name": "GENERAL",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805d8"
+      }
+    },
+    {
+      "name": "Type",
+      "value": "Mirrorless",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805d9"
+      }
+    },
+    {
+      "name": "Inter-changeable Lens",
+      "value": "Yes",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805da"
+      }
+    },
+    {
+      "name": "EXPOSURE",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805db"
+      }
+    },
+    {
+      "name": "ISO",
+      "value": "100 - 40000 (Extended: 50 - 102400)",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805dc"
+      }
+    },
+    {
+      "name": "Shutter Speed",
+      "value": "1/4000 - 30s",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805dd"
+      }
+    },
+    {
+      "name": "Continuous Shooting Speed",
+      "value": "Up to 5 fps",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805de"
+      }
+    },
+    {
+      "name": "IMAGE",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805df"
+      }
+    },
+    {
+      "name": "Sensor",
+      "value": "Full-Frame",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e0"
+      }
+    },
+    {
+      "name": "Number of Pixel (MP)",
+      "value": "27",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e1"
+      }
+    },
+    {
+      "name": "Image Size",
+      "value": "6240 x 4160",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e2"
+      }
+    },
+    {
+      "name": "Image Stabilization",
+      "value": "Yes",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e3"
+      }
+    },
+    {
+      "name": "Lens Mount",
+      "value": "Canon RF",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e4"
+      }
+    },
+    {
+      "name": "VIDEO",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e5"
+      }
+    },
+    {
+      "name": "Image Size",
+      "value": "UHD 4K/30p",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e6"
+      }
+    },
+    {
+      "name": "FOCUS",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e7"
+      }
+    },
+    {
+      "name": "Focus Type",
+      "value": "Auto and Manual Focus",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e8"
+      }
+    },
+    {
+      "name": "Focus Point",
+      "value": "479",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e9"
+      }
+    },
+    {
+      "name": "VIEWFINDER/MONITOR",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ea"
+      }
+    },
+    {
+      "name": "Viewfinder Type",
+      "value": "EVF",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805eb"
+      }
+    },
+    {
+      "name": "Monitor Type",
+      "value": "LCD Touch",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ec"
+      }
+    },
+    {
+      "name": "FLASH",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ed"
+      }
+    },
+    {
+      "name": "Built-in Flash",
+      "value": "No",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ee"
+      }
+    },
+    {
+      "name": "External Flash Compatibility",
+      "value": "Hot Shoe",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ef"
+      }
+    },
+    {
+      "name": "INTERFACE",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f0"
+      }
+    },
+    {
+      "name": "GPS",
+      "value": "No",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f1"
+      }
+    },
+    {
+      "name": "Wireless Connection",
+      "value": "Wi-Fi, Bluetooth",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f2"
+      }
+    },
+    {
+      "name": "External Connection",
+      "value": "3.5mm Headphone, 3.5mm Microphone, Canon E3, HDMI C (Mini), USB Type-C (USB 2.0)",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f3"
+      }
+    },
+    {
+      "name": "Memory Card Slot",
+      "value": "Single Slot: SD/SDHC/SDXC (UHS-I)",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f4"
+      }
+    },
+    {
+      "name": "SIZE, WEIGHT & OTHER",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f5"
+      }
+    },
+    {
+      "name": "Weight",
+      "value": "485 g",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f6"
+      }
+    },
+    {
+      "name": "Size",
+      "value": "132.5 x 85 x 70 mm",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f7"
+      }
+    },
+    {
+      "name": "Battery",
+      "value": "LP-E17 Rechargeable Lithium-Ion, 7.2 VDC, 1040 mAh",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f8"
+      }
+    },
+    {
+      "name": "Other Information",
+      "value": "No",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f9"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "title": "Is it easy to use?",
+      "answer": "Yes",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805fa"
+      }
+    }
+  ],
+  "status": "active",
+  "created_at": {
+    "$date": "2024-07-08T20:45:52.876Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-08T20:45:52.876Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-08T20:45:52.885Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T20:45:52.885Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668c506f5e7bc31725181009"
+  },
+  "name": "Canon EOS R5 (Body Only)",
+  "description": "<p><strong>Canon R5&nbsp;</strong>owns a 45MP Full-frame sensor designed and developed by Canon itself, providing high-resolution images and videos. Combined with the DIGIC X processor that appeared earlier on the 1DX III, thanks to the&nbsp;Canon EOS R5&nbsp;can provide fast data reading and processing.</p><p><img src=\"https://cdn.vjshop.vn/may-anh/mirrorless/canon/canon-eos-r5/canon-eos-r5-info-1.jpg\"></p><p>The camera has an ISO range of&nbsp;100 - 51200&nbsp;(can be expanded to&nbsp;100 - 102400), supporting photography in different lighting conditions. In particular, this DIGIC X image processor also helps Canon R5 to continuously shoot 12 images/second with a mechanical shutter or 20 images/second with an electronic shutter, supporting users to capture every moment, each movement.</p>",
+  "price": 63990000,
+  "availableQuantity": 15,
+  "quantity": 15,
+  "category": {
+    "$oid": "666027a3ca86f6cbd61082a7"
+  },
+  "coupon": {
+    "$oid": "668d0b2f18b223faa4e1f26e"
+  },
+  "images": [
+    {
+      "name": "1720471662997-539077077-canon-eos-r5-1-500x500.jpg",
+      "url": "public/uploads/1720471662997-539077077-canon-eos-r5-1-500x500.jpg",
+      "_id": {
+        "$oid": "668c506f5e7bc3172518100a"
+      }
+    }
+  ],
+  "specifications": [
+    {
+      "name": "GENERAL",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805d8"
+      }
+    },
+    {
+      "name": "Type",
+      "value": "Mirrorless",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805d9"
+      }
+    },
+    {
+      "name": "Inter-changeable Lens",
+      "value": "Yes",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805da"
+      }
+    },
+    {
+      "name": "EXPOSURE",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805db"
+      }
+    },
+    {
+      "name": "ISO",
+      "value": "100 - 51200 (Extended: 100 - 102400)",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805dc"
+      }
+    },
+    {
+      "name": "Shutter Speed",
+      "value": "1/8000 - 30s",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805dd"
+      }
+    },
+    {
+      "name": "Continuous Shooting Speed",
+      "value": "Up to 12 fps",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805de"
+      }
+    },
+    {
+      "name": "IMAGE",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805df"
+      }
+    },
+    {
+      "name": "Sensor",
+      "value": "Full-Fram",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e0"
+      }
+    },
+    {
+      "name": "Number of Pixel (MP)",
+      "value": "47",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e1"
+      }
+    },
+    {
+      "name": "Image Size",
+      "value": "8192 x 5464",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e2"
+      }
+    },
+    {
+      "name": "Image Stabilization",
+      "value": "Yes",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e3"
+      }
+    },
+    {
+      "name": "Lens Mount",
+      "value": "Canon RF",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e4"
+      }
+    },
+    {
+      "name": "VIDEO",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e5"
+      }
+    },
+    {
+      "name": "Image Size",
+      "value": "DCI 8K/30p",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e6"
+      }
+    },
+    {
+      "name": "FOCUS",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e7"
+      }
+    },
+    {
+      "name": "Focus Type",
+      "value": "Auto and Manual Focus",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e8"
+      }
+    },
+    {
+      "name": "Focus Point",
+      "value": "1053",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e9"
+      }
+    },
+    {
+      "name": "VIEWFINDER/MONITOR",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ea"
+      }
+    },
+    {
+      "name": "Viewfinder Type",
+      "value": "EVF",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805eb"
+      }
+    },
+    {
+      "name": "Monitor Type",
+      "value": "LCD Touch",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ec"
+      }
+    },
+    {
+      "name": "FLASH",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ed"
+      }
+    },
+    {
+      "name": "Built-in Flash",
+      "value": "No",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ee"
+      }
+    },
+    {
+      "name": "External Flash Compatibility",
+      "value": "Hot Shoe",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ef"
+      }
+    },
+    {
+      "name": "INTERFACE",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f0"
+      }
+    },
+    {
+      "name": "GPS",
+      "value": "No",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f1"
+      }
+    },
+    {
+      "name": "Wireless Connection",
+      "value": "Wi-Fi, Bluetooth",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f2"
+      }
+    },
+    {
+      "name": "External Connection",
+      "value": "USB Type-C (USB 3.1), HDMI D (Micro), 3.5mm Headphone, 3.5mm Microphone",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f3"
+      }
+    },
+    {
+      "name": "Memory Card Slot",
+      "value": "Slot 1: CFexpress Type B / Slot 2: SD,SDHC,SDXC (UHS-II)",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f4"
+      }
+    },
+    {
+      "name": "SIZE, WEIGHT & OTHER",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f5"
+      }
+    },
+    {
+      "name": "Weight",
+      "value": "738 g",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f6"
+      }
+    },
+    {
+      "name": "Size",
+      "value": "138 x 97.5 x 88 mm",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f7"
+      }
+    },
+    {
+      "name": "Battery",
+      "value": "LP-E6NH Rechargeable Lithium-Ion",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f8"
+      }
+    },
+    {
+      "name": "Other Information",
+      "value": "No",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f9"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "title": "Is it easy to use?",
+      "answer": "Yes",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805fa"
+      }
+    }
+  ],
+  "status": "active",
+  "created_at": {
+    "$date": "2024-07-08T20:47:43.061Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-08T20:47:43.061Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-08T20:47:43.067Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-09T12:36:00.578Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668c51405e7bc317251811a0"
+  },
+  "name": "Canon EOS 850D (Body Only)",
+  "description": "<p>When shooting in live view mode, Dual Pixel CMOS AF will help you focus automatically faster and more accurately. Eye Recogn AF mode focuses and monitors the subject's eyes on the Live View screen.</p><p><img src=\"https://cdn.vjshop.vn/may-anh/dslr/canon/canon-eos-850d/canon-eos-850d-6.jpg\"></p><p>The EOS iTR AF face recognition feature on the Canon EOS 850D also ensures clear portraits by tracking the face of the subject in motion while shooting with the camera viewfinder.</p><p><img src=\"https://cdn.vjshop.vn/may-anh/dslr/canon/canon-eos-850d/canon-eos-850d-7.jpg\"></p><p>Besides, when shooting through the optical viewfinder, the 45-point AF type helps to accurately focus on moving subjects quickly and easily. The time lag between the actual object's motion and the viewfinder display is virtually non-e so you won't worry about losing track of the moving object.</p>",
+  "price": 16900000,
+  "availableQuantity": 15,
+  "quantity": 15,
+  "category": {
+    "$oid": "666027a3ca86f6cbd61082a7"
+  },
+  "coupon": null,
+  "images": [
+    {
+      "name": "1720471872535-694469424-canon-eos-850d-body-2-500x500.jpg",
+      "url": "public/uploads/1720471872535-694469424-canon-eos-850d-body-2-500x500.jpg",
+      "_id": {
+        "$oid": "668c51405e7bc317251811a1"
+      }
+    }
+  ],
+  "specifications": [
+    {
+      "name": "GENERAL",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805d8"
+      }
+    },
+    {
+      "name": "Type",
+      "value": "DSLR",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805d9"
+      }
+    },
+    {
+      "name": "Inter-changeable Lens",
+      "value": "Yes",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805da"
+      }
+    },
+    {
+      "name": "EXPOSURE",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805db"
+      }
+    },
+    {
+      "name": "ISO",
+      "value": "100 - 25600 (Extended: 100 - 51200)",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805dc"
+      }
+    },
+    {
+      "name": "Shutter Speed",
+      "value": "1/4000 - 30s",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805dd"
+      }
+    },
+    {
+      "name": "Continuous Shooting Speed",
+      "value": "Up to 7 fps",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805de"
+      }
+    },
+    {
+      "name": "IMAGE",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805df"
+      }
+    },
+    {
+      "name": "Sensor",
+      "value": "APS-C (1.5x Crop)",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e0"
+      }
+    },
+    {
+      "name": "Number of Pixel (MP)",
+      "value": "25",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e1"
+      }
+    },
+    {
+      "name": "Image Size",
+      "value": "6000 x 4000",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e2"
+      }
+    },
+    {
+      "name": "Image Stabilization",
+      "value": "Yes",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e3"
+      }
+    },
+    {
+      "name": "Lens Mount",
+      "value": "EF/EF-S",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e4"
+      }
+    },
+    {
+      "name": "VIDEO",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e5"
+      }
+    },
+    {
+      "name": "Image Size",
+      "value": "UHD 4K/30p",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e6"
+      }
+    },
+    {
+      "name": "FOCUS",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e7"
+      }
+    },
+    {
+      "name": "Focus Type",
+      "value": "Auto and Manual Focus",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e8"
+      }
+    },
+    {
+      "name": "Focus Point",
+      "value": "45",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e9"
+      }
+    },
+    {
+      "name": "VIEWFINDER/MONITOR",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ea"
+      }
+    },
+    {
+      "name": "Viewfinder Type",
+      "value": "OVF",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805eb"
+      }
+    },
+    {
+      "name": "Monitor Type",
+      "value": "LCD Touch",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ec"
+      }
+    },
+    {
+      "name": "FLASH",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ed"
+      }
+    },
+    {
+      "name": "Built-in Flash",
+      "value": "Yes",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ee"
+      }
+    },
+    {
+      "name": "External Flash Compatibility",
+      "value": "Hot Shoe",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ef"
+      }
+    },
+    {
+      "name": "INTERFACE",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f0"
+      }
+    },
+    {
+      "name": "GPS",
+      "value": "No",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f1"
+      }
+    },
+    {
+      "name": "Wireless Connection",
+      "value": "Wi-Fi, Bluetooth",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f2"
+      }
+    },
+    {
+      "name": "External Connection",
+      "value": "3.5mm microphone, USB, HDMI-CEC",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f3"
+      }
+    },
+    {
+      "name": "Memory Card Slot",
+      "value": "SD, SDHC, SDXC (UHS I)",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f4"
+      }
+    },
+    {
+      "name": "SIZE, WEIGHT & OTHER",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f5"
+      }
+    },
+    {
+      "name": "Weight",
+      "value": "730 g",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f6"
+      }
+    },
+    {
+      "name": "Size",
+      "value": "131.0 x 102.6 x 76.2 mm",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f7"
+      }
+    },
+    {
+      "name": "Battery",
+      "value": "LP-E17",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f8"
+      }
+    },
+    {
+      "name": "Other Information",
+      "value": "No",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f9"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "title": "Is it easy to use?",
+      "answer": "Yes",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805fa"
+      }
+    }
+  ],
+  "status": "active",
+  "created_at": {
+    "$date": "2024-07-08T20:51:12.601Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-08T20:51:12.601Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-08T20:51:12.607Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T20:51:12.607Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668c51925e7bc31725181358"
+  },
+  "name": "Canon EOS 90D (Body Only)",
+  "description": "<h2>32.5MP APS-C CMOS Sensor and DIGIC 8 image processor</h2><p>The camera is equipped with a 32.5MP sensor in the high-resolution APS-C format that produces impressive photos. The ISO sensitivity from 100-25,600 (expandable to 51,200) allows the camera to shoot in low light with good noise cancellation. In addition, the DIGIC 8 image processor is also incorporated in the camera to provide excellent image quality with high sharpness. In particular, this image processor also helps to improve the ability to record UHD 4K 30p video.</p><p><img src=\"https://cdn.vjshop.vn/may-anh/dslr/canon/canon-eos-90d/canon-eos-90d-18-55mm-8.jpg\"></p><p><br></p>",
+  "price": 16900000,
+  "availableQuantity": 15,
+  "quantity": 15,
+  "category": {
+    "$oid": "666027a3ca86f6cbd61082a7"
+  },
+  "coupon": null,
+  "images": [
+    {
+      "name": "1720471954109-172053065-canon-eos-90d-body-500x500.jpg",
+      "url": "public/uploads/1720471954109-172053065-canon-eos-90d-body-500x500.jpg",
+      "_id": {
+        "$oid": "668c51925e7bc31725181359"
+      }
+    }
+  ],
+  "specifications": [
+    {
+      "name": "GENERAL",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805d8"
+      }
+    },
+    {
+      "name": "Type",
+      "value": "Mirrorless",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805d9"
+      }
+    },
+    {
+      "name": "Inter-changeable Lens",
+      "value": "Yes",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805da"
+      }
+    },
+    {
+      "name": "EXPOSURE",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805db"
+      }
+    },
+    {
+      "name": "ISO",
+      "value": "100 - 25600 (Extended: 100 - 51200)",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805dc"
+      }
+    },
+    {
+      "name": "Shutter Speed",
+      "value": "1/8000 - 30s",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805dd"
+      }
+    },
+    {
+      "name": "Continuous Shooting Speed",
+      "value": "Up to 10 fps",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805de"
+      }
+    },
+    {
+      "name": "IMAGE",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805df"
+      }
+    },
+    {
+      "name": "Sensor",
+      "value": "APS-C (1.5x Crop)",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e0"
+      }
+    },
+    {
+      "name": "Number of Pixel (MP)",
+      "value": "35",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e1"
+      }
+    },
+    {
+      "name": "Image Size",
+      "value": "6960 x 4640",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e2"
+      }
+    },
+    {
+      "name": "Image Stabilization",
+      "value": "Yes",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e3"
+      }
+    },
+    {
+      "name": "Lens Mount",
+      "value": "EF-S",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e4"
+      }
+    },
+    {
+      "name": "VIDEO",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e5"
+      }
+    },
+    {
+      "name": "Image Size",
+      "value": "UHD 4K/30p",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e6"
+      }
+    },
+    {
+      "name": "FOCUS",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e7"
+      }
+    },
+    {
+      "name": "Focus Type",
+      "value": "Auto and Manual Focus",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e8"
+      }
+    },
+    {
+      "name": "Focus Point",
+      "value": "45",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e9"
+      }
+    },
+    {
+      "name": "VIEWFINDER/MONITOR",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ea"
+      }
+    },
+    {
+      "name": "Viewfinder Type",
+      "value": "EVF",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805eb"
+      }
+    },
+    {
+      "name": "Monitor Type",
+      "value": "LCD Touch",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ec"
+      }
+    },
+    {
+      "name": "FLASH",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ed"
+      }
+    },
+    {
+      "name": "Built-in Flash",
+      "value": "Yes",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ee"
+      }
+    },
+    {
+      "name": "External Flash Compatibility",
+      "value": "Hot Shoe",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ef"
+      }
+    },
+    {
+      "name": "INTERFACE",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f0"
+      }
+    },
+    {
+      "name": "GPS",
+      "value": "No",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f1"
+      }
+    },
+    {
+      "name": "Wireless Connection",
+      "value": "Wi-Fi, Bluetooth",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f2"
+      }
+    },
+    {
+      "name": "External Connection",
+      "value": "3.5mm Headphone, 3.5mm Microphone, HDMI C (Mini), USB Micro-B (USB 2.0)",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f3"
+      }
+    },
+    {
+      "name": "Memory Card Slot",
+      "value": "Single Slot: SD/SDHC/SDXC (UHS-I)",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f4"
+      }
+    },
+    {
+      "name": "SIZE, WEIGHT & OTHER",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f5"
+      }
+    },
+    {
+      "name": "Weight",
+      "value": "701 g",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f6"
+      }
+    },
+    {
+      "name": "Size",
+      "value": "140.7 x 104.8 x 76.8 mm",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f7"
+      }
+    },
+    {
+      "name": "Battery",
+      "value": "LP-E6N",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f8"
+      }
+    },
+    {
+      "name": "Other Information",
+      "value": "No",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f9"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "title": "Is it easy to use?",
+      "answer": "Yes",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805fa"
+      }
+    }
+  ],
+  "status": "active",
+  "created_at": {
+    "$date": "2024-07-08T20:52:34.172Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-08T20:52:34.172Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-08T20:52:34.188Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T20:52:34.188Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668c51ee5e7bc31725181540"
+  },
+  "name": "Canon EOS 5D Mark IV (Body Only)",
+  "description": "<h3>Smart viewfinder on Canon EOS 5D Mark IV</h3><p>The smart viewfinder is designed so that users can see the AF points that will be highlighted in red. In addition, the viewfinder can also display a series of information such as grid, white balance, metering mode, AF information and other settings - an extremely smart and extremely modern design on this camera.</p><p><img src=\"https://cdn.vjshop.vn/may-anh/dslr/canon/canon-eos-5d-mark-iv/may-anh-canon-eos-5d-mark-iv-5.jpg\"></p><h3>Body with sturdy Magnesium alloy</h3><p>The body is made of Magnesium alloy - an extremely high-grade alloy for a grip feeling as well as a really \"worth the money\" user experience as well as allowing the machine to work well in a variety of harsh environmental conditions.</p><p><br></p>",
+  "price": 41990000,
+  "availableQuantity": 15,
+  "quantity": 15,
+  "category": {
+    "$oid": "666027a3ca86f6cbd61082a7"
+  },
+  "coupon": {
+    "$oid": "668d0b2f18b223faa4e1f26e"
+  },
+  "images": [
+    {
+      "name": "1720472046461-86555370-canon-eos-5d-mark-iv-500x500.jpg",
+      "url": "public/uploads/1720472046461-86555370-canon-eos-5d-mark-iv-500x500.jpg",
+      "_id": {
+        "$oid": "668c51ee5e7bc31725181541"
+      }
+    }
+  ],
+  "specifications": [
+    {
+      "name": "GENERAL",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805d8"
+      }
+    },
+    {
+      "name": "Type",
+      "value": "Mirrorless",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805d9"
+      }
+    },
+    {
+      "name": "Inter-changeable Lens",
+      "value": "Yes",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805da"
+      }
+    },
+    {
+      "name": "EXPOSURE",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805db"
+      }
+    },
+    {
+      "name": "ISO",
+      "value": "100 - 32000 (Extended: 50 - 102400)",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805dc"
+      }
+    },
+    {
+      "name": "Shutter Speed",
+      "value": "1/8000 - 30s",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805dd"
+      }
+    },
+    {
+      "name": "Continuous Shooting Speed",
+      "value": "Up to 7 fps",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805de"
+      }
+    },
+    {
+      "name": "IMAGE",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805df"
+      }
+    },
+    {
+      "name": "Sensor",
+      "value": "Full-Frame",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e0"
+      }
+    },
+    {
+      "name": "Number of Pixel (MP)",
+      "value": "32",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e1"
+      }
+    },
+    {
+      "name": "Image Size",
+      "value": "6720 x 4480",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e2"
+      }
+    },
+    {
+      "name": "Image Stabilization",
+      "value": "No",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e3"
+      }
+    },
+    {
+      "name": "Lens Mount",
+      "value": "EF",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e4"
+      }
+    },
+    {
+      "name": "VIDEO",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e5"
+      }
+    },
+    {
+      "name": "Image Size",
+      "value": "DCI 4K/30p",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e6"
+      }
+    },
+    {
+      "name": "FOCUS",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e7"
+      }
+    },
+    {
+      "name": "Focus Type",
+      "value": "Auto and Manual Focus",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e8"
+      }
+    },
+    {
+      "name": "Focus Point",
+      "value": "61",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e9"
+      }
+    },
+    {
+      "name": "VIEWFINDER/MONITOR",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ea"
+      }
+    },
+    {
+      "name": "Viewfinder Type",
+      "value": "OVF",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805eb"
+      }
+    },
+    {
+      "name": "Monitor Type",
+      "value": "LCD Touch",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ec"
+      }
+    },
+    {
+      "name": "FLASH",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ed"
+      }
+    },
+    {
+      "name": "Built-in Flash",
+      "value": "No",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ee"
+      }
+    },
+    {
+      "name": "External Flash Compatibility",
+      "value": "Hot Shoe",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ef"
+      }
+    },
+    {
+      "name": "INTERFACE",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f0"
+      }
+    },
+    {
+      "name": "GPS",
+      "value": "Yes",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f1"
+      }
+    },
+    {
+      "name": "Wireless Connection",
+      "value": "Wi-Fi",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f2"
+      }
+    },
+    {
+      "name": "External Connection",
+      "value": "3.5mm Headphone, 3.5mm Microphone, Canon N3, HDMI C (Mini), USB Micro-B (USB 3.0)",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f3"
+      }
+    },
+    {
+      "name": "Memory Card Slot",
+      "value": "Slot 1: SD/SDHC/SDXC (UHS-I) / Slot 2: CompactFlash (UDMA 7)",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f4"
+      }
+    },
+    {
+      "name": "SIZE, WEIGHT & OTHER",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f5"
+      }
+    },
+    {
+      "name": "Weight",
+      "value": "800 g",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f6"
+      }
+    },
+    {
+      "name": "Size",
+      "value": "150.7 x 116.4 x 75.9 mm",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f7"
+      }
+    },
+    {
+      "name": "Battery",
+      "value": " LP-E6N ",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f8"
+      }
+    },
+    {
+      "name": "Other Information",
+      "value": "No",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f9"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "title": "Is it easy to use?",
+      "answer": "Yes",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805fa"
+      }
+    }
+  ],
+  "status": "active",
+  "created_at": {
+    "$date": "2024-07-08T20:54:06.523Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-08T20:54:06.523Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-08T20:54:06.530Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-09T12:36:00.578Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668c52475e7bc3172518171b"
+  },
+  "name": "Nikon Z fc (Natural Gray, Body Only)",
+  "description": "<h2>Design of Nikon Zfc</h2><p>The Nikon Z fc camera is equipped with a 3-inch LCD screen with 1.04 million pixels for users to see clear and vivid images. The touch screen, rotating corners suitable for sefie photography as well as control and setting. The camera body is made of weather-resistant magnesium alloy, so you can use the camera in a variety of environments.</p><p><img src=\"https://cdn.vjshop.vn/may-anh/mirrorless/nikon/nikon-z-fc/anh-mo-ta/nikon-z-fc.jpg\"></p><p>The camera&nbsp;is designed with finely carved, meticulously carved dials and mechanical controls for shutter speed, ISO and exposure compensation. This design allows users to easily access automatic mode, quick settings.</p><p><img src=\"https://cdn.vjshop.vn/may-anh/mirrorless/nikon/nikon-z-fc/anh-mo-ta/nikon-ra-mat-may-anh-mirrorless-nikon-zfc-4-result.jpg\"></p><p><br></p>",
+  "price": 23900000,
+  "availableQuantity": 15,
+  "quantity": 15,
+  "category": {
+    "$oid": "666027a3ca86f6cbd61082a7"
+  },
+  "coupon": {
+    "$oid": "668d0b2f18b223faa4e1f26e"
+  },
+  "images": [
+    {
+      "name": "1720472135187-938889526-nikon-z-fc-500x500.jpg",
+      "url": "public/uploads/1720472135187-938889526-nikon-z-fc-500x500.jpg",
+      "_id": {
+        "$oid": "668c52475e7bc3172518171c"
+      }
+    }
+  ],
+  "specifications": [
+    {
+      "name": "GENERAL",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805d8"
+      }
+    },
+    {
+      "name": "Type",
+      "value": "Mirrorless",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805d9"
+      }
+    },
+    {
+      "name": "Inter-changeable Lens",
+      "value": "Yes",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805da"
+      }
+    },
+    {
+      "name": "EXPOSURE",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805db"
+      }
+    },
+    {
+      "name": "ISO",
+      "value": "100 - 51200 (Extended: 100 - 204800)",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805dc"
+      }
+    },
+    {
+      "name": "Shutter Speed",
+      "value": "1/4000 - 900s",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805dd"
+      }
+    },
+    {
+      "name": "Continuous Shooting Speed",
+      "value": "Up to 11 fps",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805de"
+      }
+    },
+    {
+      "name": "IMAGE",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805df"
+      }
+    },
+    {
+      "name": "Sensor",
+      "value": "APS-C (1.5x Crop)",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e0"
+      }
+    },
+    {
+      "name": "Number of Pixel (MP)",
+      "value": "20",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e1"
+      }
+    },
+    {
+      "name": "Image Size",
+      "value": "5568 x 3712",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e2"
+      }
+    },
+    {
+      "name": "Image Stabilization",
+      "value": "No",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e3"
+      }
+    },
+    {
+      "name": "Lens Mount",
+      "value": "Nikon Z",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e4"
+      }
+    },
+    {
+      "name": "VIDEO",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e5"
+      }
+    },
+    {
+      "name": "Image Size",
+      "value": "UHD 4K/30p",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e6"
+      }
+    },
+    {
+      "name": "FOCUS",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e7"
+      }
+    },
+    {
+      "name": "Focus Type",
+      "value": "Auto and Manual Focus",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e8"
+      }
+    },
+    {
+      "name": "Focus Point",
+      "value": "209",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e9"
+      }
+    },
+    {
+      "name": "VIEWFINDER/MONITOR",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ea"
+      }
+    },
+    {
+      "name": "Viewfinder Type",
+      "value": "EVF",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805eb"
+      }
+    },
+    {
+      "name": "Monitor Type",
+      "value": "LCD Touch Tilt",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ec"
+      }
+    },
+    {
+      "name": "FLASH",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ed"
+      }
+    },
+    {
+      "name": "Built-in Flash",
+      "value": "No",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ee"
+      }
+    },
+    {
+      "name": "External Flash Compatibility",
+      "value": "Hot Shoe",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ef"
+      }
+    },
+    {
+      "name": "INTERFACE",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f0"
+      }
+    },
+    {
+      "name": "GPS",
+      "value": "No",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f1"
+      }
+    },
+    {
+      "name": "Wireless Connection",
+      "value": "Wi-Fi, Bluetooth",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f2"
+      }
+    },
+    {
+      "name": "External Connection",
+      "value": "USB C",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f3"
+      }
+    },
+    {
+      "name": "Memory Card Slot",
+      "value": "Single Slot: SD/SDHC/SDXC (UHS-I)",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f4"
+      }
+    },
+    {
+      "name": "SIZE, WEIGHT & OTHER",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f5"
+      }
+    },
+    {
+      "name": "Weight",
+      "value": "390 g",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f6"
+      }
+    },
+    {
+      "name": "Size",
+      "value": "13.5 x 9.4 x 4.6 cm",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f7"
+      }
+    },
+    {
+      "name": "Battery",
+      "value": "EN-EL25",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f8"
+      }
+    },
+    {
+      "name": "Other Information",
+      "value": "No",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f9"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "title": "Is it easy to use?",
+      "answer": "Yes",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805fa"
+      }
+    }
+  ],
+  "status": "active",
+  "created_at": {
+    "$date": "2024-07-08T20:55:35.250Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-08T20:55:35.250Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-08T20:55:35.254Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-09T12:36:00.578Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668c52a95e7bc317251818f7"
+  },
+  "name": "Nikon Z6 II (Body Only)",
+  "description": "<h2>24.5MP Full-frame BSI CMOS sensor and Dual Expeed image processor</h2><p>The camera delivers high-resolution images thanks to a 24.5MP Full-frame BSI CMOS sensor. The sensor can work in many different lighting conditions with an ISO sensitivity from&nbsp;100- 51200, combined with 5-axis anti-shake feature in the body to help reduce vibration and noise for sharper handheld photos.</p><p>This sensor combined with the Dual Expeed image processor increases performance, allowing continuous shooting of 14 frames per second. At the same time, improve focus, reduce noise, bring images with high resolution. In the&nbsp;Nikon Z6 II&nbsp;version, Nikon has improved autofocus to accurately detect subjects, capturing focus even for small details such as faces or animal eyes.</p><p><img src=\"https://cdn.vjshop.vn/may-anh/mirrorless/nikon/nikon-z6/nikon-z6-bo-xu-ly.png\"></p><h2>Phase focus system 273 points</h2><p>Located on the sensor is a range of 273 phased autofocus points covering 90% of the image area both vertically and horizontally. This makes the camera focus fast and accurate, suitable for still photography and video recording. This focus system can cover the entire frame to ensure accurate focusing on objects at the corner of the frame. The integrated Hybrid AF system makes video recording smooth. This system will automatically switch with a phased focusing system that provides fast, smooth focus while recording.</p>",
+  "price": 37900000,
+  "availableQuantity": 14,
+  "quantity": 15,
+  "category": {
+    "$oid": "666027a3ca86f6cbd61082a7"
+  },
+  "coupon": {
+    "$oid": "668d0b2f18b223faa4e1f26e"
+  },
+  "images": [
+    {
+      "name": "1720472233394-387712160-nikon-z6-ii-500x500.jpg",
+      "url": "public/uploads/1720472233394-387712160-nikon-z6-ii-500x500.jpg",
+      "_id": {
+        "$oid": "668c52a95e7bc317251818f8"
+      }
+    }
+  ],
+  "specifications": [
+    {
+      "name": "GENERAL",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805d8"
+      }
+    },
+    {
+      "name": "Type",
+      "value": "Mirrorless",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805d9"
+      }
+    },
+    {
+      "name": "Inter-changeable Lens",
+      "value": "Yes",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805da"
+      }
+    },
+    {
+      "name": "EXPOSURE",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805db"
+      }
+    },
+    {
+      "name": "ISO",
+      "value": "100 - 51200 (Extended: 100 - 204800)",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805dc"
+      }
+    },
+    {
+      "name": "Shutter Speed",
+      "value": "1/8000 - 900s",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805dd"
+      }
+    },
+    {
+      "name": "Continuous Shooting Speed",
+      "value": "Up to 14 fps",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805de"
+      }
+    },
+    {
+      "name": "IMAGE",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805df"
+      }
+    },
+    {
+      "name": "Sensor",
+      "value": "Full-Frame",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e0"
+      }
+    },
+    {
+      "name": "Number of Pixel (MP)",
+      "value": "25",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e1"
+      }
+    },
+    {
+      "name": "Image Size",
+      "value": "6000 x 4000",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e2"
+      }
+    },
+    {
+      "name": "Image Stabilization",
+      "value": "Yes",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e3"
+      }
+    },
+    {
+      "name": "Lens Mount",
+      "value": "Nikon Z",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e4"
+      }
+    },
+    {
+      "name": "VIDEO",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e5"
+      }
+    },
+    {
+      "name": "Image Size",
+      "value": "UHD 4K/30p",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e6"
+      }
+    },
+    {
+      "name": "FOCUS",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e7"
+      }
+    },
+    {
+      "name": "Focus Type",
+      "value": "Auto and Manual Focus",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e8"
+      }
+    },
+    {
+      "name": "Focus Point",
+      "value": "273",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e9"
+      }
+    },
+    {
+      "name": "VIEWFINDER/MONITOR",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ea"
+      }
+    },
+    {
+      "name": "Viewfinder Type",
+      "value": "EVF",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805eb"
+      }
+    },
+    {
+      "name": "Monitor Type",
+      "value": "LCD Touch Tilt",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ec"
+      }
+    },
+    {
+      "name": "FLASH",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ed"
+      }
+    },
+    {
+      "name": "Built-in Flash",
+      "value": "No",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ee"
+      }
+    },
+    {
+      "name": "External Flash Compatibility",
+      "value": "Hot Shoe",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ef"
+      }
+    },
+    {
+      "name": "INTERFACE",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f0"
+      }
+    },
+    {
+      "name": "GPS",
+      "value": "No",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f1"
+      }
+    },
+    {
+      "name": "Wireless Connection",
+      "value": "Wi-Fi, Bluetooth",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f2"
+      }
+    },
+    {
+      "name": "External Connection",
+      "value": "3.5mm Headphone, 3.5mm Microphone, HDMI C (Mini), Nikon DC2, USB Type-C (USB 3.0)",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f3"
+      }
+    },
+    {
+      "name": "Memory Card Slot",
+      "value": "Slot 1: CFexpress Type B / XQD | Slot 2: SD/SDHC/SDXC (UHS-II)",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f4"
+      }
+    },
+    {
+      "name": "SIZE, WEIGHT & OTHER",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f5"
+      }
+    },
+    {
+      "name": "Weight",
+      "value": "615 g",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f6"
+      }
+    },
+    {
+      "name": "Size",
+      "value": "134 x 100.5 x 69.5 mm",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f7"
+      }
+    },
+    {
+      "name": "Battery",
+      "value": "EN-EL15c",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f8"
+      }
+    },
+    {
+      "name": "Other Information",
+      "value": "No",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f9"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "title": "Is it easy to use?",
+      "answer": "Yes",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805fa"
+      }
+    }
+  ],
+  "status": "active",
+  "created_at": {
+    "$date": "2024-07-08T20:57:13.463Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-08T20:57:13.463Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-08T20:57:13.477Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-09T12:36:00.578Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668c530a5e7bc31725181add"
+  },
+  "name": "Nikon Z7 II (Body Only)",
+  "description": "<h2>Strong, powerful design of Nikon Z7 II</h2><p>Still keeping the same strong design as the two previous generation Z-mount cameras, the Z7 II is mostly made of durable magnesium alloy, for extreme weather resistance. Support photographers to shoot in all different conditions while ensuring the best image and video quality.</p><p>With a deep grip, the Nikon Z7 Mark II feels solid, comfortable handheld photography. At the same time, owning a flexible compact size helps users to carry the camera to work anywhere, it is very convenient without worrying about bulky and difficult when moving.</p><p><img src=\"https://cdn.vjshop.vn/may-anh/mirrorless/nikon/nikon-z7-ii/anh-mo-ta/may-anh-nikon-z7-ii-1.jpg\"></p>",
+  "price": 45900000,
+  "availableQuantity": 15,
+  "quantity": 15,
+  "category": {
+    "$oid": "666027a3ca86f6cbd61082a7"
+  },
+  "coupon": {
+    "$oid": "668d0b2f18b223faa4e1f26e"
+  },
+  "images": [
+    {
+      "name": "1720472330799-670502394-nikon-z7-ii-500x500.jpg",
+      "url": "public/uploads/1720472330799-670502394-nikon-z7-ii-500x500.jpg",
+      "_id": {
+        "$oid": "668c530a5e7bc31725181ade"
+      }
+    }
+  ],
+  "specifications": [
+    {
+      "name": "GENERAL",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805d8"
+      }
+    },
+    {
+      "name": "Type",
+      "value": "Mirrorless",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805d9"
+      }
+    },
+    {
+      "name": "Inter-changeable Lens",
+      "value": "Yes",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805da"
+      }
+    },
+    {
+      "name": "EXPOSURE",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805db"
+      }
+    },
+    {
+      "name": "ISO",
+      "value": "64 - 256000 (Extended: 32 - 102400)",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805dc"
+      }
+    },
+    {
+      "name": "Shutter Speed",
+      "value": "1/8000 - 900s",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805dd"
+      }
+    },
+    {
+      "name": "Continuous Shooting Speed",
+      "value": "Up to 10 fps",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805de"
+      }
+    },
+    {
+      "name": "IMAGE",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805df"
+      }
+    },
+    {
+      "name": "Sensor",
+      "value": "Full-Frame",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e0"
+      }
+    },
+    {
+      "name": "Number of Pixel (MP)",
+      "value": "45",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e1"
+      }
+    },
+    {
+      "name": "Image Size",
+      "value": "8256 x 5504",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e2"
+      }
+    },
+    {
+      "name": "Image Stabilization",
+      "value": "Yes",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e3"
+      }
+    },
+    {
+      "name": "Lens Mount",
+      "value": "Sony E",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e4"
+      }
+    },
+    {
+      "name": "VIDEO",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e5"
+      }
+    },
+    {
+      "name": "Image Size",
+      "value": "UHD 4K/30p",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e6"
+      }
+    },
+    {
+      "name": "FOCUS",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e7"
+      }
+    },
+    {
+      "name": "Focus Type",
+      "value": "Auto and Manual Focus",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e8"
+      }
+    },
+    {
+      "name": "Focus Point",
+      "value": "493",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805e9"
+      }
+    },
+    {
+      "name": "VIEWFINDER/MONITOR",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ea"
+      }
+    },
+    {
+      "name": "Viewfinder Type",
+      "value": "EVF",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805eb"
+      }
+    },
+    {
+      "name": "Monitor Type",
+      "value": "LCD Touch Tilt",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ec"
+      }
+    },
+    {
+      "name": "FLASH",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ed"
+      }
+    },
+    {
+      "name": "Built-in Flash",
+      "value": "No",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ee"
+      }
+    },
+    {
+      "name": "External Flash Compatibility",
+      "value": "Hot Shoe",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805ef"
+      }
+    },
+    {
+      "name": "INTERFACE",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f0"
+      }
+    },
+    {
+      "name": "GPS",
+      "value": "No",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f1"
+      }
+    },
+    {
+      "name": "Wireless Connection",
+      "value": "Wi-Fi, Bluetooth",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f2"
+      }
+    },
+    {
+      "name": "External Connection",
+      "value": "3.5mm Microphone, HDMI D (Micro), Wired Remote Port, USB Micro-B (USB 2.0)",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f3"
+      }
+    },
+    {
+      "name": "Memory Card Slot",
+      "value": "Slot 1: CFexpress Type B / XQD / Slot 2: SD/SDHC/SDXC (UHS-II)",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f4"
+      }
+    },
+    {
+      "name": "SIZE, WEIGHT & OTHER",
+      "value": "-",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f5"
+      }
+    },
+    {
+      "name": "Weight",
+      "value": "615 g",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f6"
+      }
+    },
+    {
+      "name": "Size",
+      "value": "134 x 100.5 x 69.5 mm",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f7"
+      }
+    },
+    {
+      "name": "Battery",
+      "value": "EN-EL15c",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f8"
+      }
+    },
+    {
+      "name": "Other Information",
+      "value": "No",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805f9"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "title": "Is it easy to use?",
+      "answer": "Yes",
+      "_id": {
+        "$oid": "668c4bc55e7bc317251805fa"
+      }
+    }
+  ],
+  "status": "active",
+  "created_at": {
+    "$date": "2024-07-08T20:58:50.863Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-08T20:58:50.863Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-08T20:58:50.869Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-09T12:36:00.578Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668c54015e7bc31725181cbb"
+  },
+  "name": "Sony Sonnar T* FE 55mm f/1.8 ZA ",
+  "description": "<h2>Design of Sony Sonnar T*FE 55mm F1.8 ZA lens</h2><p>The Sonnar T*FE 55mm f/1.8 ZA lens is&nbsp;a mirrorless lens&nbsp;with an optical design and sharp image quality. This is a lens designed for Sony E-mount full-frame cameras. However, the lens can also be used on APS-C format cameras with a focal length equivalent to 82.5mm.</p><p>A better dust and moisture proof design allows for working in extreme conditions and a rubber control ring makes the lens perform well in low temperature conditions.</p><p><img src=\"https://cdn.vjshop.vn/ong-kinh/mirrorless/sony/sony-sonnar-t-fe-55mm-f18-za/sony-sonnar-t-fe-55mm-f18-za-lens.jpg\"></p><p><br></p>",
+  "price": 12490000,
+  "availableQuantity": 15,
+  "quantity": 15,
+  "category": {
+    "$oid": "66602941ca86f6cbd61082c0"
+  },
+  "coupon": null,
+  "images": [
+    {
+      "name": "1720472577256-885464427-sony-sonnar-t-fe-55mm-f18-za-lens-500x500.jpg",
+      "url": "public/uploads/1720472577256-885464427-sony-sonnar-t-fe-55mm-f18-za-lens-500x500.jpg",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cbc"
+      }
+    }
+  ],
+  "specifications": [
+    {
+      "name": "Focal Length",
+      "value": "55mm",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cbd"
+      }
+    },
+    {
+      "name": "Aperture",
+      "value": " f/1.8",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cbe"
+      }
+    },
+    {
+      "name": "Mount",
+      "value": "Sony E",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cbf"
+      }
+    },
+    {
+      "name": "Format",
+      "value": "Full-Frame",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc0"
+      }
+    },
+    {
+      "name": "Angle of View",
+      "value": " 43°",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc1"
+      }
+    },
+    {
+      "name": "Minimum Focus Distance",
+      "value": "50 cm",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc2"
+      }
+    },
+    {
+      "name": "Lens Groups / Elements",
+      "value": "5/7",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc3"
+      }
+    },
+    {
+      "name": "Focus Type",
+      "value": "Autofocus",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc4"
+      }
+    },
+    {
+      "name": "Stabilization",
+      "value": "No",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc5"
+      }
+    },
+    {
+      "name": "Filter Diameter",
+      "value": "49 mm (Front)",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc6"
+      }
+    },
+    {
+      "name": "Size",
+      "value": "64.52 x 70.61 mm",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc7"
+      }
+    },
+    {
+      "name": "Weight",
+      "value": "281 g",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc8"
+      }
+    },
+    {
+      "name": "Other Information",
+      "value": "No",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc9"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "title": "Is it good?",
+      "answer": "Yes",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cca"
+      }
+    }
+  ],
+  "status": "active",
+  "created_at": {
+    "$date": "2024-07-08T21:02:57.319Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-08T21:02:57.319Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-08T21:02:57.322Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T21:02:57.322Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668c543e5e7bc31725181e6c"
+  },
+  "name": "Sony Vario-Tessar T*FE 24-70mm f/4 ZA OSS",
+  "description": "<p>Sony Vario-Tessar T* FE 24-70mm f/4 ZA OSS&nbsp;– a versatile lens that can capture a variety of subjects from wide-angle to far-angle, suitable for a variety of shooting styles, allowing photographers to unleash their creativity with their cameras. Special optical design with anti-glare Zeiss T* coating, combined with fast, accurate autofocus system and Optical SteadyShot image stabilization provides sharp and smooth image and video quality.</p><p><img src=\"https://cdn.vjshop.vn/ong-kinh/mirrorless/sony/sony-vario-tessar-t-fe-24-70mm-f4-za-oss/anh-mo-ta/sony-vario-tessar-t-fe-24-70mm-f4-za-oss.jpg\"></p><p><br></p>",
+  "price": 24900000,
+  "availableQuantity": 15,
+  "quantity": 15,
+  "category": {
+    "$oid": "66602941ca86f6cbd61082c0"
+  },
+  "coupon": null,
+  "images": [
+    {
+      "name": "1720472638814-801317753-sony-vario-tessar-t-fe-24-70mm-f4-za-oss-chinh-hang-500x500.jpg",
+      "url": "public/uploads/1720472638814-801317753-sony-vario-tessar-t-fe-24-70mm-f4-za-oss-chinh-hang-500x500.jpg",
+      "_id": {
+        "$oid": "668c543e5e7bc31725181e6d"
+      }
+    }
+  ],
+  "specifications": [
+    {
+      "name": "Focal Length",
+      "value": "55mm",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cbd"
+      }
+    },
+    {
+      "name": "Aperture",
+      "value": " f/1.8",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cbe"
+      }
+    },
+    {
+      "name": "Mount",
+      "value": "Sony E",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cbf"
+      }
+    },
+    {
+      "name": "Format",
+      "value": "Full-Frame",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc0"
+      }
+    },
+    {
+      "name": "Angle of View",
+      "value": " 43°",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc1"
+      }
+    },
+    {
+      "name": "Minimum Focus Distance",
+      "value": "50 cm",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc2"
+      }
+    },
+    {
+      "name": "Lens Groups / Elements",
+      "value": "5/7",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc3"
+      }
+    },
+    {
+      "name": "Focus Type",
+      "value": "Autofocus",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc4"
+      }
+    },
+    {
+      "name": "Stabilization",
+      "value": "No",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc5"
+      }
+    },
+    {
+      "name": "Filter Diameter",
+      "value": "49 mm (Front)",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc6"
+      }
+    },
+    {
+      "name": "Size",
+      "value": "64.52 x 70.61 mm",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc7"
+      }
+    },
+    {
+      "name": "Weight",
+      "value": "281 g",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc8"
+      }
+    },
+    {
+      "name": "Other Information",
+      "value": "No",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc9"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "title": "Is it good?",
+      "answer": "Yes",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cca"
+      }
+    }
+  ],
+  "status": "active",
+  "created_at": {
+    "$date": "2024-07-08T21:03:58.877Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-08T21:03:58.877Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-08T21:03:58.882Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T21:03:58.882Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668c54965e7bc31725182009"
+  },
+  "name": "Sony E 55-210mm f/4.5-6.3 OSS (Black)",
+  "description": "<p>With an optical design using two ultra-low dispersion lenses and two aspherical lenses, the lens minimizes chromatic aberrations and color borders to improve color clarity and fidelicity allowing users to enjoy beautiful images. The maximum aperture of f/4.5-6.3 is variable to help keep the overall lens size and weight to a minimum.</p><p><img src=\"https://cdn.vjshop.vn/ong-kinh/mirrorless/sony/sony-e-55-210mm/sony-e-55-210mm-03.jpg\"></p><p>In addition, thanks to the Optical SteadyShot image stabilization feature, the camera shake will be significantly reduced, bringing sharper images. The focus design inside the&nbsp;lens&nbsp;allows for fast, smooth autofocus with a minimum focus distance of 3.3'. 7 round aperture leaves for smooth, round bokeh.</p><p><br></p>",
+  "price": 6900000,
+  "availableQuantity": 15,
+  "quantity": 15,
+  "category": {
+    "$oid": "66602941ca86f6cbd61082c0"
+  },
+  "coupon": null,
+  "images": [
+    {
+      "name": "1720472726061-663616563-sony-e-55-210mm-01-500x500.jpg",
+      "url": "public/uploads/1720472726061-663616563-sony-e-55-210mm-01-500x500.jpg",
+      "_id": {
+        "$oid": "668c54965e7bc3172518200a"
+      }
+    }
+  ],
+  "specifications": [
+    {
+      "name": "Focal Length",
+      "value": "55 - 210mm",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cbd"
+      }
+    },
+    {
+      "name": "Aperture",
+      "value": " f/4.5 - 6.3",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cbe"
+      }
+    },
+    {
+      "name": "Mount",
+      "value": "Sony E",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cbf"
+      }
+    },
+    {
+      "name": "Format",
+      "value": "APS-C (1.5x Crop)",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc0"
+      }
+    },
+    {
+      "name": "Angle of View",
+      "value": " 7 - 29°",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc1"
+      }
+    },
+    {
+      "name": "Minimum Focus Distance",
+      "value": "100 cm",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc2"
+      }
+    },
+    {
+      "name": "Lens Groups / Elements",
+      "value": "9/13",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc3"
+      }
+    },
+    {
+      "name": "Focus Type",
+      "value": "Autofocus",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc4"
+      }
+    },
+    {
+      "name": "Stabilization",
+      "value": "No",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc5"
+      }
+    },
+    {
+      "name": "Filter Diameter",
+      "value": "49 mm (Front)",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc6"
+      }
+    },
+    {
+      "name": "Size",
+      "value": "63.8 x 108 mm",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc7"
+      }
+    },
+    {
+      "name": "Weight",
+      "value": "345 g",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc8"
+      }
+    },
+    {
+      "name": "Other Information",
+      "value": "No",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc9"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "title": "Is it good?",
+      "answer": "Yes",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cca"
+      }
+    }
+  ],
+  "status": "active",
+  "created_at": {
+    "$date": "2024-07-08T21:05:26.123Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-08T21:05:26.123Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-08T21:05:26.127Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T21:05:26.127Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668c54db5e7bc31725182190"
+  },
+  "name": "Sony FE 16-35mm f/2.8 GM",
+  "description": "<h2>Sony FE 16-35mm wide-angle lens (SEL1635GM)</h2><p>Towards breakthroughs in the art of photography, Sony has brought the G Master lens line with unique bokeh effects and enhanced frame resolution. In this line, the Sony FE 16-35mm f/2.8 GM lens is designed to help bring sharpness and high resolution, so it is popularly used in both photography and videography.</p><p><img src=\"https://cdn.vjshop.vn/ong-kinh/mirrorless/sony/sony-fe-16-35mm-f28-gm/anh-mo-ta/sony-fe-16-35mm-f28-gm-4.jpg\"></p><p>This versatile zoomable wide-angle lens is used for Full-Frame format E-mount mirrorless cameras. However, it is also compatible with models with APS-C sensors and offers a focal length range equivalent to 24-52.5mm.</p><p>With a maximum aperture of f/2.8, the lens provides a consistent amount of light throughout the zoom range, giving the ability to take clear photos in dark light conditions.</p>",
+  "price": 53990000,
+  "availableQuantity": 15,
+  "quantity": 15,
+  "category": {
+    "$oid": "66602941ca86f6cbd61082c0"
+  },
+  "coupon": null,
+  "images": [
+    {
+      "name": "1720472795115-521483348-sony-fe-16-35mm-f28-gm-lens-500x500.jpg",
+      "url": "public/uploads/1720472795115-521483348-sony-fe-16-35mm-f28-gm-lens-500x500.jpg",
+      "_id": {
+        "$oid": "668c54db5e7bc31725182191"
+      }
+    }
+  ],
+  "specifications": [
+    {
+      "name": "Focal Length",
+      "value": "16 - 35mm",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cbd"
+      }
+    },
+    {
+      "name": "Aperture",
+      "value": " f/2.8 - 22",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cbe"
+      }
+    },
+    {
+      "name": "Mount",
+      "value": "Sony E",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cbf"
+      }
+    },
+    {
+      "name": "Format",
+      "value": "Full-Frame",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc0"
+      }
+    },
+    {
+      "name": "Angle of View",
+      "value": " 43°",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc1"
+      }
+    },
+    {
+      "name": "Minimum Focus Distance",
+      "value": "28 cm",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc2"
+      }
+    },
+    {
+      "name": "Lens Groups / Elements",
+      "value": "13/16",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc3"
+      }
+    },
+    {
+      "name": "Focus Type",
+      "value": "Autofocus",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc4"
+      }
+    },
+    {
+      "name": "Stabilization",
+      "value": "No",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc5"
+      }
+    },
+    {
+      "name": "Filter Diameter",
+      "value": "82 mm (Front)",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc6"
+      }
+    },
+    {
+      "name": "Size",
+      "value": "88.5 x 121.6 mm",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc7"
+      }
+    },
+    {
+      "name": "Weight",
+      "value": "680 g",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc8"
+      }
+    },
+    {
+      "name": "Other Information",
+      "value": "No",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc9"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "title": "Is it good?",
+      "answer": "Yes",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cca"
+      }
+    }
+  ],
+  "status": "active",
+  "created_at": {
+    "$date": "2024-07-08T21:06:35.184Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-08T21:06:35.184Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-08T21:06:35.188Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T21:06:35.188Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668c554f5e7bc31725182467"
+  },
+  "name": "Fujifilm XF 80mm f/2.8 R LM OIS WR Macro",
+  "description": "<p>With the ability to capture light, adjust the layout and texture precisely, the&nbsp;<strong>Fujifilm XF 80mm f2.8 R LM OIS WR Macro&nbsp;</strong>lens&nbsp;can bring beauty and excitement to the simplest subjects. Accordingly, to explore the miniature world out there, through this lens we can learn unique perspectives that have never been before.</p><p><img src=\"https://cdn.vjshop.vn/ong-kinh/mirrorless/fujifilm/fujifilm-xf-80mm/fujifilm-xf-80mm-f28-r-lm-ois-wr-macro-chinh-hang.jpg\"></p><h2>Lens quality</h2><p>With 16 optical lenses set into 12 groups,&nbsp;the&nbsp;Fujifilm XF 80mm f2.8 R LM OIS WR Macro&nbsp;lens&nbsp;allows you to tell the story with detailed, clear and quality images, minimizing chromatic aberration significantly.</p><p>The lens optical design uses a Super ED lens, three ED lenses, and an aspherical lens that recognizes sharp, clear image gaps of both chromatic aberration and spherical distortion. Besides, a Super EBC coating is also applied to prevent glare and ghosting when working in backlit conditions.</p><p><img src=\"https://cdn.vjshop.vn/ong-kinh/mirrorless/fujifilm/fujifilm-xf-80mm/anh-bai-viet/fujifilm-xf-80mm-f28-11.png\"></p><p><br></p>",
+  "price": 25990000,
+  "availableQuantity": 15,
+  "quantity": 15,
+  "category": {
+    "$oid": "66602941ca86f6cbd61082c0"
+  },
+  "coupon": null,
+  "images": [
+    {
+      "name": "1720472911188-75132245-fujifilm-xf-80mm-f28-r-lm-ois-wr-macro-chinh-hang-500x500.jpg",
+      "url": "public/uploads/1720472911188-75132245-fujifilm-xf-80mm-f28-r-lm-ois-wr-macro-chinh-hang-500x500.jpg",
+      "_id": {
+        "$oid": "668c554f5e7bc31725182468"
+      }
+    }
+  ],
+  "specifications": [
+    {
+      "name": "Focal Length",
+      "value": "80mm",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cbd"
+      }
+    },
+    {
+      "name": "Aperture",
+      "value": " f/2.8 - 22",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cbe"
+      }
+    },
+    {
+      "name": "Mount",
+      "value": "FUJIFILM X",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cbf"
+      }
+    },
+    {
+      "name": "Format",
+      "value": "APS-C (1.5x Crop)",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc0"
+      }
+    },
+    {
+      "name": "Angle of View",
+      "value": " 20°",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc1"
+      }
+    },
+    {
+      "name": "Minimum Focus Distance",
+      "value": "25 cm",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc2"
+      }
+    },
+    {
+      "name": "Lens Groups / Elements",
+      "value": "12/16",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc3"
+      }
+    },
+    {
+      "name": "Focus Type",
+      "value": "Autofocus",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc4"
+      }
+    },
+    {
+      "name": "Stabilization",
+      "value": "Yes",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc5"
+      }
+    },
+    {
+      "name": "Filter Diameter",
+      "value": "62 mm (Front)",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc6"
+      }
+    },
+    {
+      "name": "Size",
+      "value": "80 x 130 mm",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc7"
+      }
+    },
+    {
+      "name": "Weight",
+      "value": "750 g",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc8"
+      }
+    },
+    {
+      "name": "Other Information",
+      "value": "No",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc9"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "title": "Is it good?",
+      "answer": "Yes",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cca"
+      }
+    }
+  ],
+  "status": "active",
+  "created_at": {
+    "$date": "2024-07-08T21:08:31.250Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-08T21:08:31.250Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-08T21:08:31.253Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T21:08:31.253Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668c55d55e7bc31725182714"
+  },
+  "name": "Fujifilm XF 16-50mm f/2.8-4.8 R LM WR",
+  "description": "<h2>Fujifilm XF 16-50mm f/2.8-4.8 R LM WR lens: Compact design</h2><p>With the internal zoom mechanism, the Fujifilm XF 16-50mm f/2.8-4.8 R LM WR lens maintains a fairly compact overall design. Specifically, the lens has a length of only 71.4mm, a width of 65mm and a weight of 240g, is the lightest zoom lens in the XF lens line. When combined with travel-friendly cameras like the&nbsp;X-T50, it will create an optimal combo that you can take to shoot anywhere without worrying about fatigue.</p><p><img src=\"https://cdn.vjshop.vn/ong-kinh/mirrorless/fujifilm/fujifilm-xf-16-50mm-f28-48-r-lm-wr/fujinon-xf16-50mm-f28-48-r-lm-wr-22.jpg\"></p><p>In particular, although the size of the lens is small, it has a great feature when it can zoom up to 0.3 times, bringing viewing angles equivalent to 24, 28, 35, 50 and 76mm on full-frame, allowing to shoot a variety of different types of photography.</p><p><br></p>",
+  "price": 18490000,
+  "availableQuantity": 15,
+  "quantity": 15,
+  "category": {
+    "$oid": "66602941ca86f6cbd61082c0"
+  },
+  "coupon": null,
+  "images": [
+    {
+      "name": "1720473045532-537689600-fujinon-xf16-50mm-f28-48-r-lm-wr-1-500x500.jpg",
+      "url": "public/uploads/1720473045532-537689600-fujinon-xf16-50mm-f28-48-r-lm-wr-1-500x500.jpg",
+      "_id": {
+        "$oid": "668c55d55e7bc31725182715"
+      }
+    }
+  ],
+  "specifications": [
+    {
+      "name": "Focal Length",
+      "value": "16 - 50mm",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cbd"
+      }
+    },
+    {
+      "name": "Aperture",
+      "value": " f/2.8 - 4.8",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cbe"
+      }
+    },
+    {
+      "name": "Mount",
+      "value": "FUJIFILM X",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cbf"
+      }
+    },
+    {
+      "name": "Format",
+      "value": "APS-C (1.5x Crop)",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc0"
+      }
+    },
+    {
+      "name": "Angle of View",
+      "value": "83 - 31°",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc1"
+      }
+    },
+    {
+      "name": "Minimum Focus Distance",
+      "value": "50 cm",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc2"
+      }
+    },
+    {
+      "name": "Lens Groups / Elements",
+      "value": "9/11",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc3"
+      }
+    },
+    {
+      "name": "Focus Type",
+      "value": "Autofocus",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc4"
+      }
+    },
+    {
+      "name": "Stabilization",
+      "value": "Yes",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc5"
+      }
+    },
+    {
+      "name": "Filter Diameter",
+      "value": "58 mm (Front)",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc6"
+      }
+    },
+    {
+      "name": "Size",
+      "value": "65 x 71.4 mm",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc7"
+      }
+    },
+    {
+      "name": "Weight",
+      "value": "240 g",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc8"
+      }
+    },
+    {
+      "name": "Other Information",
+      "value": "No",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc9"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "title": "Is it good?",
+      "answer": "Yes",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cca"
+      }
+    }
+  ],
+  "status": "active",
+  "created_at": {
+    "$date": "2024-07-08T21:10:45.595Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-08T21:10:45.595Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-08T21:10:45.598Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T21:10:45.598Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668c561f5e7bc3172518285c"
+  },
+  "name": "Fujifilm XF 50mm f/2 R WR (Black)",
+  "description": "<p>The sleek FUJIFILM XF 50mm f/2 R WR offers a focal length equivalent to 76mm that allows photography in a variety of formats including portrait and still life, helping photographers diversify their style in just one lens.</p><p><img src=\"https://cdn.vjshop.vn/ong-kinh/mirrorless/fujifilm/fujifilm-xf-50mm/anh-mo-ta/ong-kinh-fujifilm-xf-50mm-f2-r-wr.jpg\"></p>",
+  "price": 10999000,
+  "availableQuantity": 15,
+  "quantity": 15,
+  "category": {
+    "$oid": "66602941ca86f6cbd61082c0"
+  },
+  "coupon": null,
+  "images": [
+    {
+      "name": "1720473119696-169126270-fujifilm-xf-50mm-f2-r-wr-black-chinh-hang-500x500.jpg",
+      "url": "public/uploads/1720473119696-169126270-fujifilm-xf-50mm-f2-r-wr-black-chinh-hang-500x500.jpg",
+      "_id": {
+        "$oid": "668c561f5e7bc3172518285d"
+      }
+    }
+  ],
+  "specifications": [
+    {
+      "name": "Focal Length",
+      "value": "50mm",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cbd"
+      }
+    },
+    {
+      "name": "Aperture",
+      "value": " f/2 - 16",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cbe"
+      }
+    },
+    {
+      "name": "Mount",
+      "value": "FUJIFILM X",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cbf"
+      }
+    },
+    {
+      "name": "Format",
+      "value": "APS-C (1.5x Crop)",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc0"
+      }
+    },
+    {
+      "name": "Angle of View",
+      "value": " 31°",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc1"
+      }
+    },
+    {
+      "name": "Minimum Focus Distance",
+      "value": "39 cm",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc2"
+      }
+    },
+    {
+      "name": "Lens Groups / Elements",
+      "value": "7/9",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc3"
+      }
+    },
+    {
+      "name": "Focus Type",
+      "value": "Autofocus",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc4"
+      }
+    },
+    {
+      "name": "Stabilization",
+      "value": "No",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc5"
+      }
+    },
+    {
+      "name": "Filter Diameter",
+      "value": "46 mm (Front)",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc6"
+      }
+    },
+    {
+      "name": "Size",
+      "value": "60 x 59.4 mm",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc7"
+      }
+    },
+    {
+      "name": "Weight",
+      "value": "200 g",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc8"
+      }
+    },
+    {
+      "name": "Other Information",
+      "value": "No",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc9"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "title": "Is it good?",
+      "answer": "Yes",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cca"
+      }
+    }
+  ],
+  "status": "active",
+  "created_at": {
+    "$date": "2024-07-08T21:11:59.758Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-08T21:11:59.758Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-08T21:11:59.763Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T21:11:59.763Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668c565e5e7bc31725182990"
+  },
+  "name": "Fujifilm XF 23mm f/1.4 R",
+  "description": "<h2>FUJIFILM XF 23mm f/1.4 lens</h2><p>FUJIFILM XF 23mm f/1.4 R is designed specifically for Mirrorless cameras with a focal length of 23mm in the APS-C sensor equivalent to 35mm on a Full-Frame sensor. This is a popular focal length for landscape and street photography, and can capture portraits.</p><p>The maximum aperture of f/1.4 allows the lens to receive a consistent amount of light throughout the shooting process, supporting sharp, clear images even in insufficient light conditions, minimizing image noise that reduces frame quality. Besides, the aperture of f/1.4 also gives the ability to control the depth of field, bringing beautiful font-clear photos.</p><p><img src=\"https://cdn.vjshop.vn/ong-kinh/mirrorless/fujifilm/fujifilm-xf-23mm-f1-4-r/anh-mo-ta/ong-kinh-fujifilm-xf-23mm-f14-r-5.jpg\"></p><p><br></p>",
+  "price": 18000000,
+  "availableQuantity": 15,
+  "quantity": 15,
+  "category": {
+    "$oid": "66602941ca86f6cbd61082c0"
+  },
+  "coupon": null,
+  "images": [
+    {
+      "name": "1720473182078-498135843-fujifilm-xf-23mm-f14-r-500x500.jpg",
+      "url": "public/uploads/1720473182078-498135843-fujifilm-xf-23mm-f14-r-500x500.jpg",
+      "_id": {
+        "$oid": "668c565e5e7bc31725182991"
+      }
+    }
+  ],
+  "specifications": [
+    {
+      "name": "Focal Length",
+      "value": "23mm",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cbd"
+      }
+    },
+    {
+      "name": "Aperture",
+      "value": " f/1.4 - 16",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cbe"
+      }
+    },
+    {
+      "name": "Mount",
+      "value": "FUJIFILM X",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cbf"
+      }
+    },
+    {
+      "name": "Format",
+      "value": "APS-C (1.5x Crop)",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc0"
+      }
+    },
+    {
+      "name": "Angle of View",
+      "value": " 63°",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc1"
+      }
+    },
+    {
+      "name": "Minimum Focus Distance",
+      "value": "28 cm",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc2"
+      }
+    },
+    {
+      "name": "Lens Groups / Elements",
+      "value": "8/11",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc3"
+      }
+    },
+    {
+      "name": "Focus Type",
+      "value": "Autofocus",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc4"
+      }
+    },
+    {
+      "name": "Stabilization",
+      "value": "No",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc5"
+      }
+    },
+    {
+      "name": "Filter Diameter",
+      "value": "62 mm (Front)",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc6"
+      }
+    },
+    {
+      "name": "Size",
+      "value": "72 x 63 mm",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc7"
+      }
+    },
+    {
+      "name": "Weight",
+      "value": "300 g",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc8"
+      }
+    },
+    {
+      "name": "Other Information",
+      "value": "No",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc9"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "title": "Is it good?",
+      "answer": "Yes",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cca"
+      }
+    }
+  ],
+  "status": "active",
+  "created_at": {
+    "$date": "2024-07-08T21:13:02.139Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-08T21:13:02.139Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-08T21:13:02.144Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T21:13:02.144Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668c56b25e7bc31725182aae"
+  },
+  "name": "Fujifilm XF 56mm f/1.2 R",
+  "description": "<h2><strong>High-end design (lightweight, sturdy)</strong></h2><p>As a lens of the high-end XF series, the entire body of the Fujifilm XF 56mm f/1.2 lens is made of metal for a solid, high-end feel. The aperture ring is designed on the lens body to allow users to change the aperture quickly.</p><p><img src=\"https://cdn.vjshop.vn/ong-kinh/mirrorless/fujifilm/fujifilm-xf-56mm-f12-r/fujifilm-xf-56mm-f12-r.jpg\"></p><p><br></p>",
+  "price": 12900000,
+  "availableQuantity": 15,
+  "quantity": 15,
+  "category": {
+    "$oid": "66602941ca86f6cbd61082c0"
+  },
+  "coupon": null,
+  "images": [
+    {
+      "name": "1720473266664-697379111-fujifilm-xf-56mm-f12-r-lens-500x500.jpg",
+      "url": "public/uploads/1720473266664-697379111-fujifilm-xf-56mm-f12-r-lens-500x500.jpg",
+      "_id": {
+        "$oid": "668c56b25e7bc31725182aaf"
+      }
+    }
+  ],
+  "specifications": [
+    {
+      "name": "Focal Length",
+      "value": "56mm",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cbd"
+      }
+    },
+    {
+      "name": "Aperture",
+      "value": " f/1.2 - 16",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cbe"
+      }
+    },
+    {
+      "name": "Mount",
+      "value": "FUJIFILM X",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cbf"
+      }
+    },
+    {
+      "name": "Format",
+      "value": "APS-C (1.5x Crop)",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc0"
+      }
+    },
+    {
+      "name": "Angle of View",
+      "value": " 43°",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc1"
+      }
+    },
+    {
+      "name": "Minimum Focus Distance",
+      "value": "70 cm",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc2"
+      }
+    },
+    {
+      "name": "Lens Groups / Elements",
+      "value": "8/11",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc3"
+      }
+    },
+    {
+      "name": "Focus Type",
+      "value": "Autofocus",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc4"
+      }
+    },
+    {
+      "name": "Stabilization",
+      "value": "No",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc5"
+      }
+    },
+    {
+      "name": "Filter Diameter",
+      "value": "62 mm (Front)",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc6"
+      }
+    },
+    {
+      "name": "Size",
+      "value": "73.2 x 69.7 mm",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc7"
+      }
+    },
+    {
+      "name": "Weight",
+      "value": "405 g",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc8"
+      }
+    },
+    {
+      "name": "Other Information",
+      "value": "No",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc9"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "title": "Is it good?",
+      "answer": "Yes",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cca"
+      }
+    }
+  ],
+  "status": "active",
+  "created_at": {
+    "$date": "2024-07-08T21:14:26.729Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-08T21:14:26.729Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-08T21:14:26.741Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T21:14:26.741Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668c56f95e7bc31725182bb7"
+  },
+  "name": "Canon EF 70-200mm f/2.8L IS III USM",
+  "description": "<p>Not only improved in external design, Canon EF 70-200mm f/2.8L IS III USM is also upgraded with advanced optical structure, supporting to improve optimal image quality, helping photographers unleash their creativity and produce unique works.</p><h2>Canon EF focal length 70-200mm lens, aperture f/2.8</h2><p>This EF-mount telephoto lens is designed specifically for Canon's Full-Frame DSLR cameras. However it is also usable for APS-C models and offers a focal length equivalent to 112-320mm.</p><p>The f/2.8 constant maximum aperture delivers consistent performance across the entire zoom range, for superior shooting in under-bright environments. At the same time, increasing the control of the depth of the field, helping to isolate and highlight the subject from the background, very suitable for shooting photos that need the ability to remove good fonts such as portraits, sports...</p><p><img src=\"https://cdn.vjshop.vn/ong-kinh/dslr/canon/canon-ef-70-200mm-f2-8l-is-iii-usm/anh-mo-ta/ong-kinh-canon-ef-70-200mm-f28l-is-iii-usm-5.jpg\"></p><p><br></p>",
+  "price": 33490000,
+  "availableQuantity": 15,
+  "quantity": 15,
+  "category": {
+    "$oid": "66602941ca86f6cbd61082c0"
+  },
+  "coupon": null,
+  "images": [
+    {
+      "name": "1720473337822-273050133-canon-ef-70-200mm-500x500.jpg",
+      "url": "public/uploads/1720473337822-273050133-canon-ef-70-200mm-500x500.jpg",
+      "_id": {
+        "$oid": "668c56f95e7bc31725182bb8"
+      }
+    }
+  ],
+  "specifications": [
+    {
+      "name": "Focal Length",
+      "value": "70 - 200mm",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cbd"
+      }
+    },
+    {
+      "name": "Aperture",
+      "value": " f/2.8 - 32",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cbe"
+      }
+    },
+    {
+      "name": "Mount",
+      "value": "Canon EF",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cbf"
+      }
+    },
+    {
+      "name": "Format",
+      "value": "Full-Frame",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc0"
+      }
+    },
+    {
+      "name": "Angle of View",
+      "value": "34-12°",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc1"
+      }
+    },
+    {
+      "name": "Minimum Focus Distance",
+      "value": "120 cm",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc2"
+      }
+    },
+    {
+      "name": "Lens Groups / Elements",
+      "value": "19/23",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc3"
+      }
+    },
+    {
+      "name": "Focus Type",
+      "value": "Autofocus",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc4"
+      }
+    },
+    {
+      "name": "Stabilization",
+      "value": "Yes",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc5"
+      }
+    },
+    {
+      "name": "Filter Diameter",
+      "value": "77 mm (Front)",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc6"
+      }
+    },
+    {
+      "name": "Size",
+      "value": "88.8 x 199 mm",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc7"
+      }
+    },
+    {
+      "name": "Weight",
+      "value": "1480 g",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc8"
+      }
+    },
+    {
+      "name": "Other Information",
+      "value": "No",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc9"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "title": "Is it good?",
+      "answer": "Yes",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cca"
+      }
+    }
+  ],
+  "status": "active",
+  "created_at": {
+    "$date": "2024-07-08T21:15:37.887Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-08T21:15:37.887Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-08T21:15:37.890Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T21:15:37.890Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668c572a5e7bc31725182cab"
+  },
+  "name": "Canon EF-S 18-55mm f/3.5-5.6 IS STM",
+  "description": "<p>Canon EF-S 18-55mm f/3.5-5.6 IS STM was born to help you access the world of photography more easily. This lens brings many surprises to the photography world because of its sharp shooting ability, good contrast, stable image stabilization, accurate subject focusing in the low-cost segment for amateur users.</p><p><img src=\"https://cdn.vjshop.vn/ong-kinh/dslr/canon/canon-ef-s-18-55mm/anh-mo-ta/ong-kinh-canon-ef-s-18-55mm-f35-56-is-stm3.jpg\"></p>",
+  "price": 2200000,
+  "availableQuantity": 15,
+  "quantity": 15,
+  "category": {
+    "$oid": "66602941ca86f6cbd61082c0"
+  },
+  "coupon": null,
+  "images": [
+    {
+      "name": "1720473386655-699202114-canon-ef-s-18-55mm-f35-56-is-stm-500x500.jpg",
+      "url": "public/uploads/1720473386655-699202114-canon-ef-s-18-55mm-f35-56-is-stm-500x500.jpg",
+      "_id": {
+        "$oid": "668c572a5e7bc31725182cac"
+      }
+    }
+  ],
+  "specifications": [
+    {
+      "name": "Focal Length",
+      "value": "18 - 55mm",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cbd"
+      }
+    },
+    {
+      "name": "Aperture",
+      "value": " f/3.5 - 5.6",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cbe"
+      }
+    },
+    {
+      "name": "Mount",
+      "value": "Canon EF",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cbf"
+      }
+    },
+    {
+      "name": "Format",
+      "value": "APS-C (1.5x Crop)",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc0"
+      }
+    },
+    {
+      "name": "Angle of View",
+      "value": "74-27°",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc1"
+      }
+    },
+    {
+      "name": "Minimum Focus Distance",
+      "value": "25 cm",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc2"
+      }
+    },
+    {
+      "name": "Lens Groups / Elements",
+      "value": "11/13",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc3"
+      }
+    },
+    {
+      "name": "Focus Type",
+      "value": "Autofocus",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc4"
+      }
+    },
+    {
+      "name": "Stabilization",
+      "value": "Yes",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc5"
+      }
+    },
+    {
+      "name": "Filter Diameter",
+      "value": "58 mm (Front)",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc6"
+      }
+    },
+    {
+      "name": "Size",
+      "value": "69 x 75.2 mm",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc7"
+      }
+    },
+    {
+      "name": "Weight",
+      "value": "205 g",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc8"
+      }
+    },
+    {
+      "name": "Other Information",
+      "value": "No",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc9"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "title": "Is it good?",
+      "answer": "Yes",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cca"
+      }
+    }
+  ],
+  "status": "active",
+  "created_at": {
+    "$date": "2024-07-08T21:16:26.720Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-08T21:16:26.720Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-08T21:16:26.726Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T21:16:26.726Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668c575f5e7bc31725182d8a"
+  },
+  "name": "Canon EF 24-105mm f/4 L IS II USM",
+  "description": "<p>Designed with a high-quality outer shell, the lens mount is made of metal material for a solid lens fixation effect. The lens case has protection features to help prevent dirt, fingerprints, and water resistance. Fluorine coating makes the surface easy to clean, does not stain, affecting image quality.</p><p>Canon EF 24-105mm f/4 USM L IS II is designed for Canon full-frame DSLRs and can also be used for APS-C format sensor cameras with a focal length equivalent to 38.4 - 168mm.</p><p>The f/4 aperture across the zoom range helps balance and maintain consistent light in the zoom range, making the most uniformly light photos.</p><p>A high-quality lens system with 17 lenses including 4 aspherical lenses helps minimize image edge distortion or spherical aberration, helping photos achieve high sharpness.</p><p>Of course, this high-end lens is indispensable for the Super Spectra Coating protection coating that helps to better white balance, increase the fidelity of the image color gamut and reduce glare when shooting in bright light conditions.</p><p>The lens is equipped with an image stabilization system that helps prevent shaking up to 4 stops for the ability to work well in conditions of shooting small subjects at close range or need to change the shooting angle frequently. The images are better processed, minimizing excess vibration when taking handheld photos.</p>",
+  "price": 21000000,
+  "availableQuantity": 15,
+  "quantity": 15,
+  "category": {
+    "$oid": "66602941ca86f6cbd61082c0"
+  },
+  "coupon": null,
+  "images": [
+    {
+      "name": "1720473439658-332703492-canon-ef-24-105mm-500x500.jpg",
+      "url": "public/uploads/1720473439658-332703492-canon-ef-24-105mm-500x500.jpg",
+      "_id": {
+        "$oid": "668c575f5e7bc31725182d8b"
+      }
+    }
+  ],
+  "specifications": [
+    {
+      "name": "Focal Length",
+      "value": "24 - 105mm",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cbd"
+      }
+    },
+    {
+      "name": "Aperture",
+      "value": " f/4 - 24",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cbe"
+      }
+    },
+    {
+      "name": "Mount",
+      "value": "Canon EF",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cbf"
+      }
+    },
+    {
+      "name": "Format",
+      "value": "Full-Frame",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc0"
+      }
+    },
+    {
+      "name": "Angle of View",
+      "value": "84-23°",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc1"
+      }
+    },
+    {
+      "name": "Minimum Focus Distance",
+      "value": "45 cm",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc2"
+      }
+    },
+    {
+      "name": "Lens Groups / Elements",
+      "value": "12/17",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc3"
+      }
+    },
+    {
+      "name": "Focus Type",
+      "value": "Autofocus",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc4"
+      }
+    },
+    {
+      "name": "Stabilization",
+      "value": "Yes",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc5"
+      }
+    },
+    {
+      "name": "Filter Diameter",
+      "value": "77 mm (Front)",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc6"
+      }
+    },
+    {
+      "name": "Size",
+      "value": "83.5 x 118 mm",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc7"
+      }
+    },
+    {
+      "name": "Weight",
+      "value": "795 g",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc8"
+      }
+    },
+    {
+      "name": "Other Information",
+      "value": "No",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc9"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "title": "Is it good?",
+      "answer": "Yes",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cca"
+      }
+    }
+  ],
+  "status": "active",
+  "created_at": {
+    "$date": "2024-07-08T21:17:19.719Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-08T21:17:19.719Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-08T21:17:19.724Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T21:17:19.724Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668c57995e7bc31725182e54"
+  },
+  "name": "Nikon Z 14-30mm f/4 S",
+  "description": "<p>With impressive angle opening,&nbsp;<strong>NIKON Z 14-30mm f/4 S&nbsp;</strong>is an&nbsp;ultra-wide zoom&nbsp;lens&nbsp;for&nbsp;Nikon's FX format Z-series&nbsp;mirrorless camera&nbsp;system. The deep field is particularly suitable for landscape, architectural and astronomical shooting genres. The f/4 maximum aperture maintains a consistent exposure within the lens zoom range.</p><p>The lens has 4 ultra-low scattering lenses and 4 aspherical lenses that reduce posterior optical volume and distortion to produce high-sharp, clear images and accurate color recognition. Nano Crystal and Super Intergrated Coatings are both used to prevent flare and shading for true color and higher contrast.</p><p><img src=\"https://cdn.vjshop.vn/ong-kinh/mirrorless/nikon/nikon-z-14-30mm-f4-s/nikkor-z-14-30mm-f4-s-1.jpg\"></p><p><br></p>",
+  "price": 24990000,
+  "availableQuantity": 15,
+  "quantity": 15,
+  "category": {
+    "$oid": "66602941ca86f6cbd61082c0"
+  },
+  "coupon": null,
+  "images": [
+    {
+      "name": "1720473497718-989019636-nikkor-z-14-30mm-f4-s-1-500x500.jpg",
+      "url": "public/uploads/1720473497718-989019636-nikkor-z-14-30mm-f4-s-1-500x500.jpg",
+      "_id": {
+        "$oid": "668c57995e7bc31725182e55"
+      }
+    }
+  ],
+  "specifications": [
+    {
+      "name": "Focal Length",
+      "value": "14 - 30mm",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cbd"
+      }
+    },
+    {
+      "name": "Aperture",
+      "value": " f/4 - 16",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cbe"
+      }
+    },
+    {
+      "name": "Mount",
+      "value": "Nikon Z",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cbf"
+      }
+    },
+    {
+      "name": "Format",
+      "value": "Full-Frame",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc0"
+      }
+    },
+    {
+      "name": "Angle of View",
+      "value": "114-72°",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc1"
+      }
+    },
+    {
+      "name": "Minimum Focus Distance",
+      "value": "28 cm",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc2"
+      }
+    },
+    {
+      "name": "Lens Groups / Elements",
+      "value": "-/14",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc3"
+      }
+    },
+    {
+      "name": "Focus Type",
+      "value": "Autofocus",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc4"
+      }
+    },
+    {
+      "name": "Stabilization",
+      "value": "No",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc5"
+      }
+    },
+    {
+      "name": "Filter Diameter",
+      "value": "82 mm (Front)",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc6"
+      }
+    },
+    {
+      "name": "Size",
+      "value": "89 x 85 mm",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc7"
+      }
+    },
+    {
+      "name": "Weight",
+      "value": "485 g",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc8"
+      }
+    },
+    {
+      "name": "Other Information",
+      "value": "No",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc9"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "title": "Is it good?",
+      "answer": "Yes",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cca"
+      }
+    }
+  ],
+  "status": "active",
+  "created_at": {
+    "$date": "2024-07-08T21:18:17.778Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-08T21:18:17.778Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-08T21:18:17.782Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T21:18:17.782Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668c57d55e7bc31725182f1e"
+  },
+  "name": "Nikon Z 50mm f/1.2 S",
+  "description": "<h2>Design of Nikon Z 50mm f/1.2 S</h2><p>The&nbsp;<strong>Nikon Z 50mm f/1.2 S&nbsp;</strong>lens&nbsp;is designed to increase speed and sharpness. This is a&nbsp;mirrorless lens&nbsp;with an advanced optical design that is suitable from portrait photography to street photography. The lens is designed for&nbsp;FX format Z-mount&nbsp;mirrorless cameras, but can also be used with DX models with a focal length equivalent to 75mm. Dust and moisture resistant lenses are suitable for use in extreme conditions.</p><p><img src=\"https://cdn.vjshop.vn/ong-kinh/mirrorless/nikon/nikon-z-50mm-f12-s/nikon-z-50mm-f12-s.jpg\"></p><p><br></p>",
+  "price": 47990000,
+  "availableQuantity": 15,
+  "quantity": 15,
+  "category": {
+    "$oid": "66602941ca86f6cbd61082c0"
+  },
+  "coupon": null,
+  "images": [
+    {
+      "name": "1720473557138-378580928-nikon-z-50mm-f12-s-3-500x500-2.jpg",
+      "url": "public/uploads/1720473557138-378580928-nikon-z-50mm-f12-s-3-500x500-2.jpg",
+      "_id": {
+        "$oid": "668c57d55e7bc31725182f1f"
+      }
+    }
+  ],
+  "specifications": [
+    {
+      "name": "Focal Length",
+      "value": "50mm",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cbd"
+      }
+    },
+    {
+      "name": "Aperture",
+      "value": " f/1.2 - 16",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cbe"
+      }
+    },
+    {
+      "name": "Mount",
+      "value": "Nikon Z",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cbf"
+      }
+    },
+    {
+      "name": "Format",
+      "value": "Full-Frame",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc0"
+      }
+    },
+    {
+      "name": "Angle of View",
+      "value": " 47°",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc1"
+      }
+    },
+    {
+      "name": "Minimum Focus Distance",
+      "value": "45 cm",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc2"
+      }
+    },
+    {
+      "name": "Lens Groups / Elements",
+      "value": "15/17",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc3"
+      }
+    },
+    {
+      "name": "Focus Type",
+      "value": "Autofocus",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc4"
+      }
+    },
+    {
+      "name": "Stabilization",
+      "value": "No",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc5"
+      }
+    },
+    {
+      "name": "Filter Diameter",
+      "value": "82 mm (Front)",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc6"
+      }
+    },
+    {
+      "name": "Size",
+      "value": "89.5 x 150 mm",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc7"
+      }
+    },
+    {
+      "name": "Weight",
+      "value": "1090 g",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc8"
+      }
+    },
+    {
+      "name": "Other Information",
+      "value": "No",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc9"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "title": "Is it good?",
+      "answer": "Yes",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cca"
+      }
+    }
+  ],
+  "status": "active",
+  "created_at": {
+    "$date": "2024-07-08T21:19:17.199Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-08T21:19:17.199Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-08T21:19:17.202Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T21:19:17.202Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668c580a5e7bc31725182fe8"
+  },
+  "name": "Nikon Z 28-75mm f/2.8",
+  "description": "<h2>Nikon Z 28-75mm f/2.8</h2><p>The Nikon Z 28-75mm f/2.8 lens is compact and lightweight, with a maximum aperture of f/2.8 that allows it to perform optimally in low light conditions. The lens has a flexible zoom range suitable for many different types of photography from landscapes, streets, travel to portraits. Along with near-macro focus, as well as fast, noise-free autofocus,&nbsp;the lens&nbsp;makes it an ideal tool for stills and video capture.</p><p><img src=\"https://cdn.vjshop.vn/ong-kinh/mirrorless/nikon/nikon-z-28-75mm-f28/anh-mo-ta/nikon-z-28-75mm-f28-10.jpg\"></p><p><br></p>",
+  "price": 18900000,
+  "availableQuantity": 15,
+  "quantity": 15,
+  "category": {
+    "$oid": "66602941ca86f6cbd61082c0"
+  },
+  "coupon": null,
+  "images": [
+    {
+      "name": "1720473610125-866610832-nikon-z-28-75mm-f28-500x500.jpg",
+      "url": "public/uploads/1720473610125-866610832-nikon-z-28-75mm-f28-500x500.jpg",
+      "_id": {
+        "$oid": "668c580a5e7bc31725182fe9"
+      }
+    }
+  ],
+  "specifications": [
+    {
+      "name": "Focal Length",
+      "value": "28 - 75mm",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cbd"
+      }
+    },
+    {
+      "name": "Aperture",
+      "value": " f/2.8 - 22",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cbe"
+      }
+    },
+    {
+      "name": "Mount",
+      "value": "Nikon Z",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cbf"
+      }
+    },
+    {
+      "name": "Format",
+      "value": "Full-Frame",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc0"
+      }
+    },
+    {
+      "name": "Angle of View",
+      "value": "75-32°",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc1"
+      }
+    },
+    {
+      "name": "Minimum Focus Distance",
+      "value": "19 cm",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc2"
+      }
+    },
+    {
+      "name": "Lens Groups / Elements",
+      "value": "12/15",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc3"
+      }
+    },
+    {
+      "name": "Focus Type",
+      "value": "Autofocus",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc4"
+      }
+    },
+    {
+      "name": "Stabilization",
+      "value": "No",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc5"
+      }
+    },
+    {
+      "name": "Filter Diameter",
+      "value": "67 mm (Front)",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc6"
+      }
+    },
+    {
+      "name": "Size",
+      "value": "75 x 120.5 mm",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc7"
+      }
+    },
+    {
+      "name": "Weight",
+      "value": "565 g",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc8"
+      }
+    },
+    {
+      "name": "Other Information",
+      "value": "No",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cc9"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "title": "Is it good?",
+      "answer": "Yes",
+      "_id": {
+        "$oid": "668c54015e7bc31725181cca"
+      }
+    }
+  ],
+  "status": "active",
+  "created_at": {
+    "$date": "2024-07-08T21:20:10.187Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-08T21:20:10.187Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-08T21:20:10.191Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T21:20:10.191Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668c587b5e7bc317251830be"
+  },
+  "name": "Sony NP-FZ100",
+  "description": "<p>Compatible battery for Sony A9, Sony A7 Mark III, Sony A7R mark III cameras</p><ul><li>Capacity: 2280 mAh</li><li>Lithium-ion battery standard</li><li>Voltage 7.2 VDC</li><li>Dimensions 38.7 x 22.7 x 51.7 mm</li><li>Weight 85 g</li></ul>",
+  "price": 1990000,
+  "availableQuantity": 20,
+  "quantity": 20,
+  "category": {
+    "$oid": "66602a90ca86f6cbd61082dc"
+  },
+  "coupon": null,
+  "images": [
+    {
+      "name": "1720473723286-182408520-sony-np-fz100-500x500.jpg",
+      "url": "public/uploads/1720473723286-182408520-sony-np-fz100-500x500.jpg",
+      "_id": {
+        "$oid": "668c587b5e7bc317251830bf"
+      }
+    }
+  ],
+  "specifications": [],
+  "questions": [],
+  "status": "active",
+  "created_at": {
+    "$date": "2024-07-08T21:22:03.344Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-08T21:22:03.344Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-08T21:22:03.346Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T21:22:03.346Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668c58b55e7bc3172518316c"
+  },
+  "name": "Canon LP-E17",
+  "description": "<p>Canon LP-E17 battery is dedicated to Canon's EOS DSLR camera line.&nbsp;The&nbsp;battery&nbsp;has a capacity of 1040mAh, output voltage of 7.2V and is compatible with LC-E17 charger. Possessing a compact size and light weight, the&nbsp;Canon LP-E17&nbsp;battery&nbsp;provides stable performance, long service life.</p><p><br></p><p>Canon LP-E17 battery is Canon's battery line designed to be suitable for Canon EOS M3, M5, M6, 200D, 760D, 750D, 800D and 77D machines. The Lithium-ion battery has a large capacity of 1040mAh, the size is compact and the output voltage is 7.2V.</p><p><br></p><p><img src=\"https://cdn.vjshop.vn/phu-kien-nhiep-anh/pin-sac/pin/pin-canon-lp-e17/anh-pin-canon-lp-e17.jpg\"></p><p><br></p>",
+  "price": 1690000,
+  "availableQuantity": 19,
+  "quantity": 20,
+  "category": {
+    "$oid": "66602a90ca86f6cbd61082dc"
+  },
+  "coupon": null,
+  "images": [
+    {
+      "name": "1720473781663-794085877-pin-canon-lp-e17-2-500x500.jpg",
+      "url": "public/uploads/1720473781663-794085877-pin-canon-lp-e17-2-500x500.jpg",
+      "_id": {
+        "$oid": "668c58b55e7bc3172518316d"
+      }
+    }
+  ],
+  "specifications": [],
+  "questions": [],
+  "status": "active",
+  "created_at": {
+    "$date": "2024-07-08T21:23:01.723Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-08T21:23:01.723Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-08T21:23:01.726Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-09T10:00:52.291Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668c58fa5e7bc3172518320c"
+  },
+  "name": "B+W MASTER UV MRC Nano 77mm",
+  "description": "<p>B+W MASTER UV MRC nano filter is capable of removing blocks of ultraviolet radiation, MRC multi-layer coating technology helps protect the lens, improving the color visibility of the photo. The filter design is compatible with wide-angle DSLR lenses, zoom lenses.</p>",
+  "price": 2100000,
+  "availableQuantity": 20,
+  "quantity": 20,
+  "category": {
+    "$oid": "66602a90ca86f6cbd61082dc"
+  },
+  "coupon": null,
+  "images": [
+    {
+      "name": "1720473849975-954326277-kinh-loc-bw-master-uv-mrc-nano-39-95mm-500x500.jpg",
+      "url": "public/uploads/1720473849975-954326277-kinh-loc-bw-master-uv-mrc-nano-39-95mm-500x500.jpg",
+      "_id": {
+        "$oid": "668c58fa5e7bc3172518320d"
+      }
+    }
+  ],
+  "specifications": [],
+  "questions": [],
+  "status": "active",
+  "created_at": {
+    "$date": "2024-07-08T21:24:10.033Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-08T21:24:10.033Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-08T21:24:10.035Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T21:24:10.035Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668c59295e7bc3172518329d"
+  },
+  "name": "Marumi Super DHG Circular P.L.D 67mm",
+  "description": "<h2>Marumi Super DHG Circular P.L.D 67mm Filter</h2><p>Marumi Super DHG Circular P.L.D 67mm filter is a line of filters that completely fix the problem of small details that are not sharp when taking pictures at a wide angle and the overall quality of the photo. Filters designed specifically for DSLR and CCD cameras, with a special coating,&nbsp;Marumi Super DHG Circular P.L.D 67mm&nbsp;offers many benefits:</p><ul><li>Enhance contrast: Make the details in the photo clearer and sharper.</li><li>Make the photo clearer: Minimize the reflection of light, make the photo brighter and clearer.</li><li>Reduce ghosting: The phenomenon of ghosted photos often appears when the light is reflected many times in the lens.</li></ul>",
+  "price": 790000,
+  "availableQuantity": 20,
+  "quantity": 20,
+  "category": {
+    "$oid": "66602a90ca86f6cbd61082dc"
+  },
+  "coupon": null,
+  "images": [
+    {
+      "name": "1720473897840-81068984-marumi-super-dhg-circular-p-l-d-67mm-500x500.jpg",
+      "url": "public/uploads/1720473897840-81068984-marumi-super-dhg-circular-p-l-d-67mm-500x500.jpg",
+      "_id": {
+        "$oid": "668c59295e7bc3172518329e"
+      }
+    }
+  ],
+  "specifications": [],
+  "questions": [],
+  "status": "active",
+  "created_at": {
+    "$date": "2024-07-08T21:24:57.900Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-08T21:24:57.900Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-08T21:24:57.902Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T21:24:57.902Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668c59575e7bc31725183321"
+  },
+  "name": "Tamron 67mm UV Filter",
+  "description": "<p>Tamron 67mm UV Filter&nbsp;is a common filter, used as a lens protection filter. With a structure of high-quality Plastic material, coated with multiple layers, this filter helps reduce dirt and moisture that reaches the lens very well. In addition, the filter also has a built-in Ultraviolet effect, helping to record better images.</p><p>In particular, Tamron 67mm UV Filter is designed with high durability, helping to protect&nbsp;the lens&nbsp;from scratches and damage in the event of an unfortunate fall. However, this filter is not water resistant, so it will be limited when used on wet rainy days.</p><p><img src=\"https://cdn.vjshop.vn/phu-kien-nhiep-anh/kinh-loc-filter/kinh-loc-uv/tamron-67mm-uv-filter/tamron-filter-67mm-jpeg.jpg\"></p><p><br></p>",
+  "price": 400000,
+  "availableQuantity": 19,
+  "quantity": 20,
+  "category": {
+    "$oid": "66602a90ca86f6cbd61082dc"
+  },
+  "coupon": null,
+  "images": [
+    {
+      "name": "1720473943247-965817311-tamron-filter-67mm-jpeg-500x500.jpg",
+      "url": "public/uploads/1720473943247-965817311-tamron-filter-67mm-jpeg-500x500.jpg",
+      "_id": {
+        "$oid": "668c59575e7bc31725183322"
+      }
+    }
+  ],
+  "specifications": [],
+  "questions": [],
+  "status": "active",
+  "created_at": {
+    "$date": "2024-07-08T21:25:43.307Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-08T21:25:43.307Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-08T21:25:43.309Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-09T05:29:11.969Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668c59865e7bc31725183397"
+  },
+  "name": "Nikon XQD 64GB 440MB/s",
+  "description": "<p>The Nikon XQD 64GB 440MB/s memory card is designed for DSLR cameras and mirrorless cameras that provide up to 64GB of storage. With support for both PCIe 2.0 and USB 3.0 interfaces, this XQD memory card has a read speed of up to 440 MB/s and a write speed of up to 400 MB/s allowing 4K video recording and continuous photography.</p><p><img src=\"https://cdn.vjshop.vn/phu-kien-nhiep-anh/the-nho/the-xqd/the-nho-nikon-xqd-64gb-440mbs/the-nho-nikon-64gb.jpg\"></p><p><br></p>",
+  "price": 2690000,
+  "availableQuantity": 17,
+  "quantity": 20,
+  "category": {
+    "$oid": "66602a90ca86f6cbd61082dc"
+  },
+  "coupon": null,
+  "images": [
+    {
+      "name": "1720473990713-736451376-the-nho-nikon-64gb-500x500.jpg",
+      "url": "public/uploads/1720473990713-736451376-the-nho-nikon-64gb-500x500.jpg",
+      "_id": {
+        "$oid": "668c59865e7bc31725183398"
+      }
+    }
+  ],
+  "specifications": [],
+  "questions": [],
+  "status": "active",
+  "created_at": {
+    "$date": "2024-07-08T21:26:30.773Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-08T21:26:30.773Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-08T21:26:30.774Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-09T09:59:22.044Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668c59b35e7bc317251833ff"
+  },
+  "name": "SanDisk Extreme Pro U3 V30 64GB",
+  "description": "<p><strong>SanDisk Extreme Pro U3 V30 64GB 200MB/s SDXC memory card&nbsp;</strong>is&nbsp;SanDisk's fastest speed segment&nbsp;memory card, providing extremely fast 200MB/s speed to meet all user needs with 4K video recording quality. With the ability to record up to 90MB/s Memory card handles snapshot modes, continuous shooting and RAW shooting with JPEG extremely easily. In addition, the SanDisk Extreme Pro U3 V30 64GB 200MB/s SDXC memory card easily recovers data with RescuePRO software, which supports you to recover all deleted file data.</p><p><img src=\"https://cdn.vjshop.vn/phu-kien-nhiep-anh/the-nho/the-sd/the-nho-sdxc-64gb-200mbs/the-nho-sdxc-64gb-200mbs-1.jpg\"></p>",
+  "price": 390000,
+  "availableQuantity": 20,
+  "quantity": 20,
+  "category": {
+    "$oid": "66602a90ca86f6cbd61082dc"
+  },
+  "coupon": null,
+  "images": [
+    {
+      "name": "1720474133299-892356080-the-nho-sdxc-64gb-200mbs-500x500.jpg",
+      "url": "public/uploads/1720474133299-892356080-the-nho-sdxc-64gb-200mbs-500x500.jpg",
+      "_id": {
+        "$oid": "668c5a155e7bc317251834b2"
+      }
+    }
+  ],
+  "specifications": [],
+  "questions": [],
+  "status": "active",
+  "created_at": {
+    "$date": "2024-07-08T21:27:15.498Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-08T21:28:53.301Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-08T21:27:15.499Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T21:28:53.302Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668c5a415e7bc3172518350c"
+  },
+  "name": "MicroSD 256GB Sandisk Extreme Pro",
+  "description": "<h2>High speed read and write ability</h2><p>Memory cards have a reading speed of up to 200Mb/s for the ability to transfer data quickly, speed up the workflow, helping users have more time for their creative tasks.</p><p>The recording speed of MicroSDXC Sandisk Extreme Pro 256GB reaches 90Mb/s, allowing smooth and switch-free high-resolution 4K UHD video recording.</p><p><img src=\"https://cdn.vjshop.vn/phu-kien-nhiep-anh/the-nho/the-micro-sd/the-nho-microsdxc-sandisk-extreme-pro-256gb-170mbs/microsdxc-sandisk-extreme-pro-256gb-170mbs-1.jpg\"></p><p><br></p>",
+  "price": 890000,
+  "availableQuantity": 20,
+  "quantity": 20,
+  "category": {
+    "$oid": "66602a90ca86f6cbd61082dc"
+  },
+  "coupon": null,
+  "images": [
+    {
+      "name": "1720474177609-270479362-microsdxc-sandisk-extreme-pro-25-2-500x500.jpg",
+      "url": "public/uploads/1720474177609-270479362-microsdxc-sandisk-extreme-pro-25-2-500x500.jpg",
+      "_id": {
+        "$oid": "668c5a415e7bc3172518350d"
+      }
+    }
+  ],
+  "specifications": [],
+  "questions": [],
+  "status": "active",
+  "created_at": {
+    "$date": "2024-07-08T21:29:37.668Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-08T21:29:37.668Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-08T21:29:37.670Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-08T21:29:37.670Z"
+  },
+  "__v": 0
+}]

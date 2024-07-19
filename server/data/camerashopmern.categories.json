@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "6637a8efbb3903747fa8b41e"
+  },
+  "name": "fingerprint door access",
+  "image": {
+    "name": "1715242083669-324343250-img1.jpg",
+    "url": "public\\uploads\\1715242083669-324343250-img1.jpg"
+  },
+  "created_at": {
+    "$date": "2024-05-05T15:42:39.559Z"
+  },
+  "updated_at": {
+    "$date": "2024-05-09T08:08:04.494Z"
+  },
+  "__v": 0,
+  "content": "What if all the devices in your life could connect to the internet. clocks, speakers, lights, doorbells, cameras, windows, window blinds, hot water heaters.........",
+  "title": "Home Automation System"
+},
+{
+  "_id": {
+    "$oid": "663c837830bb5ca66a4968b0"
+  },
+  "name": "home automation system",
+  "image": {
+    "name": "1715241848156-27355282-img2.jpg",
+    "url": "public\\uploads\\1715241848156-27355282-img2.jpg"
+  },
+  "title": "Home Automation System",
+  "content": "What if all the devices in your life could connect to the internet. clocks, speakers, lights, doorbells, cameras, windows, window blinds, hot water heaters.........",
+  "created_at": {
+    "$date": "2024-05-09T08:04:08.944Z"
+  },
+  "updated_at": {
+    "$date": "2024-05-09T08:04:08.944Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663c84b53a5fd07137e308ce"
+  },
+  "name": "antenna tagging system",
+  "image": {
+    "name": "1715242165613-175050570-img3.jpg",
+    "url": "public\\uploads\\1715242165613-175050570-img3.jpg"
+  },
+  "title": "Home Automation System",
+  "content": "What if all the devices in your life could connect to the internet. clocks, speakers, lights, doorbells, cameras, windows, window blinds, hot water heaters.........",
+  "created_at": {
+    "$date": "2024-05-09T08:09:25.617Z"
+  },
+  "updated_at": {
+    "$date": "2024-05-09T08:09:25.617Z"
+  },
+  "__v": 0
+}]

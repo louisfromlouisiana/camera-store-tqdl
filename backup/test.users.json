@@ -1,0 +1,200 @@
+[{
+  "_id": {
+    "$oid": "666a5d90a44ce9b23732db22"
+  },
+  "id": 1,
+  "name": "linh",
+  "email": "duylinhquonlong@gmail.com",
+  "password": "$2a$10$cdIIre763QwDKXw9J8KhpudTnakLXwp5umbs7u7k0SnUQpOsp.C5S",
+  "image": {
+    "name": "avatar_trang.jpg",
+    "url": "public/avatar-trang.jpg"
+  },
+  "role": {
+    "$oid": "6636ed9cce2a2e490a971390"
+  },
+  "isVerified": true,
+  "verify": {
+    "code": "dc24",
+    "verified_at": {
+      "$date": "2024-06-13T02:47:30.616Z"
+    },
+    "expired": {
+      "$date": "2024-06-13T02:51:40.207Z"
+    }
+  },
+  "isBanned": false,
+  "created_at": {
+    "$date": "2024-06-13T02:46:40.224Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-13T02:46:40.224Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6685211e8ae43f9d91441f37"
+  },
+  "id": 2,
+  "name": "louis",
+  "email": "louislinhforlouis@gmail.com",
+  "password": "$2a$10$uuQSBtoQ6lwatrfL8m.osOtpGrrz8PTi6bgnYF7DoRxsDKtUAbn1C",
+  "image": {
+    "name": "avatar_trang.jpg",
+    "url": "public/avatar-trang.jpg"
+  },
+  "role": {
+    "$oid": "6636ed3dce2a2e490a97138f"
+  },
+  "isVerified": true,
+  "verify": {
+    "code": "212d",
+    "verified_at": null,
+    "expired": {
+      "$date": "2024-07-03T10:04:58.748Z"
+    }
+  },
+  "isBanned": false,
+  "created_at": {
+    "$date": "2024-07-03T09:59:58.963Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-03T09:59:58.963Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66854df2c07a1343cb2c8ee4"
+  },
+  "id": 3,
+  "name": "linh tran",
+  "email": "linhquyen20110@gmail.com",
+  "password": "$2a$10$/zJS/NWsMhvvKwGJeEZ8Oe/kvK9L5J0Ezk4K/WeafGUQLaMBskef2",
+  "image": {
+    "name": "avatar_trang.jpg",
+    "url": "public/avatar-trang.jpg"
+  },
+  "role": {
+    "$oid": "6636ed9cce2a2e490a971390"
+  },
+  "isVerified": true,
+  "verify": {
+    "code": "26ad",
+    "verified_at": {
+      "$date": "2024-07-03T13:11:37.259Z"
+    },
+    "expired": {
+      "$date": "2024-07-03T13:16:14.132Z"
+    }
+  },
+  "isBanned": false,
+  "created_at": {
+    "$date": "2024-07-03T13:11:14.354Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-09T10:35:06.583Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6686d004889cb23725e31d16"
+  },
+  "id": 4,
+  "name": "Linh",
+  "email": "linhoioilinh@gmail.com",
+  "password": "$2a$10$lLHY4FqBedgZFwj6QknlvuA20LfO04mmgCuVdUV2lumynPOTW2b5.",
+  "image": {
+    "name": "avatar_trang.jpg",
+    "url": "public/avatar-trang.jpg"
+  },
+  "role": {
+    "$oid": "6636ed3dce2a2e490a97138f"
+  },
+  "isVerified": true,
+  "verify": {
+    "code": "15ca",
+    "verified_at": null,
+    "expired": {
+      "$date": "2024-07-04T16:43:27.945Z"
+    }
+  },
+  "isBanned": false,
+  "created_at": {
+    "$date": "2024-07-04T16:38:28.013Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-08T17:39:55.584Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6687e40ad65de10e6833dbdf"
+  },
+  "id": 5,
+  "name": "Po",
+  "email": "thiquyen2292@gmail.com",
+  "password": "$2a$10$I1I6vKSWOrXPZ/B1lmDGZuGtkoaiieTPKjaKV1QCHordvN7Y5vVLW",
+  "image": {
+    "name": "1720185882620-709474308-1701657988417_8.PNG",
+    "url": "public/uploads/1720185882620-709474308-1701657988417_8.PNG"
+  },
+  "role": {
+    "$oid": "6636ed9cce2a2e490a971390"
+  },
+  "isVerified": true,
+  "verify": {
+    "code": "58ee",
+    "verified_at": {
+      "$date": "2024-07-05T12:16:26.588Z"
+    },
+    "expired": {
+      "$date": "2024-07-05T12:21:10.553Z"
+    }
+  },
+  "isBanned": false,
+  "created_at": {
+    "$date": "2024-07-05T12:16:10.651Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-07T20:37:18.446Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6687f7c19bfb574b62bca185"
+  },
+  "id": 6,
+  "name": "Thao Quyen",
+  "email": "loplymaidinh@gmail.com",
+  "password": "$2a$10$kCdMCD.bAP1cFvbuRGLJFOoaC94FX0eCa6JYp3iP24EhS2k8wigy.",
+  "image": {
+    "name": "1720381782948-664791948-final-CUSTOMER.drawio.png",
+    "url": "public/uploads/1720381782948-664791948-final-CUSTOMER.drawio.png"
+  },
+  "role": {
+    "$oid": "6636ed3dce2a2e490a97138f"
+  },
+  "isVerified": true,
+  "verify": {
+    "code": "d8c5",
+    "verified_at": {
+      "$date": "2024-07-05T13:41:12.387Z"
+    },
+    "expired": {
+      "$date": "2024-07-05T13:45:17.135Z"
+    }
+  },
+  "isBanned": false,
+  "created_at": {
+    "$date": "2024-07-05T13:40:17.205Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-07T19:49:43.005Z"
+  },
+  "__v": 0
+}]

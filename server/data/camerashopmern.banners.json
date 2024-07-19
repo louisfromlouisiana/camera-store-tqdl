@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "663b87be2405f0b2d896cb05"
+  },
+  "title": "Fingerprint Door Access",
+  "content": "Fingerprint Door Access",
+  "image": {
+    "name": "1715242277933-958203195-slide-03.jpg.webp",
+    "url": "public\\uploads\\1715242277933-958203195-slide-03.jpg.webp"
+  },
+  "category": {
+    "$oid": "6637a8efbb3903747fa8b41e"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663c84f43a5fd07137e308f3"
+  },
+  "title": "Home Automation System",
+  "content": "Home Automation System",
+  "image": {
+    "name": "1715242228077-292428621-slide-01.jpg.webp",
+    "url": "public\\uploads\\1715242228077-292428621-slide-01.jpg.webp"
+  },
+  "category": {
+    "$oid": "663c837830bb5ca66a4968b0"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663c85133a5fd07137e308f8"
+  },
+  "title": "Antenna Tagging System",
+  "content": "Antenna Tagging System",
+  "image": {
+    "name": "1715242259252-257822691-slide-02.jpg.webp",
+    "url": "public\\uploads\\1715242259252-257822691-slide-02.jpg.webp"
+  },
+  "category": {
+    "$oid": "663c84b53a5fd07137e308ce"
+  },
+  "__v": 0
+}]

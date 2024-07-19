@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "666027a3ca86f6cbd61082a7"
+  },
+  "name": "cameras",
+  "image": {
+    "name": "1717578338857-174544069-_53e9df43-640a-49d7-a0b4-c86a2fb5002f.jpeg",
+    "url": "public/uploads/1717578338857-174544069-_53e9df43-640a-49d7-a0b4-c86a2fb5002f.jpeg"
+  },
+  "title": "Discover Your Perfect Camera",
+  "content": "From DSLRs to Mirrorless: Find Your Perfect Camera.",
+  "created_at": {
+    "$date": "2024-06-05T08:53:55.734Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-09T05:15:55.960Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66602941ca86f6cbd61082c0"
+  },
+  "name": "lenses",
+  "image": {
+    "name": "1717578073629-167113331-_b0515a7c-67bf-4ef3-8f8e-5990f27b40d0.jpeg",
+    "url": "public/uploads/1717578073629-167113331-_b0515a7c-67bf-4ef3-8f8e-5990f27b40d0.jpeg"
+  },
+  "title": "Lens Up Your Creativity!",
+  "content": "Zoom In, Zoom Out: Lens Variety for Every Shot",
+  "created_at": {
+    "$date": "2024-06-05T09:00:49.642Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-09T05:16:43.200Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66602a90ca86f6cbd61082dc"
+  },
+  "name": "accessories",
+  "image": {
+    "name": "1717578384578-337995209-_22e04ad3-5e32-4f95-b381-c2fa06b505db.jpeg",
+    "url": "public/uploads/1717578384578-337995209-_22e04ad3-5e32-4f95-b381-c2fa06b505db.jpeg"
+  },
+  "title": "Accessorize Your Gear: Discover Camera Accessories!",
+  "content": "Upgrade Your Photography Game Today!",
+  "created_at": {
+    "$date": "2024-06-05T09:06:24.579Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-09T05:17:49.086Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,336 @@
+[{
+  "_id": {
+    "$oid": "665c82c0c14ec6d979234d64"
+  },
+  "user": {
+    "$oid": "665825e814dece2cf5fbff93"
+  },
+  "province": {
+    "$oid": "60eaaa6f1173335842c35668"
+  },
+  "district": {
+    "$oid": "60eaaa6f1173335842c3561c"
+  },
+  "ward": {
+    "$oid": "60eaaa731173335842c36f98"
+  },
+  "address": "D1",
+  "phone": "0987654321",
+  "isDefault": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665c876c673e4bc74e421d49"
+  },
+  "user": {
+    "$oid": "665757dcae0c2f16275d1d21"
+  },
+  "province": {
+    "$oid": "60eaaa6f1173335842c35639"
+  },
+  "district": {
+    "$oid": "60eaaa6f1173335842c35409"
+  },
+  "ward": {
+    "$oid": "60eaaa6e1173335842c34e51"
+  },
+  "address": "D2",
+  "phone": "0897211326",
+  "isDefault": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6663280a2abce52ea4fcc7a7"
+  },
+  "user": {
+    "$oid": "665825e814dece2cf5fbff93"
+  },
+  "province": {
+    "$oid": "60eaaa6f1173335842c35668"
+  },
+  "district": {
+    "$oid": "60eaaa6f1173335842c3561e"
+  },
+  "ward": {
+    "$oid": "60eaaa731173335842c36fab"
+  },
+  "address": "d8",
+  "phone": "0893748978",
+  "isDefault": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665c84f9673e4bc74e421c10"
+  },
+  "user": {
+    "$oid": "665825e814dece2cf5fbff93"
+  },
+  "province": {
+    "$oid": "60eaaa6f1173335842c35639"
+  },
+  "district": {
+    "$oid": "60eaaa6f1173335842c35409"
+  },
+  "ward": {
+    "$oid": "60eaaa6e1173335842c34e48"
+  },
+  "address": "D2",
+  "phone": "0234189654",
+  "isDefault": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665ddb01e64bd1e2b175e432"
+  },
+  "user": {
+    "$oid": "665825e814dece2cf5fbff93"
+  },
+  "province": {
+    "$oid": "60eaaa6f1173335842c3562e"
+  },
+  "district": {
+    "$oid": "60eaaa6f1173335842c353a0"
+  },
+  "ward": {
+    "$oid": "60eaaa6e1173335842c34798"
+  },
+  "address": "D8",
+  "phone": "0789212757",
+  "isDefault": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666164ae3817cae8fed84acc"
+  },
+  "user": {
+    "$oid": "665825e814dece2cf5fbff93"
+  },
+  "province": {
+    "$oid": "60eaaa6f1173335842c3562e"
+  },
+  "district": {
+    "$oid": "60eaaa6f1173335842c353a0"
+  },
+  "ward": {
+    "$oid": "60eaaa6e1173335842c34796"
+  },
+  "address": "D3",
+  "phone": "0998887543",
+  "isDefault": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666164e23817cae8fed84adc"
+  },
+  "user": {
+    "$oid": "665825e814dece2cf5fbff93"
+  },
+  "province": {
+    "$oid": "60eaaa6f1173335842c35665"
+  },
+  "district": {
+    "$oid": "60eaaa6f1173335842c35603"
+  },
+  "ward": {
+    "$oid": "60eaaa731173335842c36ea1"
+  },
+  "address": "d7",
+  "phone": "0765812464",
+  "isDefault": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666a5f30a44ce9b23732dd83"
+  },
+  "user": {
+    "$oid": "666a5df1a44ce9b23732dc14"
+  },
+  "province": {
+    "$oid": "60eaaa6f1173335842c35668"
+  },
+  "district": {
+    "$oid": "60eaaa6f1173335842c3561f"
+  },
+  "ward": {
+    "$oid": "60eaaa731173335842c36fb6"
+  },
+  "address": "D1",
+  "phone": "0987654321",
+  "isDefault": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66853225b5775de0b52a4106"
+  },
+  "user": {
+    "$oid": "666a5df1a44ce9b23732dc14"
+  },
+  "province": {
+    "$oid": "60eaaa6f1173335842c35663"
+  },
+  "district": {
+    "$oid": "60eaaa6f1173335842c355e5"
+  },
+  "ward": {
+    "$oid": "60eaaa721173335842c36d5c"
+  },
+  "address": "456",
+  "phone": "0186868840",
+  "isDefault": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66869afa889cb23725e316b4"
+  },
+  "user": {
+    "$oid": "66858fee65712ed626494457"
+  },
+  "province": {
+    "$oid": "60eaaa6f1173335842c35631"
+  },
+  "district": {
+    "$oid": "60eaaa6f1173335842c353bc"
+  },
+  "ward": {
+    "$oid": "60eaaa6e1173335842c3495f"
+  },
+  "address": "dsadsadas",
+  "phone": "0334115449",
+  "isDefault": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6686d0c3889cb23725e31d5e"
+  },
+  "user": {
+    "$oid": "6686d004889cb23725e31d16"
+  },
+  "province": {
+    "$oid": "60eaaa6f1173335842c35668"
+  },
+  "district": {
+    "$oid": "60eaaa6f1173335842c3561e"
+  },
+  "ward": {
+    "$oid": "60eaaa731173335842c36fac"
+  },
+  "address": "D1",
+  "phone": "0987654213",
+  "isDefault": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6687e53bd65de10e6833dcac"
+  },
+  "user": {
+    "$oid": "6687e40ad65de10e6833dbdf"
+  },
+  "province": {
+    "$oid": "60eaaa6f1173335842c3565f"
+  },
+  "district": {
+    "$oid": "60eaaa6f1173335842c355bf"
+  },
+  "ward": {
+    "$oid": "60eaaa721173335842c36b57"
+  },
+  "address": "456",
+  "phone": "1234567890",
+  "isDefault": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6687fedfde5cb349e824c942"
+  },
+  "user": {
+    "$oid": "6687f7c19bfb574b62bca185"
+  },
+  "province": {
+    "$oid": "60eaaa6f1173335842c3565f"
+  },
+  "district": {
+    "$oid": "60eaaa6f1173335842c355c0"
+  },
+  "ward": {
+    "$oid": "60eaaa721173335842c36b63"
+  },
+  "address": "123",
+  "phone": "0186868840",
+  "isDefault": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6688025e52e3aef5b804d619"
+  },
+  "user": {
+    "$oid": "66858fee65712ed626494457"
+  },
+  "province": {
+    "$oid": "60eaaa6f1173335842c35657"
+  },
+  "district": {
+    "$oid": "60eaaa6f1173335842c35567"
+  },
+  "ward": {
+    "$oid": "60eaaa721173335842c366e1"
+  },
+  "address": "dsada",
+  "phone": "0334115449",
+  "isDefault": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668836bc5e7bc3172517d003"
+  },
+  "user": {
+    "$oid": "6687e40ad65de10e6833dbdf"
+  },
+  "province": {
+    "$oid": "60eaaa6f1173335842c35663"
+  },
+  "district": {
+    "$oid": "60eaaa6f1173335842c355e7"
+  },
+  "ward": {
+    "$oid": "60eaaa721173335842c36d68"
+  },
+  "address": "456",
+  "phone": "0246813579",
+  "isDefault": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668af3ab5e7bc3172517e612"
+  },
+  "user": {
+    "$oid": "6687f7c19bfb574b62bca185"
+  },
+  "province": {
+    "$oid": "60eaaa6f1173335842c35663"
+  },
+  "district": {
+    "$oid": "60eaaa6f1173335842c355ed"
+  },
+  "ward": {
+    "$oid": "60eaaa721173335842c36dc1"
+  },
+  "address": "D1",
+  "phone": "0123456789",
+  "isDefault": false,
+  "__v": 0
+}]

@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "668c220e5e7bc3172517f9a1"
+  },
+  "title": "Explore Our Camera Collection!",
+  "content": "Discover a world of photography with our premium cameras and accessories. From sleek mirrorless cameras to powerful DSLRs, we have the perfect gear for every enthusiast. Visit us today!",
+  "image": {
+    "name": "1720501734775-65241859-_d2b80708-a98e-4309-bcd3-e8cfe3ea8330.jpeg",
+    "url": "public/uploads/1720501734775-65241859-_d2b80708-a98e-4309-bcd3-e8cfe3ea8330.jpeg"
+  },
+  "category": {
+    "$oid": "666027a3ca86f6cbd61082a7"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668c225d5e7bc3172517f9d5"
+  },
+  "title": "Lens Up Your World!",
+  "content": "Explore our curated collection of cameras, lenses, and accessories.",
+  "image": {
+    "name": "1720501677169-537326263-_86e32d16-7ea3-4e57-bb73-167f4d8c1e6d.jpeg",
+    "url": "public/uploads/1720501677169-537326263-_86e32d16-7ea3-4e57-bb73-167f4d8c1e6d.jpeg"
+  },
+  "category": {
+    "$oid": "66602941ca86f6cbd61082c0"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668c227a5e7bc3172517f9da"
+  },
+  "title": "Picture Perfect Moments Await!",
+  "content": "Step into our camera wonderland! Discover cutting-edge cameras, tripods, and lighting equipment.",
+  "image": {
+    "name": "1720501744986-449592482-_286d6eeb-6dd6-4912-a21e-a9518ca943d8.jpeg",
+    "url": "public/uploads/1720501744986-449592482-_286d6eeb-6dd6-4912-a21e-a9518ca943d8.jpeg"
+  },
+  "category": {
+    "$oid": "66602a90ca86f6cbd61082dc"
+  },
+  "__v": 0
+}]
