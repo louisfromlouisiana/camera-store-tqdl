@@ -22,11 +22,3 @@ TRƯỜNG HỢP NẾU WEB DEPLOY ĐÃ TẢI GIAO DIỆN NHƯNG VẪN KHÔNG HI�
 *Thông tin tài khoản để sử dụng:
 - User: linhoioilinh@gmail.com / linhoioilinH
 - Admin: linhquyen20110@gmail.com / linhquyenOI
-
-------------------------------------------------------------------------
-*Thông tin thanh toán VNPAY:
-- Ngân hàng: NCB
-- Số tài khoản: 9704198526191432198
-- Họ tên: NGUYEN VAN A
-- Ngày phát hành: 07/15
-- OTP: 123456
